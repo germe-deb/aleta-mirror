@@ -1,10 +1,10 @@
 # Aleta Postre 
 
-### A material icon pack featuring gradients, squares, and white icons!
+### A material icon pack featuring gradients, squares, and white symbolics!
 
 ![aleta](https://hg.sr.ht/~germe-fur/aleta-postre/raw/other/Screenshots/presentacion.png?rev=tip)
 
-this icon pack is on a WIP state.
+this icon pack is a Work in Progress
 
 # build from source
 
