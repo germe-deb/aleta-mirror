@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#00bcd4"/>
+        <path d="m8.8839 1106.8 0.44818-2.1478 1.9334 1.0359-0.68664-2.0841 2.1932-0.069-1.636-1.4611 1.8639-1.1574-2.1477-0.4481 1.0359-1.9334-2.0841 0.6866-0.069447-2.1932-1.4611 1.636-1.1573-1.864-0.44818 2.1478-1.9334-1.0359 0.68664 2.0841-2.1932 0.069 1.636 1.4611-1.8639 1.1574 2.1477 0.4481-1.0359 1.9334 2.0841-0.6866 0.069446 2.1932 1.4611-1.636z" fill="#fff" stroke-linecap="square" stroke-width=".56769" style="paint-order:markers stroke fill"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

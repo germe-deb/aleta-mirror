@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg shape-rendering="crispEdges" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008,1.0005)">
+        <path transform="translate(-1.0008,-1.0005)" d="m4 2c-1.662 0-3 1.338-3 3v7h-1v2h3v-9c0-0.554 0.446-1 1-1h8c0.554 0 1 0.446 1 1v9h3v-2h-1v-7c0-1.662-1.338-3-3-3z" stroke-linecap="round" stroke-width=".8" style="paint-order:markers stroke fill"/>
+        <path d="m5.9992 4.9995v2h-2v2h2v2h2v-2h2v-2h-2v-2z" style="paint-order:markers stroke fill"/>
+    </g>
+</svg>

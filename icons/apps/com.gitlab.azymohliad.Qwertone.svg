@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#e91e63"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <g transform="translate(-22.32 1056.5)">
+            <g transform="matrix(.37187 0 0 .37187 38.802 63.239)"></g>
+        </g>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" fill="#fff">
+        <path transform="translate(-1.0008 -1.0005)" d="m5.5 4c-0.277 0-0.5 0.223-0.5 0.5v4c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-4c0-0.277-0.223-0.5-0.5-0.5h-7zm0 0.5h7v4h-7v-4z" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+        <path transform="translate(-1.0008 -1.0005)" d="m5.5 9.5c-0.277 0-0.5 0.223-0.5 0.5v3.5c0 0.277 0.223 0.5 0.5 0.5h0.68555c0.277 0 0.5-0.223 0.5-0.5v-2h-0.037109c-0.277 0-0.5-0.223-0.5-0.5v-1.5h-0.64844zm2.1406 0v1.5c0 0.277-0.223 0.5-0.5 0.5h-0.035156v2c0 0.277 0.223 0.5 0.5 0.5h0.68555c0.277 0 0.5-0.223 0.5-0.5v-2h-0.037109c-0.277 0-0.5-0.223-0.5-0.5v-1.5h-0.61328zm2.1074 0v1.5c0 0.277-0.223 0.5-0.5 0.5h-0.037109v2c0 0.277 0.223 0.5 0.5 0.5h0.68555c0.277 0 0.5-0.223 0.5-0.5v-2h-0.029296c-0.277 0-0.5-0.223-0.5-0.5v-1.5h-0.61914zm2.1113 0v1.5c0 0.277-0.223 0.5-0.5 0.5h-0.042969v2c0 0.277 0.223 0.5 0.5 0.5h0.68359c0.277 0 0.5-0.223 0.5-0.5v-3.5c0-0.277-0.223-0.5-0.5-0.5h-0.64062z" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8421" style="paint-order:markers stroke fill"/>
+        <rect x="5" y="5" width="1.5" height=".5" ry=".25" style="paint-order:markers stroke fill"/>
+        <rect x="6.5" y="4" width="1.5" height=".5" ry=".25" style="paint-order:markers stroke fill"/>
+        <rect x="8" y="5" width=".5" height=".5" ry=".25" style="paint-order:markers stroke fill"/>
+        <rect x="9" y="5" width=".5" height=".5" ry=".25" style="paint-order:markers stroke fill"/>
+        <rect x="5.5" y="6.5" width="2" height=".5" ry=".25" style="paint-order:markers stroke fill"/>
+        <rect x="8" y="6" width="2" height=".5" ry=".25" style="paint-order:markers stroke fill"/>
+        <rect x="9" y="4" width="2" height=".5" ry=".25" style="paint-order:markers stroke fill"/>
+        <rect x="10" y="5" width="1" height=".5" ry=".25" style="paint-order:markers stroke fill"/>
+        <rect x="10.5" y="6.5" width=".5" height=".5" ry=".25" style="paint-order:markers stroke fill"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

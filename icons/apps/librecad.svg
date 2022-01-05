@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#8bc34a"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)">
+        <g transform="matrix(.69591 0 0 .69591 -1.998 -1.9989)" fill="#fff" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="7.184" y="7.184" width="2.3947" height="2.3947" ry="0" stroke-width=".37795"/>
+            <rect x="19.157" y="19.157" width="2.3947" height="2.3947" ry="0" stroke-width=".37795"/>
+            <rect transform="rotate(-90)" x="-21.552" y="7.184" width="2.3947" height="2.3947" ry="0" stroke-width=".37795"/>
+            <rect transform="rotate(-90)" x="-9.5787" y="19.157" width="2.3947" height="2.3947" ry="0" stroke-width=".37795"/>
+            <path transform="matrix(1.437 0 0 1.437 1.4329 1.4347)" d="m9 4.6113c-1.7593 0.0042535-3.3394 1.0591-4.0254 2.6738h1.457c0.5715-0.85964 1.5343-1.3816 2.5703-1.3848 1.2048 0.0047397 2.2924 0.70772 2.7969 1.7969h1.3926c-0.56976-1.8328-2.2647-3.0859-4.1895-3.0859h-0.0019531zm-4.9961 3.1738v2.4297h2.2168v-0.41016h7.7773v-1.6074h-7.7773v-0.41211h-2.2168zm7.793 2.5195c-0.50534 1.0873-1.5933 1.7904-2.7969 1.7949-1.0362-0.00278-1.9986-0.52478-2.5703-1.3848h-1.4551c0.68572 1.6147 2.2663 2.671 4.0254 2.6758 1.9239 2.3e-5 3.619-1.2545 4.1895-3.0859h-1.3926z"/>
+        </g>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

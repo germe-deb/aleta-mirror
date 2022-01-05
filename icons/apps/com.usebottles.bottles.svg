@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#4caf6f"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)">
+        <g transform="matrix(.69592 0 0 .69592 -1.9992 -2.0141)" fill="#fff">
+            <path d="m8.5879 9.0977v0.62109h1.3828v-0.62109zm0 0.81445v2.0605h-0.80469a0.59867 0.59867 0 0 0-0.59961 0.59961v8.9805h4.1914v-3.2285h-2.7656v-4.1875h2.7656v-1.5645a0.59867 0.59867 0 0 0-0.59961-0.59961h-0.80469v-2.0605z" style="paint-order:markers stroke fill"/>
+            <path d="m13.096 7.2266v0.65625h1.3457v-0.65625zm0 0.7832v2.7656h0.07422a1.1973 1.1973 0 0 1-1.1973 1.1973v1.8867h3.5918v-1.8867a1.1973 1.1973 0 0 1-1.1973-1.1973h0.07422v-2.7656h-1.3457zm-1.123 6.0703v3.8965h3.5918v-3.8965zm0.92969 0.8457h1.3359v0.62305h0.58203v0.55469h0.48828v0.87109c-0.80376 0-1.6019 0.0025-2.4062 2e-3v-2.0508zm-0.92969 3.2715v3.3555h3.5918v-3.3555z" style="paint-order:markers stroke fill"/>
+            <path d="m17.678 9.627 0.22852 1.6875h1.9004l0.23047-1.6875h-2.3594zm0.29688 1.8262v1.2207a2.694 1.796 0 0 0-1.8105 1.6934v0.55859h5.3887v-0.55859a2.694 1.796 0 0 0-1.8105-1.6934v-1.2207h-1.7676zm-1.8105 4.6406v3.3438h5.3887v-3.3438zm0 3.6855v1.7734h5.3887v-1.7734z" style="paint-order:markers stroke fill"/>
+        </g>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

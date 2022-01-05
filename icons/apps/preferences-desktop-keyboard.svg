@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#607d8b"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)">
+        <path transform="translate(-1.0008 -1.0005)" d="m4.5332 5.8691c-0.29492 0-0.5332 0.23828-0.5332 0.5332v5.1973c0 0.29492 0.23828 0.53125 0.5332 0.53125h8.9355c0.29492 0 0.53125-0.23633 0.53125-0.53125v-5.1973c0-0.29492-0.23633-0.5332-0.53125-0.5332h-8.9355zm0.4668 0.99805h1.0684v1.0664h-1.0684v-1.0664zm1.6016 0h1.0664v1.0664h-1.0664v-1.0664zm1.5996 0h1.0664v1.0664h-1.0664v-1.0664zm1.5996 0h1.0664v1.0664h-1.0664v-1.0664zm1.5996 0h1.5996v2.666h-1.0664v-1.5996h-0.5332v-1.0664zm-6.4004 1.5996h1.6016v1.0664h-1.6016v-1.0664zm2.1348 0h1.0664v1.0664h-1.0664v-1.0664zm1.5996 0h1.0664v1.0664h-1.0664v-1.0664zm1.5996 0h1.0664v1.0664h-1.0664v-1.0664zm-5.334 1.5996h1.6016v1.0684h-1.6016v-1.0684zm2.1348 0h3.7324v1.0684h-3.7324v-1.0684zm4.2656 0h1.5996v1.0684h-1.5996v-1.0684z" fill="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-opacity=".11445" stroke-width="1.0216" style="paint-order:markers stroke fill"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

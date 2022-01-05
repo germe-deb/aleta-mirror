@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg shape-rendering="crispEdges" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008,1.0005)">
+        <rect x=".99916" y="1.9995" width="4" height="4" style="paint-order:markers stroke fill"/>
+        <rect x=".99916" y="7.9995" width="4" height="4" style="paint-order:markers stroke fill"/>
+        <rect x="6.9992" y="2.9995" width="6" height="2" style="paint-order:markers stroke fill"/>
+        <rect x="6.9992" y="8.9995" width="6" height="2" style="paint-order:markers stroke fill"/>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#e91e63"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)">
+        <path transform="translate(-1.0008 -1.0005)" d="m8.4355 4c-1.3549 0.034096-2.4355 1.1366-2.4355 2.5v4.5c0 1.662 1.338 3 3 3s3-1.338 3-3v-4.5c0-1.385-1.115-2.5-2.5-2.5h-0.25v1.0664c0.288 0.10555 0.5 0.38356 0.5 0.70312v1c0 0.31957-0.212 0.59953-0.5 0.70508v0.24414c0 0.15581-0.1115 0.28125-0.25 0.28125s-0.25-0.12544-0.25-0.28125v-0.24414c-0.28712-0.10603-0.5-0.38615-0.5-0.70508v-1c0-0.31893 0.21288-0.59709 0.5-0.70312v-1.0664h-0.25c-0.021641 0-0.042948-5.412e-4 -0.064453 0zm0.56445 1.5195c-0.1385 0-0.25 0.1115-0.25 0.25v1c0 0.1385 0.1115 0.25 0.25 0.25s0.25-0.1115 0.25-0.25v-1c0-0.1385-0.1115-0.25-0.25-0.25z" fill="#fff" style="paint-order:markers stroke fill"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

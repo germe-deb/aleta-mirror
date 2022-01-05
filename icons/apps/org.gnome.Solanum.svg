@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#f43f36"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)">
+        <path d="m7.4666 3-0.4779 0.38166-0.046463 0.93756-1.7224 0.59074 1.301 0.49782 0.13607 1.1632 0.98402-0.85127 1.3541 0.4414-0.45135-1.0189 1.1732-0.91598-2.1207-0.068035zm2.1605 1.8287-0.53598 0.41817 0.34847 0.78489 0.35511 0.80315-2.0311-0.6621-1.4769 1.2777-0.20908-1.7888-0.67537-0.25887a4.2479 4.248 0 0 0-1.6494 3.3487 4.2479 4.248 0 0 0 4.2464 4.248 4.2479 4.248 0 0 0 4.248-4.248 4.2479 4.248 0 0 0-2.6202-3.9228z" fill="#fff" style="paint-order:markers stroke fill"/>
+        <path d="m9.8875 8.1808-1.2515 1.5033c-0.30828 0.37031-1.192 0.35038-1.4799-0.30672-0.28786-0.65709 0.28894-1.3206 0.77786-1.2958z" fill="#f43f36" style="paint-order:markers stroke fill"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

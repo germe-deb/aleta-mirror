@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#222"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)">
+        <g transform="translate(-3e-5)">
+            <path transform="translate(-1.0008 -1.0005)" d="m4.5 5c-0.277 0-0.5 0.223-0.5 0.5v5c0 0.277 0.223 0.5 0.5 0.5h9c0.277 0 0.5-0.223 0.5-0.5v-5c0-0.277-0.223-0.5-0.5-0.5h-9zm0.5 1h8v4h-8v-4zm1.5 6c-0.277 0-0.5 0.223-0.5 0.5v0.5h6v-0.5c0-0.277-0.223-0.5-0.5-0.5h-5z" fill="#fff" style="paint-order:markers stroke fill"/>
+        </g>
+        <rect x="7.2404" y="9.5" width="1.5192" height="2" fill="#fff" stroke-linecap="square" stroke-width="1.2325" style="paint-order:markers stroke fill"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="5.0737395" y="8.1616402" fill="#ffffff" font-family="'Ubuntu Mono'" font-size="2.8648px" font-weight="bold" letter-spacing="0px" stroke-width=".071621" style="line-height:1.25" xml:space="preserve"><tspan x="5.0737395" y="8.1616402" fill="#ffffff" font-family="'Ubuntu Mono'" font-weight="bold" stroke-width=".071621">$_</tspan></text>
+</svg>

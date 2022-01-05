@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#4caf50"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" fill="#fff">
+        <path d="m4.2165 13.026c-0.28868-0.5-0.28868-2.5 0-3h1c0.28868 0.5 0.28868 2.5 0 3zm1.4707-0.5c0.28868-0.5 0-3.5 0-3.5h0.5s0.28868 3 0 3.5zm-1.5-3s-0.00153-3.6763 0-5.1758c8.429e-4 -0.82391 0.5-1.3242 0.5-1.3242s0.50084 0.50031 0.5 1.3242c-0.00153 1.4995 0 5.1758 0 5.1758z" stroke-linecap="round" stroke-linejoin="round" style="paint-order:markers stroke fill"/>
+        <path d="m7 2.9995c-0.831 0-1.5 0.669-1.5 1.5s0.669 1.5 1.5 1.5h1.5v-1.5c0-0.831-0.669-1.5-1.5-1.5zm3.5 0c-0.831 0-1.5 0.669-1.5 1.5v1.5h1.5c0.831 0 1.5-0.669 1.5-1.5s-0.669-1.5-1.5-1.5zm-3.5 0.5c0.554 0 1 0.446 1 1v1h-1c-0.554 0-1-0.446-1-1s0.446-1 1-1zm3.5 0c0.554 0 1 0.446 1 1s-0.446 1-1 1h-1v-1c0-0.554 0.446-1 1-1zm-2.7461 3c1e-7 0-0.36158 2.5763-0.29492 4.1973 0.054346 1.3215 1.041 2.3027 1.041 2.3027v-6.5zm1.2461 0v6.5s0.98862-0.98125 1.043-2.3027c0.066661-1.6209-0.29492-4.1973-0.29492-4.1973z" style="paint-order:markers stroke fill"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#795548"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)">
+        <path transform="translate(-1.0008 -1.0005)" d="m6 5.3047c-0.554 0-0.99993 0.446-1 1v6.6953c-6.98e-5 0.554 0.446 1 1 1h6c0.554 0 0.99993-0.446 1-1v-6.6953c7e-5 -0.554-0.446-1-1-1h-0.5c0 0.54535-0.45465 1-1 1h-3c-0.54535 0-1-0.45465-1-1h-0.5zm0.24219 1.6953h5.5176c0.13382 0 0.24023 0.10837 0.24023 0.24219v5.5176c0 0.13382-0.10642 0.24023-0.24023 0.24023h-5.5176c-0.13382 0-0.24219-0.10642-0.24219-0.24023v-5.5176c0-0.13382 0.10837-0.24219 0.24219-0.24219z" fill="#fff" style="paint-order:markers stroke fill"/>
+        <g transform="translate(-1.0008 -1.0005)">
+            <path d="m9.0008 4.0005c-0.44408 8.042e-4 -0.80388 0.3606-0.80469 0.80469h-0.69531c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h3c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-0.69336c-8.063e-4 -0.44484-0.3618-0.80496-0.80664-0.80469zm0 0.40234c0.2229-9.207e-4 0.40414 0.17944 0.4043 0.40234-1.588e-4 0.22291-0.18139 0.40326-0.4043 0.40234-0.22214-1.601e-4 -0.40218-0.1802-0.40234-0.40234 1.601e-4 -0.22214 0.1802-0.40218 0.40234-0.40234z" color="#000000" fill="#fff" stroke-linecap="square" stroke-linejoin="round" style="-inkscape-stroke:none;paint-order:markers stroke fill"/>
+        </g>
+        <rect x="6" y="7" width="4" height="1" ry="0" fill="#fff" style="paint-order:markers stroke fill"/>
+        <rect x="6" y="8.5" width="3" height="1" ry="0" fill="#fff" style="paint-order:markers stroke fill"/>
+        <rect x="6" y="10" width="3.5" height="1" ry="0" fill="#fff" style="paint-order:markers stroke fill"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 18.001 18" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1.0008 -1092.8)">
+        <rect x="9.5745e-5" y="1093.8" width="16" height="16" rx="1.5001" ry="1.5001" fill="#4caf50"/>
+        <path transform="translate(-1.0008 1092.8)" d="m2.5 1c-0.83103 0-1.5 0.66897-1.5 1.5v0.5c0-0.83103 0.66897-1.5 1.5-1.5h13c0.83103 0 1.5 0.66897 1.5 1.5v-0.5c0-0.83103-0.66897-1.5-1.5-1.5z" fill="#fff" opacity=".2"/>
+        <path d="m14.5 1109.8c0.83103 0 1.5-0.669 1.5-1.5v-0.5c0 0.831-0.66897 1.5-1.5 1.5h-13c-0.83103 0-1.5-0.669-1.5-1.5v0.5c0 0.831 0.66897 1.5 1.5 1.5z" opacity=".2"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)">
+        <g transform="matrix(.75822 0 0 .75822 -2.2193 -778.67)">
+            <g transform="translate(11.374,-9.0992)">
+                <path d="m-5.1562 1039.4h14.514v14.514h-14.514z" fill="none"/>
+            </g>
+        </g>
+        <path d="m3.8906 3c-0.49345 0-0.8906 0.39711-0.8906 0.8906v8.2188c0 0.49345 0.39711 0.8906 0.8906 0.8906h8.2188c0.49344 0 0.8906-0.39711 0.8906-0.8906v-8.2188c0-0.49345-0.39712-0.8906-0.8906-0.8906zm1.0432 1.9338h2.2645v2.2391h1.603v-2.2391h2.2645v2.2645h-2.2645v0.96689h1.2977v2.9007h-1.2977v-0.96689h-1.603v0.96689h-1.2977v-2.9007h1.2977v-0.96689h-2.2645z" fill="#fff" stroke-width="1.0598"/>
+    </g>
+    <g transform="translate(1.0008 1.0005)" display="none" fill="none" opacity=".8" stroke-width=".05">
+        <rect transform="rotate(90)" x="3.3425" y="-12.657" width="9.3148" height="9.3148" display="inline" opacity="1" stroke="#000"/>
+        <rect x="3" y="4" width="10" height="8" opacity="1" stroke="#0091ff" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect transform="rotate(90)" x="3" y="-12" width="10" height="8" display="inline" opacity="1" stroke="#00ff03" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>
