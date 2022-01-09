@@ -10,46 +10,47 @@ command -v parallel >/dev/null 2>&1 || { echo >&2 "I cannot continue without 'pa
 
 
 printf "${info_color}this scripts deletes the icon pack, and rebuild it again${reset_colors}\\n\\n"
-printf "${info_color}moving icons from icons to todo...${reset_colors}\\n"
-mv -u icons/apps/*.svg todo/apps/
-mv -u icons/places/*.svg todo/places/
-mv -u icons/categories/*.svg todo/categories/
-mv -u icons/devices/*.svg todo/devices/
-mv -u icons/status/*.svg todo/status/
-mv -u icons/mimetypes/*.svg todo/mimetypes/
-mv -u icons/actions/*.svg todo/actions/
-mv -u icons/actions-sym/*.svg todo/actions-sym/
-mv -u icons/animations/*.svg todo/animations/
 
 printf "${info_color}removing last build...${reset_colors}\\n"
-rm aleta -rf 
+rm _build/aleta -rf
 
 printf "${info_color}rebuilding folders...${reset_colors}\\n"
 ./tasks/rebuildfolders.sh
+
+printf "${info_color}making a copy of the files to build${reset_colors}\\n"
+
+cp icons/apps/*.svg        _build/icons-t/apps/
+cp icons/places/*.svg      _build/icons-t/places/
+cp icons/categories/*.svg  _build/icons-t/categories/
+cp icons/devices/*.svg     _build/icons-t/devices/
+cp icons/status/*.svg      _build/icons-t/status/
+cp icons/mimetypes/*.svg   _build/icons-t/mimetypes/
+cp icons/actions/*.svg     _build/icons-t/actions/
+cp icons/actions-sym/*.svg _build/icons-t/actions-sym/
+cp icons/animations/*.svg  _build/icons-t/animations/
 
 printf "${info_color}copying the index.theme...${reset_colors}\\n"
 cp other/index.theme aleta/index.theme
 
 printf "${info_color}starting link process...${reset_colors}\\n"
-./tasks/linkcall.sh &
+./tasks/linkcall.sh
 
 printf "${info_color}exporting all the icons...${reset_colors}\\n"
-./tasks/oldexport/export-places.sh
-./tasks/oldexport/export-apps.sh
-./tasks/oldexport/export-categories.sh
-./tasks/oldexport/export-devices.sh
-./tasks/oldexport/export-status.sh
-./tasks/oldexport/export-mimetypes.sh
-./tasks/oldexport/export-actions.sh
-./tasks/oldexport/export-sym-actions.sh
-./tasks/oldexport/export-animations.sh
+./tasks/export/export-places.sh
+./tasks/export/export-apps.sh
+./tasks/export/export-categories.sh
+./tasks/export/export-devices.sh
+./tasks/export/export-status.sh
+./tasks/export/export-mimetypes.sh
+./tasks/export/export-actions.sh
+./tasks/export/export-sym-actions.sh
+./tasks/export/export-animations.sh
 
 printf "${info_color}Launching misc commands${reset_colors}\\n"
 ./tasks/misc.sh
 
 printf "${info_color}Installing/Updating the install of aleta${reset_colors}\\n"
-rm -r ~/.icons/aleta
-mv aleta ~/.icons/aleta
+rm -rf ~/.icons/aleta
+cp -r _build/aleta ~/.icons/aleta
 
-printf "${comple_color}\\nF i n i s h e d${reset_colors}\\n"
-printf "${info_color}I hope you like my icon pack!${reset_colors}\\n"
+printf "${comple_color}\\ncompleted${reset_colors}\\n"

@@ -16,7 +16,7 @@ this icon pack is a Work in Progress
 
 	- TODO: example
 
-building for now takes at least 15 minutes, depending on your system resources this may vary. *PD: in my pc it takes 24 minutes*
+*note: the building process takes more or less 15 minutes*
 
 * apply
 

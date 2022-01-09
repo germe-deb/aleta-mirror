@@ -48,27 +48,27 @@ function order () {
 }
 
 function lipl () {
-	cd aleta/places/$1
-	./../../../tasks/link/linkplaces.sh
-	cd ../../..
+	cd _build/aleta/places/$1
+	../../../../tasks/link/linkplaces.sh
+	cd ../../../..
 }
 
 function liap () {
-	cd aleta/apps/$1
-	./../../../tasks/link/linkapps.sh
-	cd ../../..
+	cd _build/aleta/apps/$1
+	../../../../tasks/link/linkapps.sh
+	cd ../../../..
 }
 
 function lide () {
-	cd aleta/devices/$1
-	./../../../tasks/link/linkdevices.sh
-	cd ../../..
+	cd _build/aleta/devices/$1
+	../../../../tasks/link/linkdevices.sh
+	cd ../../../..
 }
 
 function lica () {
-	cd aleta/categories/$1
-	./../../../tasks/link/linkcategories.sh
-	cd ../../..
+	cd _build/aleta/categories/$1
+	../../../../tasks/link/linkcategories.sh
+	cd ../../../..
 }
 
 order
