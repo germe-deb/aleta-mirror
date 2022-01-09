@@ -29,9 +29,6 @@ cp icons/actions/*.svg     _build/icons-t/actions/
 cp icons/actions-sym/*.svg _build/icons-t/actions-sym/
 cp icons/animations/*.svg  _build/icons-t/animations/
 
-printf "${info_color}copying the index.theme...${reset_colors}\\n"
-cp other/index.theme aleta/index.theme
-
 printf "${info_color}starting link process...${reset_colors}\\n"
 ./tasks/linkcall.sh
 
