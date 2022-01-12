@@ -14,7 +14,7 @@ this icon pack is a Work in Progress
 
 * launch the build script
 
-	- TODO: example
+	- ./tasks/build-one.sh
 
 *note: the building process takes more or less 15 minutes*
 
