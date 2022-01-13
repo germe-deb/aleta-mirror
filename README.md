@@ -6,16 +6,21 @@
 
 this icon pack is a Work in Progress
 
+# Download
+
+You can use a release. go to releases in this page and download the lastest.
+
+for now there is only a prerelease. It will be nice if you want to contribute to the development.
+
 # build from source
 
-* clone this repo and enter to it
-
-	- TODO: example
-
-* launch the build script
-
-	- ./tasks/build-one.sh
-
+```
+# clone this repo and enter to it
+git clone https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre
+cd aleta-postre
+# launch the build script
+./tasks/build.sh
+```
 *note: the building process takes more or less 15 minutes*
 
 * apply
