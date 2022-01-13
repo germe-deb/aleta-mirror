@@ -48,6 +48,7 @@ printf "${info_color}Launching misc commands${reset_colors}\\n"
 
 printf "${info_color}Installing/Updating the install of aleta${reset_colors}\\n"
 rm -rf ~/.icons/aleta
-cp -r _build/aleta ~/.icons/aleta
+mkdir ~/.icons/aleta -p
+cp -r ./_build/aleta/* ~/.icons/aleta/
 
 printf "${comple_color}\\ncompleted${reset_colors}\\n"
