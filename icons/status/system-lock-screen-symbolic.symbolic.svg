@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="system-lock-screen-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
-   shape-rendering="crispEdges">
+   shape-rendering="crispEdges"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3766">Twelf Icon Template</title>
   <defs
@@ -1834,15 +1834,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="2.1354361"
-     inkscape:cy="14.071667"
+     inkscape:cx="9.75"
+     inkscape:cy="11.5625"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
@@ -1904,9 +1904,9 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="path1197"
-       style="opacity:1;fill:#000000;stroke-width:2;stroke-linecap:square;paint-order:markers stroke fill"
-       d="m 6.9483759,1.9995 c -1.6369893,0.027713 -2.9494534,1.3627761 -2.9492188,3 -6.72e-5,0.3289082 0,0.6675895 0,1 h -1 v 6 h 7.9999999 v -6 H 9.9991571 v -1 c 0,-1.6568542 -1.3431458,-3 -3,-3 -0.016927,-1.433e-4 -0.033854,-1.433e-4 -0.050781,0 z m 0.00195,1 c 0.016282,-1.987e-4 0.032553,-1.987e-4 0.048828,0 1.1045695,0 2,0.8954305 2,2 v 1 h -4 v -1 c -3.236e-4,-1.0857785 0.8657169,-1.9734918 1.951172,-2 z m 0.048828,5 c 0.5522847,0 1,0.4477153 1,1 0,0.5522847 -0.4477153,1 -1,1 -0.5522847,0 -1,-0.4477153 -1,-1 0,-0.5522847 0.4477153,-1 1,-1 z"
-       sodipodi:nodetypes="ccccccccsccccsccccsssss" />
+       id="rect1277"
+       style="fill:#000000;fill-opacity:1"
+       d="M 8 1 A 3 3 0 0 0 5 4 L 5 7 L 3 7 L 3 15 L 13 15 L 13 7 L 11 7 L 11 4 A 3 3 0 0 0 8 1 z M 8 2 A 2 2 0 0 1 10 4 L 10 7 L 6 7 L 6 4 A 2 2 0 0 1 8 2 z M 8 10 A 1 1 0 0 1 9 11 A 1 1 0 0 1 8 12 A 1 1 0 0 1 7 11 A 1 1 0 0 1 8 10 z "
+       transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>

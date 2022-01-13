@@ -22,6 +22,10 @@ this icon pack is a Work in Progress
 
 	go to your settings app and select aleta as the icon pack
 
+## Contributors
+
+	
+
 ## license
 
 the scripts on this project are licensed under the GNU GPL v3. See LICENSE

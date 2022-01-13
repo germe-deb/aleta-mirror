@@ -1833,16 +1833,16 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="18.377463"
-     inkscape:cy="8.2726059"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8.3085047"
+     inkscape:cy="8.5736697"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
@@ -1916,16 +1916,8 @@
      id="layer1"
      inkscape:label="icon 1">
     <path
-       id="path5514"
-       style="fill:#000000;stroke-width:0.06;stroke-linecap:round;paint-order:markers stroke fill;opacity:1;fill-opacity:0.25"
-       d="M 13.505859 2 L 11.773438 3.0761719 A 9.1481056 9.847168 0 0 1 11.773438 12.923828 L 13.505859 14 A 11.148106 12 0 0 0 13.505859 2 z " />
-    <path
-       id="path6037"
-       style="opacity:1;fill:#000000;stroke-width:0.06;stroke-linecap:round;paint-order:markers stroke fill;fill-opacity:0.25"
-       d="M 10.908203 3.6152344 L 9.1757812 4.6914062 A 6.1481056 6.6179194 0 0 1 9.1757812 11.308594 L 10.908203 12.384766 A 8.1481056 8.770752 0 0 0 10.908203 3.6152344 z " />
-    <path
-       id="path6041"
-       style="opacity:1;fill:#000000;stroke-width:0.06;stroke-linecap:round;paint-order:markers stroke fill;fill-opacity:0.25"
-       d="M 8.3105469 5.2285156 L 7 6.0429688 L 7 9.9570312 L 8.3105469 10.771484 A 5.1481056 5.541503 0 0 0 8.3105469 5.2285156 z " />
+       id="path1414"
+       style="fill:#000000;fill-opacity:0.25;stroke-width:1.18182"
+       d="M 13.392578 2 L 7 5.6914062 L 7 10.308594 L 13.392578 14 A 12 12 0 0 0 13.392578 2 z " />
   </g>
 </svg>

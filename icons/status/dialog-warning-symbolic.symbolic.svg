@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="network-wireless-signal-weak-symbolic.symbolic.svg"
+   sodipodi:docname="dialog-warning-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1825,18 +1825,6 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1617">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1613"
-         id="use1619"
-         width="100%"
-         height="100%"
-         transform="translate(0.1690353,-0.16903566)" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1846,8 +1834,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="7.4688154"
-     inkscape:cy="8.4852814"
+     inkscape:cx="7.2920387"
+     inkscape:cy="9.148194"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1863,7 +1851,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1915,39 +1903,13 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <g
-       inkscape:label="Clip"
-       id="g1613"
-       transform="rotate(45,6.7105953,6.8799745)" />
-    <g
-       transform="matrix(0.8480193,0.8480193,-0.8480193,0.8480193,6.9992178,-6.5687005)"
-       id="g12"
-       style="fill:#000000" />
     <path
-       style="opacity:1;fill:#000000;fill-opacity:0.25;stroke-width:2"
-       id="path1339"
-       sodipodi:type="arc"
-       sodipodi:cx="8.6456709"
-       sodipodi:cy="11.967773"
-       sodipodi:rx="12.000002"
-       sodipodi:ry="12.000002"
-       sodipodi:start="3.9269908"
-       sodipodi:end="5.2359878"
-       sodipodi:arc-type="slice"
-       d="M 0.16038802,3.4824909 A 12.000002,12.000002 0 0 1 14.645672,1.5754672 L 8.6456709,11.967773 Z"
-       transform="rotate(7.5460295)" />
-    <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:2"
-       id="path1524"
-       sodipodi:type="arc"
-       sodipodi:cx="8.6513586"
-       sodipodi:cy="11.967019"
-       sodipodi:rx="2.9999998"
-       sodipodi:ry="2.9999998"
-       sodipodi:start="3.9269908"
-       sodipodi:end="5.2359878"
-       sodipodi:arc-type="slice"
-       d="M 6.5300384,9.8456989 A 2.9999998,2.9999998 0 0 1 10.151359,9.3689431 L 8.6513586,11.967019 Z"
-       transform="rotate(7.5460295)" />
+       d="M 6.8665285,0.62891617 C 6.6922148,0.6674281 6.5428413,0.77896037 6.4563926,0.93514968 L 0.08295571,12.405293 c -0.24404257,0.439532 0.07418617,0.979465 0.57692293,0.978856 H 13.338436 c 0.502736,6.09e-4 0.820964,-0.539324 0.576922,-0.978856 L 7.5419221,0.93514968 C 7.40887,0.69541721 7.134572,0.57103866 6.8665705,0.62891617 Z M 5.9991571,3.9995 h 2 v 4.6307801 h -2 z m 0,6 h 2 v 2 h -2 z"
+       fill="#ffffff"
+       stroke-linejoin="round"
+       stroke-width="0.990754"
+       style="display:inline;fill:#000000;paint-order:markers stroke fill"
+       id="path21253"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
   </g>
 </svg>

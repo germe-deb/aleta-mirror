@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="network-wireless-signal-weak-symbolic.symbolic.svg"
+   sodipodi:docname="software-update-available-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1825,18 +1825,6 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1617">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1613"
-         id="use1619"
-         width="100%"
-         height="100%"
-         transform="translate(0.1690353,-0.16903566)" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1845,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.4688154"
-     inkscape:cy="8.4852814"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-2.298097"
+     inkscape:cy="19.003495"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1915,39 +1903,11 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <g
-       inkscape:label="Clip"
-       id="g1613"
-       transform="rotate(45,6.7105953,6.8799745)" />
-    <g
-       transform="matrix(0.8480193,0.8480193,-0.8480193,0.8480193,6.9992178,-6.5687005)"
-       id="g12"
-       style="fill:#000000" />
     <path
-       style="opacity:1;fill:#000000;fill-opacity:0.25;stroke-width:2"
-       id="path1339"
-       sodipodi:type="arc"
-       sodipodi:cx="8.6456709"
-       sodipodi:cy="11.967773"
-       sodipodi:rx="12.000002"
-       sodipodi:ry="12.000002"
-       sodipodi:start="3.9269908"
-       sodipodi:end="5.2359878"
-       sodipodi:arc-type="slice"
-       d="M 0.16038802,3.4824909 A 12.000002,12.000002 0 0 1 14.645672,1.5754672 L 8.6456709,11.967773 Z"
-       transform="rotate(7.5460295)" />
-    <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:2"
-       id="path1524"
-       sodipodi:type="arc"
-       sodipodi:cx="8.6513586"
-       sodipodi:cy="11.967019"
-       sodipodi:rx="2.9999998"
-       sodipodi:ry="2.9999998"
-       sodipodi:start="3.9269908"
-       sodipodi:end="5.2359878"
-       sodipodi:arc-type="slice"
-       d="M 6.5300384,9.8456989 A 2.9999998,2.9999998 0 0 1 10.151359,9.3689431 L 8.6513586,11.967019 Z"
-       transform="rotate(7.5460295)" />
+       d="M 6.9991371,-3.604686e-4 5.2491775,2.7694756 2.0499713,2.0503542 2.7690927,5.2467604 -7.4338e-4,6.99952 2.7690927,8.7522796 2.0499713,11.948686 5.2491775,11.232294 6.9991371,13.999471 8.7518967,11.232294 11.951103,11.948686 11.231981,8.7522796 13.999157,6.99952 11.231981,5.2467604 11.951103,2.0503542 8.7518967,2.7694756 Z M 9.6241612,6.9995068 7.9991571,6.9995 v 3 h -2 v -3 L 4.3741656,6.9995068 6.9991571,3.9995 Z"
+       fill="#ffffff"
+       style="stroke-width:1.39996;paint-order:markers stroke fill;fill:#000000"
+       id="path10"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
   </g>
 </svg>
