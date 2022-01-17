@@ -1974,16 +1974,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64"
-     inkscape:cx="10.445313"
-     inkscape:cy="9.9765625"
+     inkscape:zoom="11.313709"
+     inkscape:cx="5.3916892"
+     inkscape:cy="9.1039998"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -2035,10 +2035,11 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="background 1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="rect6072"
-       style="opacity:1;fill:url(#linearGradient6124);stroke-width:0.1;stroke-linecap:round;stroke-opacity:0.85122;paint-order:markers stroke fill;fill-opacity:1"
+       style="opacity:1;fill:url(#linearGradient6124);fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-opacity:0.85122;paint-order:markers stroke fill"
        d="m 6.5,2 2,2 h 7 A 1.5,1.5 45 0 1 17,5.5 v 9 A 1.5,1.5 135 0 1 15.5,16 H 2.5 A 1.5,1.5 45 0 1 1,14.5 V 3.5 A 1.5,1.5 135 0 1 2.5,2 Z"
        sodipodi:nodetypes="ccccccc"
        inkscape:path-effect="#path-effect7434"
@@ -2055,15 +2056,17 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="icon 1"
+     id="layer2"
+     inkscape:label="icon 2"
      style="display:inline">
-    <g
-       id="rect7686" />
     <path
-       id="rect1208"
-       style="display:inline;fill:#ffffff;stroke-width:7.07107;stroke-linejoin:round"
-       d="M 7.5,6 C 7.2230001,6 7,6.2230001 7,6.5 V 7 H 5.5 v 0.5 h 7 V 7 H 11 V 6.5 C 11,6.2230001 10.777,6 10.5,6 Z M 7.6464844,6.5 H 10.355469 C 10.436185,6.5 10.5,6.5657681 10.5,6.6464844 V 7 h -3 V 6.6464844 C 7.5,6.5657681 7.5657681,6.5 7.6464844,6.5 Z M 6,8 v 6 h 6 V 8 Z m 0.5,0.5 h 5 v 5 h -5 z M 7,9 v 4 H 8 V 9 Z m 1.5,0 v 4 h 1 V 9 Z M 10,9 v 4 h 1 V 9 Z" />
+       id="rect1741"
+       style="fill:#ffffff;stroke-width:2;stroke-linecap:square;paint-order:markers stroke fill"
+       d="M 7.5,6 C 7.223,6 7,6.223 7,6.5 V 7 H 5.5 v 0.5 h 2 3 2 V 7 H 11 V 6.5 C 11,6.223 10.777,6 10.5,6 Z m 0,0.5 h 3 V 7 h -3 z" />
+    <path
+       id="rect1834"
+       style="fill:#ffffff;stroke-width:2.19089;stroke-linecap:square;paint-order:markers stroke fill"
+       d="M 6 8 L 6 14 L 12 14 L 12 8 L 6 8 z M 6.5 8.5 L 7.75 8.5 L 7.75 13.5 L 6.5 13.5 L 6.5 8.5 z M 8.375 8.5 L 9.625 8.5 L 9.625 13.5 L 8.375 13.5 L 8.375 8.5 z M 10.25 8.5 L 11.5 8.5 L 11.5 13.5 L 10.25 13.5 L 10.25 8.5 z " />
   </g>
   <g
      inkscape:groupmode="layer"

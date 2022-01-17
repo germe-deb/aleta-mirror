@@ -1833,16 +1833,16 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="18.377463"
-     inkscape:cy="8.2726059"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-0.35355339"
+     inkscape:cy="3.0052038"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
@@ -1851,7 +1851,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1903,16 +1903,10 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <g
-       transform="matrix(1.1666667,0,0,1.1666667,-1.1665762,-1.1665833)"
-       id="g4" />
-    <g
-       transform="matrix(1.1666667,0,0,1.1666667,-1.1665762,-1.1665833)"
-       id="g4-3" />
     <path
-       id="rect2649"
-       style="fill:#000000;stroke-width:0.0607502;stroke-linecap:round;paint-order:markers stroke fill"
-       d="M 2.0566406 1 C 1.4957128 1 1.0449219 1.4507909 1.0449219 2.0117188 L 1.0449219 14.162109 C 1.0449219 14.723037 1.4957128 15.175781 2.0566406 15.175781 L 14.207031 15.175781 C 14.767959 15.175781 15.21875 14.723037 15.21875 14.162109 L 15.21875 2.0117188 C 15.21875 1.4507909 14.767959 1 14.207031 1 L 2.0566406 1 z M 2.0566406 2.0117188 L 14.207031 2.0117188 L 14.207031 14.162109 L 2.0566406 14.162109 L 2.0566406 2.0117188 z M 10.478516 4.1738281 A 1.3458129 1.3458129 0 0 0 9.1328125 5.5195312 A 1.3458129 1.3458129 0 0 0 10.478516 6.8652344 A 1.3458129 1.3458129 0 0 0 11.824219 5.5195312 A 1.3458129 1.3458129 0 0 0 10.478516 4.1738281 z M 7.1191406 8.6542969 L 3.0683594 13.150391 L 13.193359 13.150391 L 10.15625 9.7773438 L 9.1445312 10.902344 L 7.1191406 8.6542969 z "
+       id="rect2082"
+       style="fill:#000000;stroke:none;stroke-width:0.035;paint-order:markers stroke fill"
+       d="M 2 1 C 1.446 1 1 1.446 1 2 L 1 14 C 1 14.554 1.446 15 2 15 L 14 15 C 14.554 15 15 14.554 15 14 L 15 2 C 15 1.446 14.554 1 14 1 L 2 1 z M 11.5 3 A 1.5 1.5 0 0 1 13 4.5 A 1.5 1.5 0 0 1 11.5 6 A 1.5 1.5 0 0 1 10 4.5 A 1.5 1.5 0 0 1 11.5 3 z M 7 8 L 9 10.400391 L 10 9.1992188 L 13.568359 13.482422 L 2.4316406 13.482422 L 7 8 z "
        transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>
