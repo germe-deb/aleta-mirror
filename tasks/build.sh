@@ -26,7 +26,6 @@ cp icons/devices/*.svg     _build/icons-t/devices/
 cp icons/status/*.svg      _build/icons-t/status/
 cp icons/mimetypes/*.svg   _build/icons-t/mimetypes/
 cp icons/actions/*.svg     _build/icons-t/actions/
-cp icons/actions-sym/*.svg _build/icons-t/actions-sym/
 cp icons/animations/*.svg  _build/icons-t/animations/
 
 printf "${info_color}starting link process...${reset_colors}\\n"
@@ -40,7 +39,6 @@ printf "${info_color}exporting all the icons...${reset_colors}\\n"
 ./tasks/export/export-status.sh
 ./tasks/export/export-mimetypes.sh
 ./tasks/export/export-actions.sh
-./tasks/export/export-sym-actions.sh
 ./tasks/export/export-animations.sh
 
 printf "${info_color}Launching misc commands${reset_colors}\\n"
