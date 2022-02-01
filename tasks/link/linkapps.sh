@@ -159,4 +159,4 @@ ln -s keepassxc.png org.keepassxc.KeePassXC.png
 ln -s lmms.png io.lmms.LMMS.png
 ln -s glade.png org.gnome.Glade.png
 ln -s menu.png org.bluesabre.MenuLibre.png
-
+ln -s chrome.png com.google.Chrome.png
