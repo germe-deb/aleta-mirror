@@ -8,7 +8,6 @@ mkdir -p icons/devices
 mkdir -p icons/status
 mkdir -p icons/mimetypes
 mkdir -p icons/actions
-mkdir -p icons/actions-sym
 mkdir -p icons/ui
 mkdir -p icons/animations
 
@@ -19,7 +18,6 @@ mkdir -p _build/icons-t/categories
 mkdir -p _build/icons-t/devices
 mkdir -p _build/icons-t/status
 mkdir -p _build/icons-t/mimetypes
-mkdir -p _build/icons-t/actions-sym
 mkdir -p _build/icons-t/actions
 mkdir -p _build/icons-t/animations
 
@@ -30,7 +28,6 @@ mkdir -p _build/icons-e/categories
 mkdir -p _build/icons-e/devices
 mkdir -p _build/icons-e/status
 mkdir -p _build/icons-e/mimetypes
-mkdir -p _build/icons-e/actions-sym
 mkdir -p _build/icons-e/actions
 mkdir -p _build/icons-e/animations
 
@@ -41,7 +38,6 @@ mkdir -p _build/aleta/categories
 mkdir -p _build/aleta/devices
 mkdir -p _build/aleta/status
 mkdir -p _build/aleta/mimetypes
-mkdir -p _build/aleta/actions-sym
 mkdir -p _build/aleta/actions
 mkdir -p _build/aleta/animations
 
