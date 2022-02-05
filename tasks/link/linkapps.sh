@@ -143,7 +143,6 @@ ln -s system-monitor.png utilities-system-monitor.png
 ln -s org.gnome.Rhythmbox.png rhythmbox.png
 ln -s klavaro.png net.sourceforge.Klavaro.png
 ln -s gtk-select-color.png org.gnome.design.Palette.png
-ln -s preferences-desktop-font.png org.gnome.font-viewer.png
 ln -s cs-background.png preferences-desktop-wallpaper.png
 ln -s mintdrivers.png org.gnome.Firmware.png
 ln -s org.gnome.Calendar.png gnome-calendar.png
