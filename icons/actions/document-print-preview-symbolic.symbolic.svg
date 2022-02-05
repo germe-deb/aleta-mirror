@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="18.000843"
-   height="18.000355"
+   width="16"
+   height="16"
    id="svg2"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="system-software-install.svg"
+   sodipodi:docname="document-print-preview-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
+   shape-rendering="crispEdges"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,18 +22,6 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1983">
-      <stop
-         style="stop-color:#f1a62c;stop-opacity:1"
-         offset="0"
-         id="stop1979" />
-      <stop
-         style="stop-color:#e37921;stop-opacity:1"
-         offset="1"
-         id="stop1981" />
-    </linearGradient>
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1293,17 +1280,17 @@
        inkscape:collect="always" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : -10.21298 : 1"
+       inkscape:vp_x="0 : -12.213335 : 1"
        inkscape:vp_y="0 : 1066.6667 : 0"
-       inkscape:vp_z="1.0666667 : -10.21298 : 1"
-       inkscape:persp3d-origin="0.53333333 : -10.390757 : 1"
+       inkscape:vp_z="1.0666667 : -12.213335 : 1"
+       inkscape:persp3d-origin="0.53333333 : -12.391112 : 1"
        id="perspective3852" />
     <inkscape:perspective
        id="perspective3924"
-       inkscape:persp3d-origin="396.85039 : 363.4269 : 1"
-       inkscape:vp_z="793.70078 : 550.51351 : 1"
+       inkscape:persp3d-origin="396.85039 : 361.42655 : 1"
+       inkscape:vp_z="793.70078 : 548.51316 : 1"
        inkscape:vp_y="0 : 1066.6667 : 0"
-       inkscape:vp_x="0 : 550.51351 : 1"
+       inkscape:vp_x="0 : 548.51316 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        id="linearGradient3689-2">
@@ -1504,17 +1491,17 @@
        inkscape:collect="always" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : -10.21298 : 1"
+       inkscape:vp_x="0 : -12.213335 : 1"
        inkscape:vp_y="0 : 1066.6667 : 0"
-       inkscape:vp_z="1.0666667 : -10.21298 : 1"
-       inkscape:persp3d-origin="0.53333333 : -10.390757 : 1"
+       inkscape:vp_z="1.0666667 : -12.213335 : 1"
+       inkscape:persp3d-origin="0.53333333 : -12.391112 : 1"
        id="perspective3852-5" />
     <inkscape:perspective
        id="perspective3924-4"
-       inkscape:persp3d-origin="396.85039 : 363.4269 : 1"
-       inkscape:vp_z="793.70078 : 550.51351 : 1"
+       inkscape:persp3d-origin="396.85039 : 361.42655 : 1"
+       inkscape:vp_z="793.70078 : 548.51316 : 1"
        inkscape:vp_y="0 : 1066.6667 : 0"
-       inkscape:vp_x="0 : 550.51351 : 1"
+       inkscape:vp_x="0 : 548.51316 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        id="linearGradient2460"
@@ -1838,26 +1825,17 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1983"
-       id="linearGradient1985"
-       x1="8"
-       y1="1094.2729"
-       x2="8"
-       y2="1109.7729"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     pagecolor="#cacaca"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="13.147767"
-     inkscape:cy="9.7669124"
+     inkscape:cx="11.291611"
+     inkscape:cy="7.2478445"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1868,7 +1846,7 @@
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="false"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
@@ -1887,7 +1865,10 @@
      inkscape:snap-center="true"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     width="16px"
+     inkscape:showpageshadow="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1895,13 +1876,15 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="0.5"
-       spacingy="0.5"
+       spacingx="1"
+       spacingy="1"
        units="px"
-       originx="9.0008429"
-       originy="9.0005"
-       color="#5200ff"
-       opacity="0.0627451" />
+       originx="0"
+       originy="0"
+       color="#00a2ff"
+       opacity="0.05490196"
+       empcolor="#4300ff"
+       empopacity="0.08235294" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1909,86 +1892,45 @@
       <cc:Work
          rdf:about="">
         <dc:title>Twelf Icon Template</dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="background"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(1.0008429,-1092.7725)"
-     style="display:inline">
-    <path
-       id="rect4731-1"
-       style="display:inline;opacity:1;fill:url(#linearGradient1985);stroke-width:0.0468842;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
-       d="M 2.0000006,1093.774 H 13.99893 c 1.107948,0 1.999906,0.892 1.999906,2 v 11.9989 c 0,1.1079 -0.891958,1.9999 -1.999906,1.9999 H 2.0000006 c -1.1079475,0 -1.999905232568,-0.892 -1.999905232568,-1.9999 v -11.9989 c 0,-1.108 0.891957732568,-2 1.999905232568,-2 z" />
-    <g
-       id="g4337"
-       transform="translate(-22.320454,1056.4942)">
-      <g
-         id="g4666"
-         transform="matrix(0.33600544,0,0,0.33600544,1.5295902,73.042549)" />
-      <g
-         id="g5363"
-         transform="matrix(0.37187349,0,0,0.37187349,38.801738,63.239042)">
-        <g
-           id="g5646"
-           transform="matrix(2.6890865,0,0,2.6890865,-82.905872,-48.450082)" />
-      </g>
-    </g>
-    <g
-       id="g4198"
-       transform="matrix(0.26264259,0,0,0.26264259,1.2201088,1094.2147)" />
-    <g
-       id="g6215"
-       transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
-    <path
-       id="rect2559"
-       style="display:inline;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0468876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 3.0019531,1 C 1.893925,1 0.99813395,1.8919735 1,3 l 8.429e-4,0.5005 c 0,-1.1080281 0.8919719,-2 2,-2 H 15.000843 c 1.108028,0 2,0.8919719 2,2 L 17,3 C 16.998134,1.8919735 16.108028,1 15,1 Z"
-       transform="translate(-1.0008429,1092.7725)"
-       sodipodi:nodetypes="sscsscsss" />
-    <path
-       id="path2777"
-       style="display:inline;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0468876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 13.998047,1109.773 c 1.108028,0 2.001953,-0.892 2.001953,-2 v -0.5 c 0,1.108 -0.891972,2 -2,2 H 2 c -1.108028,0 -2,-0.892 -2,-2 l 5.000001e-8,0.5 c 1.1080002e-7,1.108 0.89197199999999,2 2.00000004999999,2 z"
-       sodipodi:nodetypes="sscsscsss" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)"
-     style="display:inline">
-    <path
-       id="rect1296"
-       style="fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 5 5.5 L 5 11 L 13 11 L 13 5.5 L 10 5.5 L 10 6.5 L 12 6.5 L 12 10.5 L 6 10.5 L 6 6.5 L 8 6.5 L 8 5.5 L 5 5.5 z M 8.5 5.5 L 8.5 7.5 L 7.5 7.5 L 9.0019531 9.5019531 L 10.5 7.5 L 9.5 7.5 L 9.5 5.5 L 8.5 5.5 z M 4 11.5 L 4 12.5 L 14 12.5 L 14 11.5 L 4 11.5 z "
-       transform="translate(-1.0008429,-1.0005)" />
+     style="display:none">
     <g
-       id="rect1468" />
+       transform="matrix(1.4,0,0,1.4,-4.1997089,-4.1998)"
+       id="g12"
+       style="display:inline">
+      <path
+         transform="translate(-1.0008,-1.0005)"
+         d="M 6.5,4.5 V 6 h 5 V 4.5 Z m -2.0254,2 C 4.20969,6.513342 3.99999,6.73166 3.99999,7 v 4 c 0,0.277 0.223,0.5 0.5,0.5 h 1.5 V 9 h 6 v 2.5 h 1.5 c 0.277,0 0.5,-0.223 0.5,-0.5 V 7 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 h -9 c -0.00866,0 -0.016845,-4.304e-4 -0.025391,0 z M 13,7 A 0.5,0.5 0 0 1 13.5,7.5 0.5,0.5 0 0 1 13,8 0.5,0.5 0 0 1 12.5,7.5 0.5,0.5 0 0 1 13,7 Z M 6.5,9.5 v 4 h 5 v -4 z"
+         color="#000000"
+         fill="#ffffff"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.118"
+         style="-inkscape-stroke:none;paint-order:markers stroke fill"
+         id="path10" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="hint"
-     style="display:none;opacity:0.962927"
-     transform="translate(1.0008429,1.0005)"
-     sodipodi:insensitive="true">
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#003966;stroke-width:0.05;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3862"
-       width="10"
-       height="8"
-       x="3"
-       y="4" />
-    <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#006601;stroke-width:0.05;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3862-6"
-       width="10"
-       height="8"
-       x="3"
-       y="-12"
-       transform="rotate(90)" />
+     id="layer1"
+     inkscape:label="icon 1"
+     style="opacity:1">
+    <path
+       id="rect4484"
+       style="fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 5,1 v 2 h 6 V 1 Z M 2.1992188,4 C 1.5344185,4 1,4.5344186 1,5.1992188 V 10.800781 C 1,11.465581 1.5344187,12 2.1992188,12 H 4 V 9 h 8 v 3 h 1.800781 C 14.465581,12 15,11.465581 15,10.800781 V 5.1992188 C 15,4.5344187 14.465581,4 13.800781,4 Z M 13,5 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m -8,5 v 5 h 6 v -5 z"
+       sodipodi:nodetypes="cccccssssccccssssssssssccccc" />
+    <g
+       id="rect4532" />
   </g>
 </svg>
