@@ -14,13 +14,13 @@ function iconcount_get_numbers ()
 {
 	# get the numbers
 	
-	icons_total="$(find icons/apps/ icons/places/ icons/devices/ icons/categories/ icons/status/ icons/mimetypes/ icons/actions/ icons/actions-sym/ icons/animations/ -mindepth 1 -maxdepth 1 -not -path '*/\.*' | wc -l)"
+	icons_total="$(find icons/apps/ icons/places/ icons/devices/ icons/categories/ icons/status/ icons/mimetypes/ icons/actions/  icons/animations/ -mindepth 1 -maxdepth 1 -not -path '*/\.*' | wc -l)"
 	
 	# apps
 	icons_apps="$(find icons/apps/ -mindepth 1 -maxdepth 1 -not -path '*/\.*' | wc -l)"
 	
 	# actions
-	icons_actions="$(find icons/actions/ icons/actions-sym/ -mindepth 1 -maxdepth 1 -not -path '*/\.*' | wc -l)"
+	icons_actions="$(find icons/actions/  -mindepth 1 -maxdepth 1 -not -path '*/\.*' | wc -l)"
 	
 	# categories
 	icons_cate="$(find icons/categories/ -mindepth 1 -maxdepth 1 -not -path '*/\.*' | wc -l)"
