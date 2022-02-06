@@ -6,7 +6,7 @@
    height="18.000355"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="folder-pictures.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1974,14 +1974,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64"
-     inkscape:cx="10.445313"
-     inkscape:cy="9.9765625"
+     inkscape:zoom="22.627417"
+     inkscape:cx="11.954524"
+     inkscape:cy="10.982252"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -2035,7 +2035,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="background 1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        id="rect6072"
        style="opacity:1;fill:url(#linearGradient6124);fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-opacity:0.85122;paint-order:markers stroke fill"
@@ -2059,8 +2060,8 @@
      inkscape:label="icon 2">
     <path
        id="rect2649"
-       style="fill:#ffffff;stroke-width:0.0342857;stroke-linecap:round;paint-order:markers stroke fill"
-       d="M 5.5722656 6 C 5.2556941 6 5 6.2556941 5 6.5722656 L 5 13.427734 C 5 13.744306 5.2556941 14 5.5722656 14 L 12.427734 14 C 12.744306 14 13 13.744306 13 13.427734 L 13 6.5722656 C 13 6.2556941 12.744306 6 12.427734 6 L 5.5722656 6 z M 5.5722656 6.5722656 L 12.427734 6.5722656 L 12.427734 13.427734 L 5.5722656 13.427734 L 5.5722656 6.5722656 z M 10.324219 7.7910156 A 0.75953805 0.75953805 0 0 0 9.5644531 8.5507812 A 0.75953805 0.75953805 0 0 0 10.324219 9.3105469 A 0.75953805 0.75953805 0 0 0 11.083984 8.5507812 A 0.75953805 0.75953805 0 0 0 10.324219 7.7910156 z M 8.4277344 10.320312 L 6.1425781 12.857422 L 11.857422 12.857422 L 10.142578 10.955078 L 9.5722656 11.587891 L 8.4277344 10.320312 z " />
+       style="fill:#ffffff;stroke-width:0.0342857;stroke-linecap:round;paint-order:markers stroke fill;fill-opacity:1"
+       d="M 5.5722656 6 C 5.2556941 6 5 6.2556941 5 6.5722656 L 5 13.427734 C 5 13.744306 5.2556941 14 5.5722656 14 L 12.427734 14 C 12.744306 14 13 13.744306 13 13.427734 L 13 6.5722656 C 13 6.2556941 12.744306 6 12.427734 6 L 5.5722656 6 z M 10.324219 7.7910156 A 0.75953805 0.75953805 0 0 1 11.083984 8.5507812 A 0.75953805 0.75953805 0 0 1 10.324219 9.3105469 A 0.75953805 0.75953805 0 0 1 9.5644531 8.5507812 A 0.75953805 0.75953805 0 0 1 10.324219 7.7910156 z M 8.4277344 10.320312 L 9.5722656 11.587891 L 10.142578 10.955078 L 11.857422 12.857422 L 6.1425781 12.857422 L 8.4277344 10.320312 z " />
   </g>
   <g
      inkscape:groupmode="layer"
