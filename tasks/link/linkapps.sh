@@ -162,3 +162,4 @@ ln -s chrome.png com.google.Chrome.png
 ln -s org.gnome.TextEditor.png org.gnome.TextEditor.Devel.png
 ln -s org.gnome.World.Highscore.png org.gnome.World.Highscore.Devel.png
 ln -s gimp.png org.gimp.GIMP.png
+ln -s org.freedesktop.GnomeAbrt.png abrt.png
