@@ -31,7 +31,7 @@ cd aleta-postre
 
 ## Contributors
 
-	
+[Contributors list](./Contributors.md)	
 
 ## license
 
