@@ -37,5 +37,8 @@ cd aleta-postre
 
 the scripts on this project are licensed under the GNU GPL v3. See LICENSE
 	that license is also known as GPLv3
+![gpl image](https://www.gnu.org/graphics/gplv3-with-text-162x68.png)
+
 the assets in this work are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See LICENSE
 	that license is also known as CC-BY-SA-4.0
+![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
