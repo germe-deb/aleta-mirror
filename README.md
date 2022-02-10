@@ -8,12 +8,11 @@ this icon pack is a Work in Progress
 
 # Download
 
-You can use a release. go to releases in this page and download the lastest.
+You have 3 options:
 
-Take in mind that the releases are uploaded when there are considerable changes on the icon pack. if you want something rolling release like, you can:
-
-* build the icon pack from source
-* use a [nightly/unstable release](https://gitea.sergiotarxz.freemyip.com/sergiotarxz/AletaRelease)
+* Use a [release](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/releases)
+* build the icon pack [from source](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre#build-from-source)
+* use a [nightly/unstable release](https://gitea.sergiotarxz.freemyip.com/sergiotarxz/AletaReleaser)
 
 # build from source
 
