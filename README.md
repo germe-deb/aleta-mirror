@@ -10,9 +10,10 @@ this icon pack is a Work in Progress
 
 You can use a release. go to releases in this page and download the lastest.
 
-Take in mind that the releases are uploaded when there are considerable changes on the icon pack. if you want something rolling release like, build the icon pack from source
+Take in mind that the releases are uploaded when there are considerable changes on the icon pack. if you want something rolling release like, you can:
 
-for now there is only a prerelease. It will be nice if you want to contribute to the development.
+* build the icon pack from source
+* use a [nightly/unstable release](https://gitea.sergiotarxz.freemyip.com/sergiotarxz/AletaReleaser/releases)
 
 # build from source
 
