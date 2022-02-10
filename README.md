@@ -10,9 +10,10 @@ this icon pack is a Work in Progress
 
 You can use a release. go to releases in this page and download the lastest.
 
-Take in mind that the releases are uploaded when there are considerable changes on the icon pack. if you want something rolling release like, build the icon pack from source
+Take in mind that the releases are uploaded when there are considerable changes on the icon pack. if you want something rolling release like, you can:
 
-for now there is only a prerelease. It will be nice if you want to contribute to the development.
+* build the icon pack from source
+* use a [nightly/unstable release](https://gitea.sergiotarxz.freemyip.com/sergiotarxz/AletaRelease)
 
 # build from source
 
@@ -31,11 +32,16 @@ cd aleta-postre
 
 ## Contributors
 
-	
+[Contributors list](./Contributors.md)	
 
 ## license
 
 the scripts on this project are licensed under the GNU GPL v3. See LICENSE
 	that license is also known as GPLv3
+
+![gpl image](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)
+
 the assets in this work are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See LICENSE
 	that license is also known as CC-BY-SA-4.0
+
+![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)

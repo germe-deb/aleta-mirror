@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="template-icon.svg"
+   sodipodi:docname="io.github.divverent.aaaaxy.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -23,6 +23,18 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6832">
+      <stop
+         style="stop-color:#55ff55;stop-opacity:1"
+         offset="0"
+         id="stop6828" />
+      <stop
+         style="stop-color:#0000aa;stop-opacity:1"
+         offset="1"
+         id="stop6885" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1826,6 +1838,17 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6832"
+       id="radialGradient6834"
+       cx="7.9994655"
+       cy="1101.7734"
+       fx="7.9994655"
+       fy="1101.7734"
+       r="4.3998461"
+       gradientTransform="matrix(3.636612,0,0,3.636603,-21.091487,-2904.9391)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1834,9 +1857,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="9.40625"
-     inkscape:cy="9.0625"
+     inkscape:zoom="11.313709"
+     inkscape:cx="11.711456"
+     inkscape:cy="12.28598"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1848,7 +1871,7 @@
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -1899,7 +1922,7 @@
      style="display:inline">
     <path
        id="rect4731-1"
-       style="display:inline;opacity:1;fill:#2aa9c7;stroke-width:0.0468842;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       style="display:inline;opacity:1;fill:url(#radialGradient6834);stroke-width:0.0468842;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        d="M 2.0000006,1093.774 H 13.99893 c 1.107948,0 1.999906,0.892 1.999906,2 v 11.9989 c 0,1.1079 -0.891958,1.9999 -1.999906,1.9999 H 2.0000006 c -1.1079475,0 -1.999905232568,-0.892 -1.999905232568,-1.9999 v -11.9989 c 0,-1.108 0.891957732568,-2 1.999905232568,-2 z" />
     <g
        id="g4337"
@@ -1938,12 +1961,21 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)"
-     style="display:inline" />
+     style="display:inline">
+    <g
+       id="g4859">
+      <path
+         id="path4869"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.0781274"
+         d="m 2.9999997,3 v 8.751442 h 0.6254327 v 0.623125 H 4.2508652 V 13 h 7.5005768 v -0.311563 -0.31387 h 0.623125 V 11.751442 H 13 V 3 Z M 3.6254324,3.6254328 H 12.374567 V 11.12601 h -0.623125 v 0.625432 h -0.625433 v 0.623125 H 4.87399 V 11.751442 H 4.2508652 V 11.12601 H 3.6254324 Z M 6.1248555,4.2508654 V 4.8762982 H 5.4994228 V 5.4994231 H 4.87399 V 6.1248559 H 4.2508652 V 9.8751446 H 4.87399 v 0.6254324 h 0.6254328 v 0.625433 h 0.6254327 v 0.625432 H 9.8751437 V 11.12601 h 0.6254323 v -0.625433 h 0.625433 V 9.8751446 h 0.625433 V 6.1248559 H 11.126009 V 5.4994231 H 10.500576 V 4.8762982 H 9.8751437 V 4.2508654 Z m 0.6254327,0.6254328 h 2.4994232 v 0.6231249 h 0.6254323 v 0.6254328 h 0.6254323 v 0.6254327 h 0.625433 V 9.2497117 H 10.500576 V 9.8751446 H 9.8751437 V 10.500577 H 9.2497114 V 11.12601 H 6.7502882 V 10.500577 H 6.1248555 V 9.8751446 H 5.4994228 V 9.2497117 H 4.87399 V 6.7502886 H 5.4994228 V 6.1248559 H 6.1248555 V 5.4994231 H 6.7502882 Z M 7.375721,5.4994231 V 6.1248559 H 6.7502882 V 6.7502886 H 6.1248555 V 7.3757213 H 5.4994228 V 8.0011541 H 6.7502882 V 7.3757213 H 7.375721 V 10.500577 H 8.6242786 V 7.3757213 H 9.2497114 V 8.0011541 H 10.500576 V 7.3757213 H 9.8751437 V 6.7502886 H 9.2497114 V 6.1248559 H 8.6242786 V 5.4994231 Z"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="hint"
-     style="display:inline;opacity:0.962927"
+     style="display:none;opacity:0.962927"
      transform="translate(1.0008429,1.0005)"
      sodipodi:insensitive="true">
     <rect

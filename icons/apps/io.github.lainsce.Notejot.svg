@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="template-icon.svg"
+   sodipodi:docname="io.github.lainsce.Notejot.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -23,6 +23,18 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2277">
+      <stop
+         style="stop-color:#f8e45c;stop-opacity:1;"
+         offset="0"
+         id="stop2273" />
+      <stop
+         style="stop-color:#e5a50a;stop-opacity:1"
+         offset="1"
+         id="stop2275" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1826,6 +1838,15 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2277"
+       id="linearGradient2279"
+       x1="8"
+       y1="1092.2729"
+       x2="8"
+       y2="1111.2729"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1835,8 +1856,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="9.40625"
-     inkscape:cy="9.0625"
+     inkscape:cx="9.90625"
+     inkscape:cy="12.125"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1848,7 +1869,7 @@
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -1899,7 +1920,7 @@
      style="display:inline">
     <path
        id="rect4731-1"
-       style="display:inline;opacity:1;fill:#2aa9c7;stroke-width:0.0468842;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       style="display:inline;opacity:1;fill:url(#linearGradient2279);stroke-width:0.0468842;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        d="M 2.0000006,1093.774 H 13.99893 c 1.107948,0 1.999906,0.892 1.999906,2 v 11.9989 c 0,1.1079 -0.891958,1.9999 -1.999906,1.9999 H 2.0000006 c -1.1079475,0 -1.999905232568,-0.892 -1.999905232568,-1.9999 v -11.9989 c 0,-1.108 0.891957732568,-2 1.999905232568,-2 z" />
     <g
        id="g4337"
@@ -1938,12 +1959,24 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)"
-     style="display:inline" />
+     style="display:inline">
+    <g
+       fill="#241f31"
+       id="g1307"
+       transform="matrix(0.71428572,0,0,0.71428572,2.2857142,2.2857143)"
+       style="fill:#ffffff">
+      <path
+         id="path1301"
+         style="fill:#ffffff;stroke-width:0.714286"
+         d="M 6.1445312 4 C 5.3521205 4 4.7148438 4.6372768 4.7148438 5.4296875 L 4.7148438 12.572266 C 4.7148438 13.364676 5.3521205 14 6.1445312 14 L 11.144531 14 C 11.936942 14 12.572266 13.364676 12.572266 12.572266 L 12.572266 9.7148438 L 11.144531 11.142578 L 11.144531 12.572266 L 7.5722656 12.572266 L 7.5722656 5.4296875 L 11.144531 5.4296875 L 12.15625 4.4160156 C 11.896764 4.1593192 11.540737 4 11.144531 4 L 6.1445312 4 z M 6.1445312 5.4296875 L 6.8574219 5.4296875 L 6.8574219 12.572266 L 6.1445312 12.572266 L 6.1445312 5.4296875 z M 12.572266 5.4296875 L 8.2871094 9.7148438 L 8.2871094 11.142578 L 9.7148438 11.142578 L 14 6.8574219 L 12.572266 5.4296875 z "
+         transform="matrix(1.4,0,0,1.4,-4.6011799,-4.6007)" />
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="hint"
-     style="display:inline;opacity:0.962927"
+     style="display:none;opacity:0.962927"
      transform="translate(1.0008429,1.0005)"
      sodipodi:insensitive="true">
     <rect
