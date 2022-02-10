@@ -13,7 +13,7 @@ You can use a release. go to releases in this page and download the lastest.
 Take in mind that the releases are uploaded when there are considerable changes on the icon pack. if you want something rolling release like, you can:
 
 * build the icon pack from source
-* use a [nightly/unstable release](https://gitea.sergiotarxz.freemyip.com/sergiotarxz/AletaReleaser/releases)
+* use a [nightly/unstable release](https://gitea.sergiotarxz.freemyip.com/sergiotarxz/AletaRelease)
 
 # build from source
 
