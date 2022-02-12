@@ -2,7 +2,7 @@
 
 ### A material icon pack featuring gradients, squares, and white symbolics!
 
-![aleta](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/presentacion.png)
+![aleta](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/presentation-beta.png)
 
 this icon pack is a Work in Progress
 
