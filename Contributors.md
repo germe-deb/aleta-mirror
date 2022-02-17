@@ -1,11 +1,24 @@
 ## List of contributors
 
-[germedeb](https://gitea.sergiotarxz.freemyip.com/germedeb) - creator of the icon pack
-
-[Simon](https://gitea.sergiotarxz.freemyip.com/Simon) - making icons
-
-[sergiotarxz](https://gitea.sergiotarxz.freemyip.com/sergiotarxz) - coding
+* [germedeb](https://gitea.sergiotarxz.freemyip.com/germedeb) - creator of the icon pack
+* [Simon](https://gitea.sergiotarxz.freemyip.com/Simon) - making icons
+* [sergiotarxz](https://gitea.sergiotarxz.freemyip.com/sergiotarxz) - coding
 
 ## Forked from
 
-[Ameixa](https://gitlab.com/xphnx/ameixa) Minimalist material design inspired icon pack for Android
+#### Literally the project
+
+* [Ameixa](https://gitlab.com/xphnx/ameixa) Minimalist material design inspired icon pack for Android
+
+#### Structure of the resultant build
+
+* Adwaita icon theme
+* Moka icon theme
+
+## Inspiration
+
+* Adwaita icon theme
+* Mint-y icon theme
+* symbolic icons from Adwaita icon theme
+* Moka icon theme
+* Android adaptive icons

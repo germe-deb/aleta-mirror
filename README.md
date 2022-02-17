@@ -29,7 +29,7 @@ cd aleta-postre
 
 	go to your settings app and select aleta as the icon pack
 
-## Contributors
+## Credits
 
 [Contributors list](./Contributors.md)	
 
