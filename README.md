@@ -4,15 +4,15 @@
 
 ![aleta](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/presentation-beta.png)
 
-this icon pack is a Work in Progress
+This icon pack is strongly inspired in moka and ameixa, and a bit in adwaita.
+
+Now we are working in the redesign of the icon pack, and adding new apps to the list of icons.
 
 # Download
 
-You have 3 options:
-
-* Use a [release](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/releases)
-* build the icon pack [from source](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre#build-from-source)
-* use a [nightly/unstable release](https://gitea.sergiotarxz.freemyip.com/sergiotarxz/AletaReleaser)
+* [from a release](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/releases)
+* [build from source](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre#build-from-source)
+* [from a unstable release](https://gitea.sergiotarxz.freemyip.com/sergiotarxz/AletaReleaser)
 
 # build from source
 
