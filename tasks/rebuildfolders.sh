@@ -91,6 +91,7 @@ mkdir -p _build/aleta/status/64
 mkdir -p _build/aleta/status/96
 mkdir -p _build/aleta/status/128
 mkdir -p _build/aleta/status/256
+mkdir -p _build/aleta/status/scalable
 
 mkdir -p _build/aleta/mimetypes/8
 mkdir -p _build/aleta/mimetypes/16
