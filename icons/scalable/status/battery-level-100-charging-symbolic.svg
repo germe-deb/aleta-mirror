@@ -1834,7 +1834,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="7.7339804"
+     inkscape:cx="7.0710678"
      inkscape:cy="6.6291261"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
@@ -1903,33 +1903,10 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <rect
-       style="fill:#38b543;stroke:none;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1196"
-       width="14"
-       height="14"
-       x="-0.00084290002"
-       y="-0.00050000002" />
-    <rect
-       style="fill:#297fcc;stroke:none;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1242"
-       width="12"
-       height="7"
-       x="0.99915707"
-       y="0.99949998" />
-    <rect
-       style="fill:#d8362c;stroke:none;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1266"
-       width="2"
-       height="5"
-       x="5.999157"
-       y="7.9994998" />
-    <rect
-       style="fill:#d6c922;stroke:none;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1290"
-       width="2"
-       height="5"
-       x="10.999157"
-       y="7.9994998" />
+    <path
+       id="rect1360"
+       style="fill:#2ec26a;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 6 1 L 6 3 L 4 3 L 4 15 L 12 15 L 12 3 L 10 3 L 10 1 L 6 1 z "
+       transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>

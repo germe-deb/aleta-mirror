@@ -30,7 +30,7 @@ printf "${info_color}starting link process...${reset_colors}\\n"
 ./tasks/linkcall.sh
 
 printf "${info_color}exporting all the icons...${reset_colors}\\n"
-./tasks/export/export-places.sh
+./tasks/export/export-places.sh 
 ./tasks/export/export-apps.sh
 ./tasks/export/export-categories.sh
 ./tasks/export/export-devices.sh
@@ -42,7 +42,7 @@ printf "${info_color}exporting all the icons...${reset_colors}\\n"
 printf "${info_color}Launching misc commands${reset_colors}\\n"
 ./tasks/misc.sh
 
-printf "${info_color}Installing/Updating the install of aleta${reset_colors}\\n"
+printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
 rm -rf ~/.icons/aleta
 mkdir ~/.icons/aleta -p
 cp -r ./_build/aleta/* ~/.icons/aleta/
