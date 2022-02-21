@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="template-action-symbolic.svg"
+   sodipodi:docname="view-app-grid-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1833,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="6.8125"
-     inkscape:cy="8.34375"
+     inkscape:zoom="16"
+     inkscape:cx="15.5"
+     inkscape:cy="5.4375"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1902,5 +1902,82 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     transform="translate(1.0008429,1.0005)" />
+     transform="translate(1.0008429,1.0005)">
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6235"
+       width="2.0000002"
+       height="2.0000002"
+       x="5.999157"
+       y="5.9994998"
+       ry="0.50000018" />
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6237"
+       width="2.0000002"
+       height="2.0000002"
+       x="9.999157"
+       y="5.9994998"
+       ry="0.50000018" />
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6338"
+       width="2.0000002"
+       height="2.0000002"
+       x="5.999157"
+       y="1.9994998"
+       ry="0.50000018" />
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6340"
+       width="2.0000002"
+       height="2.0000002"
+       x="9.999157"
+       y="1.9994998"
+       ry="0.50000018" />
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6344"
+       width="2.0000002"
+       height="2.0000002"
+       x="9.999157"
+       y="9.9995003"
+       ry="0.50000018" />
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6426"
+       width="1.9999998"
+       height="1.9999998"
+       x="-3.999157"
+       y="-7.9994998"
+       ry="0.50000006"
+       transform="scale(-1)" />
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6428"
+       width="2.0000002"
+       height="2.0000002"
+       x="-7.9991574"
+       y="-11.9995"
+       ry="0.50000018"
+       transform="scale(-1)" />
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6430"
+       width="1.9999998"
+       height="1.9999998"
+       x="-3.9991572"
+       y="-11.999499"
+       ry="0.50000006"
+       transform="scale(-1)" />
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect6432"
+       width="1.9999998"
+       height="1.9999998"
+       x="-3.999157"
+       y="-3.9994998"
+       ry="0.50000006"
+       transform="scale(-1)" />
+  </g>
 </svg>

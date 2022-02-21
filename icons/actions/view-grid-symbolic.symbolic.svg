@@ -4,7 +4,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="view-grid-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1833,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="8.8830289"
-     inkscape:cy="8.0433396"
+     inkscape:zoom="32"
+     inkscape:cx="6.3125"
+     inkscape:cy="8.90625"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1909,27 +1909,31 @@
        width="6"
        height="6"
        x="-0.00084290002"
-       y="-0.00050000002" />
+       y="-0.00050000002"
+       ry="1" />
     <rect
        style="fill:#000000;fill-opacity:0.972549;stroke-width:0.15;stroke-linecap:square;paint-order:markers stroke fill"
        id="rect3445"
        width="6"
        height="6"
        x="7.999157"
-       y="-0.00050000002" />
+       y="-0.00050000002"
+       ry="1" />
     <rect
        style="fill:#000000;fill-opacity:0.972549;stroke-width:0.15;stroke-linecap:square;paint-order:markers stroke fill"
        id="rect3447"
        width="6"
        height="6"
        x="7.999157"
-       y="7.9994998" />
+       y="7.9994998"
+       ry="1.0000002" />
     <rect
        style="fill:#000000;fill-opacity:0.972549;stroke-width:0.15;stroke-linecap:square;paint-order:markers stroke fill"
        id="rect3449"
        width="6"
        height="6"
        x="-0.00084290002"
-       y="7.9994998" />
+       y="7.9994998"
+       ry="1.0000002" />
   </g>
 </svg>

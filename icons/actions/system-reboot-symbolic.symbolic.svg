@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="template-action-symbolic.svg"
+   sodipodi:docname="system-reboot-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1833,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="6.8125"
-     inkscape:cy="8.34375"
+     inkscape:zoom="22.627417"
+     inkscape:cx="7.4909125"
+     inkscape:cy="8.7062522"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1851,7 +1851,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1902,5 +1902,32 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     transform="translate(1.0008429,1.0005)" />
+     transform="translate(1.0008429,1.0005)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path3375"
+       sodipodi:type="arc"
+       sodipodi:cx="6.999157"
+       sodipodi:cy="6.9994998"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       sodipodi:start="5.2359878"
+       sodipodi:end="4.1887902"
+       sodipodi:arc-type="arc"
+       d="M 9.9991572,1.8033475 A 6,6 0 0 1 12.794712,8.5524143 6,6 0 0 1 6.999157,12.9995 6,6 0 0 1 1.203602,8.552414 6,6 0 0 1 3.9991569,1.8033474"
+       sodipodi:open="true" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect3443"
+       width="2.0000002"
+       height="6"
+       x="5.999157"
+       y="-0.00050000002"
+       ry="1" />
+    <path
+       id="rect3864"
+       style="stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 0.41505065,0.43690447 4.9991572,-5.0000002e-4 4.9991571,4.9050695 Z"
+       sodipodi:nodetypes="cccc" />
+  </g>
 </svg>
