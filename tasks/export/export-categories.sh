@@ -14,8 +14,7 @@ do
 		"inkscape -w 48 -h 48 -o    _build/aleta/categories/48/${N}.png ${SVG}" \
 		"inkscape -w 64 -h 64 -o    _build/aleta/categories/64/${N}.png ${SVG}" \
 		"inkscape -w 96 -h 96 -o    _build/aleta/categories/96/${N}.png ${SVG}" \
-		"inkscape -w 128 -h 128 -o  _build/aleta/categories/128/${N}.png ${SVG}" \
-		"inkscape -w 256 -h 256 -o  _build/aleta/categories/256/${N}.png ${SVG}" 
+		"inkscape -w 128 -h 128 -o  _build/aleta/categories/128/${N}.png ${SVG}"
 
 		mv ${SVG} _build/icons-e/categories/
 	fi
