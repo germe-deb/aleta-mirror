@@ -22,7 +22,7 @@ function order () {
 	liapps 96
 	liapps 128
 	liapps 256
-	liapps scalable
+#	liapps scalable
 
 	lidevices 16
 	lidevices 24
@@ -50,7 +50,7 @@ function order () {
 	listatus 96
 	listatus 128
 	listatus 256
-	listatus scalable
+#	listatus scalable
 	
 	liactions 8
 	liactions 16

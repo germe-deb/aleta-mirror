@@ -41,6 +41,7 @@ printf "${info_color}exporting all the icons...${reset_colors}\\n"
 
 printf "${info_color}Launching misc commands${reset_colors}\\n"
 ./tasks/misc.sh
+./tasks/mvscalable.sh
 
 printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
 rm -rf ~/.icons/aleta
