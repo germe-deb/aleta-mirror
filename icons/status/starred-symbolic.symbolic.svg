@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="input-touchpad-symbolic.symbolic.svg"
+   sodipodi:docname="starred-symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1833,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.5130095"
-     inkscape:cy="7.9991455"
+     inkscape:zoom="32"
+     inkscape:cx="9.59375"
+     inkscape:cy="7.96875"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1903,11 +1903,13 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <path
-       id="rect1686"
-       style="fill:#000000;paint-order:markers stroke fill"
-       d="M 2,2 C 1.446,2 1,2.446 1,3 v 10 c 0,0.554 0.446,1 1,1 h 12 c 0.554,0 1,-0.446 1,-1 V 3 C 15,2.446 14.554,2 14,2 Z m 0,9 h 5.5 v 2 H 2 Z m 6.5,0 H 14 v 2 H 8.5 Z"
-       transform="translate(-1.0008429,-1.0005)"
-       sodipodi:nodetypes="ssssssssscccccccccc" />
+    <g
+       transform="matrix(1.1666628,0,0,1.1666628,-1.166549,-1.1665794)"
+       id="g4">
+      <path
+         d="m 6.9992,0.9995 -1.7235,4.2636 -4.586,0.32234 3.5201,2.9528 -1.1089,4.4613 3.8983,-2.4369 3.9025,2.4369 L 9.7928,8.53824 13.3087,5.58544 8.7271,5.2631 6.9993,0.9995 Z"
+         stroke-width="2.2006"
+         id="path2" />
+    </g>
   </g>
 </svg>
