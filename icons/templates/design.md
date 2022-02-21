@@ -1,25 +1,23 @@
-# Setup inkscape
-* import the inkscape palette in the Tools folder. how?:
+
+# THIS IS WIP SO PLEASE CONTACT ME INSTEAD OF READING THIS IF YOU WILL DESIGN ICONS.
+
+## Inkscape setup
+
+_This step (Inkscape setup) is fully optional._
+
+#### import the inkscape palette in the Tools folder. how?:
 * copy `other/aleta-postre.gpl` to your inkscape folder.
 In gnu linux are two possibilities:
 	if you have the flatpak version: `~/.var/app/org.inkscape.Inkscape/config/inkscape/palettes`
 	if you have the native version: `~/.config/inkscape/palettes`.
 
-# Concepts
+## Concepts
 
 here is an image describing the parts of an icon of aleta.
 
 ![concepts](../../other/Screenshots/design-concepts.svg)
 
-# Filled or not?
-
-there is two designs in aleta. Lined and Filled. Filled is preferred over lined. 
-
-here is the two designs over the same icon:
-
-![concepts *note that this is an example and this icon doesn't exists*](../../other/Screenshots/design-filled.svg)
-
-# Design
+## Design
 
 * the position of the foreground will fit in the hints.
 * the foreground must be white. *This don't mean that you will draw every path in white. you can use any color you want while drawing. this means that the* **result** *of your drawing session is an icon with a white foreground*
