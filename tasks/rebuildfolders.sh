@@ -52,6 +52,7 @@ mkdir -p _build/aleta/apps/64
 mkdir -p _build/aleta/apps/96
 mkdir -p _build/aleta/apps/128
 mkdir -p _build/aleta/apps/256
+mkdir -p _build/aleta/apps/scalable
 
 mkdir -p _build/aleta/places/8
 mkdir -p _build/aleta/places/16
@@ -73,22 +74,16 @@ mkdir -p _build/aleta/categories/48
 mkdir -p _build/aleta/categories/64
 mkdir -p _build/aleta/categories/96
 mkdir -p _build/aleta/categories/128
-mkdir -p _build/aleta/categories/256
 
-mkdir -p _build/aleta/devices/8
 mkdir -p _build/aleta/devices/16
-mkdir -p _build/aleta/devices/22
 mkdir -p _build/aleta/devices/24
 mkdir -p _build/aleta/devices/32
 mkdir -p _build/aleta/devices/48
 mkdir -p _build/aleta/devices/64
 mkdir -p _build/aleta/devices/96
-mkdir -p _build/aleta/devices/128
-mkdir -p _build/aleta/devices/256
 
 mkdir -p _build/aleta/status/8
 mkdir -p _build/aleta/status/16
-mkdir -p _build/aleta/status/22
 mkdir -p _build/aleta/status/24
 mkdir -p _build/aleta/status/32
 mkdir -p _build/aleta/status/48
@@ -121,12 +116,10 @@ mkdir -p _build/aleta/actions/256
 
 mkdir -p _build/aleta/animations/8
 mkdir -p _build/aleta/animations/16
-mkdir -p _build/aleta/animations/22
 mkdir -p _build/aleta/animations/24
 mkdir -p _build/aleta/animations/32
 mkdir -p _build/aleta/animations/48
 mkdir -p _build/aleta/animations/64
 mkdir -p _build/aleta/animations/96
 mkdir -p _build/aleta/animations/128
-mkdir -p _build/aleta/animations/256
 mkdir -p _build/aleta/animations/scalable

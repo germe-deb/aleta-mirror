@@ -1,12 +1,12 @@
 [Icon Theme]
 Name=Aleta Postre
-Inherits=Adwaita,hicolor,moka,papirus,breeze,gnome
-Comment=Aleta Postre - an icon pack featuring gradients squares and white foregrounds!
+Inherits=Adwaita,hicolor,moka,papirus,gnome,breeze
+Comment=A squary material icon pack!
 
 #Directory list
-Directories=apps/8,apps/16,apps/22,apps/24,apps/32,apps/48,apps/64,apps/96,apps/128,apps/256,places/8,places/16,places/22,places/24,places/32,places/48,places/64,places/96,places/128,places/256,categories/8,categories/16,categories/22,categories/24,categories/32,categories/48,categories/64,categories/96,categories/128,categories/256,devices/8,devices/16,devices/22,devices/24,devices/32,devices/48,devices/64,devices/96,devices/128,devices/256,actions/8,actions/16,actions/22,actions/24,actions/32,actions/48,actions/64,actions/96,actions/128,actions/256,status/8,status/16,status/22,status/24,status/32,status/48,status/64,status/96,status/128,status/256,mimetypes/8,mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,mimetypes/48,mimetypes/64,mimetypes/96,mimetypes/128,mimetypes/256,ui/16,animations/8,animations/16,animations/22,animations/24,animations/32,animations/48,animations/64,animations/96,animations/128,animations/256,animations/scalable
+Directories=apps/8,apps/16,apps/22,apps/24,apps/32,apps/48,apps/64,apps/96,apps/128,apps/256,apps/scalable,places/8,places/16,places/22,places/24,places/32,places/48,places/64,places/96,places/128,places/256,categories/8,categories/16,categories/22,categories/24,categories/32,categories/48,categories/64,categories/96,categories/128,devices/16,devices/24,devices/32,devices/48,devices/64,devices/96,actions/8,actions/16,actions/22,actions/24,actions/32,actions/48,actions/64,actions/96,actions/128,actions/256,status/8,status/16,status/24,status/32,status/48,status/64,status/96,status/128,status/256,mimetypes/8,mimetypes/16,mimetypes/22,mimetypes/24,mimetypes/32,mimetypes/48,mimetypes/64,mimetypes/96,mimetypes/128,mimetypes/256,animations/8,animations/16,animations/24,animations/32,animations/48,animations/64,animations/96,animations/128,animations/scalable
 
-
+# apps
 [apps/8]
 Size=8
 Context=Applications
@@ -57,8 +57,15 @@ Size=256
 Context=Applications
 Type=Fixed
 
+[apps/scalable]
+Context=Applications
+Size=18
+MinSize=8
+MaxSize=1024
+Type=Scalable
 
 
+# places
 [places/8]
 Size=8
 Context=Places
@@ -111,6 +118,7 @@ Type=Fixed
 
 
 
+# categories
 [categories/8]
 Size=8
 Context=Categories
@@ -156,25 +164,12 @@ Size=128
 Context=Categories
 Type=Fixed
 
-[categories/256]
-Size=256
-Context=Categories
-Type=Fixed
 
 
-
-[devices/8]
-Size=8
-Context=Devices
-Type=Fixed
+# devices
 
 [devices/16]
 Size=16
-Context=Devices
-Type=Fixed
-
-[devices/22]
-Size=22
 Context=Devices
 Type=Fixed
 
@@ -203,18 +198,9 @@ Size=96
 Context=Devices
 Type=Fixed
 
-[devices/128]
-Size=128
-Context=Devices
-Type=Fixed
-
-[devices/256]
-Context=Devices
-Type=Fixed
-Size = 256
 
 
-
+# status
 [status/8]
 Size=8
 Context=Status
@@ -222,11 +208,6 @@ Type=Fixed
 
 [status/16]
 Size=16
-Context=Status
-Type=Fixed
-
-[status/22]
-Size=22
 Context=Status
 Type=Fixed
 
@@ -265,8 +246,16 @@ Context=Status
 Type=Fixed
 Size = 256
 
+[status/scalable]
+Context=Status
+Size=18
+MinSize=8
+MaxSize=1024
+Type=Scalable
 
 
+
+# actions
 [actions/8]
 Size=8
 Context=Actions
@@ -318,7 +307,7 @@ Type=Fixed
 Size = 256
 
 
-
+# mimetypes
 [mimetypes/8]
 Size=8
 Context=Mimetypes
@@ -369,13 +358,9 @@ Context=Mimetypes
 Type=Fixed
 Size = 256
 
-[ui/16]
-Context=UI
-Size=16
-Type=Fixed
 
 
-
+# animations
 [animations/8]
 Size=8
 Context=Animations
@@ -383,11 +368,6 @@ Type=Fixed
 
 [animations/16]
 Size=16
-Context=Animations
-Type=Fixed
-
-[animations/22]
-Size=22
 Context=Animations
 Type=Fixed
 
@@ -420,11 +400,6 @@ Type=Fixed
 Size=128
 Context=Animations
 Type=Fixed
-
-[animations/256]
-Context=Animations
-Type=Fixed
-Size = 256
 
 [animations/scalable]
 Context=Animations

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="window-maximize-symbolic.symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="battery-level-100-charging-symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
-   shape-rendering="crispEdges">
+   shape-rendering="crispEdges"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3766">Twelf Icon Template</title>
   <defs
@@ -1833,16 +1833,16 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="9.4092313"
-     inkscape:cy="7.5256578"
+     inkscape:zoom="22.627417"
+     inkscape:cx="7.7339804"
+     inkscape:cy="6.6291261"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
@@ -1903,9 +1903,33 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <path
-       id="rect1226"
-       style="fill:#000000;stroke-width:1.41421;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
-       d="m 0.9991571,6.9994999 5.9999999,-5.99999989 6,5.99999999 -6,6 z" />
+    <rect
+       style="fill:#38b543;stroke:none;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect1196"
+       width="14"
+       height="14"
+       x="-0.00084290002"
+       y="-0.00050000002" />
+    <rect
+       style="fill:#297fcc;stroke:none;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect1242"
+       width="12"
+       height="7"
+       x="0.99915707"
+       y="0.99949998" />
+    <rect
+       style="fill:#d8362c;stroke:none;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect1266"
+       width="2"
+       height="5"
+       x="5.999157"
+       y="7.9994998" />
+    <rect
+       style="fill:#d6c922;stroke:none;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect1290"
+       width="2"
+       height="5"
+       x="10.999157"
+       y="7.9994998" />
   </g>
 </svg>
