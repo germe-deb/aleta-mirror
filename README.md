@@ -16,6 +16,14 @@ Now we are working in the redesign of the icon pack, and adding new apps to the 
 
 # build from source
 
+### Dependencies
+
+Make sure you have them all installed.
+
+* inkscape
+* GNU parallel
+* bash
+
 ```
 # clone this repo and enter to it
 git clone https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre
