@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="software-properties.svg"
+   sodipodi:docname="package2.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -27,11 +27,11 @@
        inkscape:collect="always"
        id="linearGradient39006">
       <stop
-         style="stop-color:#805341;stop-opacity:1;"
+         style="stop-color:#5627e0;stop-opacity:1"
          offset="0"
          id="stop39002" />
       <stop
-         style="stop-color:#c07140;stop-opacity:1"
+         style="stop-color:#387ed7;stop-opacity:1"
          offset="1"
          id="stop39004" />
     </linearGradient>
@@ -1842,11 +1842,13 @@
        inkscape:collect="always"
        xlink:href="#linearGradient39006"
        id="linearGradient39008"
-       x1="8"
-       y1="1109.2729"
-       x2="8"
-       y2="1094.2729"
-       gradientUnits="userSpaceOnUse" />
+       x1="16.999065"
+       y1="1104.7728"
+       x2="-1.0009342"
+       y2="1098.7728"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(90,7.9994657,1101.7734)"
+       spreadMethod="pad" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1855,11 +1857,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.014802"
-     inkscape:cx="2.8184486"
-     inkscape:cy="7.5634317"
+     inkscape:zoom="23.773313"
+     inkscape:cx="7.5084192"
+     inkscape:cy="10.179482"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1921,7 +1923,7 @@
     <path
        id="rect4731-1"
        style="display:inline;opacity:1;fill:url(#linearGradient39008);fill-opacity:1;stroke-width:0.0468842;stroke-linecap:round;stroke-linejoin:round"
-       d="M 2.0000006,1093.774 H 13.99893 c 1.107948,0 1.999906,0.892 1.999906,2 v 11.9989 c 0,1.1079 -0.891958,1.9999 -1.999906,1.9999 H 2.0000006 c -1.1079475,0 -1.999905232568,-0.892 -1.999905232568,-1.9999 v -11.9989 c 0,-1.108 0.891957732568,-2 1.999905232568,-2 z" />
+       d="m 15.998866,1095.7739 v 11.999 c 0,1.1079 -0.892,1.9999 -2,1.9999 H 1.9999657 c -1.10790002,0 -1.999900016284,-0.892 -1.999900016284,-1.9999 v -11.999 c 0,-1.1079 0.891999996284,-1.9999 1.999900016284,-1.9999 H 13.998866 c 1.108,0 2,0.892 2,1.9999 z" />
     <g
        id="g4337"
        transform="translate(-22.320454,1056.4942)">
@@ -1962,13 +1964,8 @@
      style="display:inline">
     <path
        id="path847"
-       style="display:inline;fill:#ffffff;stroke-width:0.8;paint-order:markers stroke fill"
-       d="m 4.4000001,4 c -0.2216,0 -0.4,0.1784 -0.4,0.4 v 7.2 c 0,0.2216 0.1784,0.4 0.4,0.4 H 11.6 C 11.8216,12 12,11.8216 12,11.6 V 4.4 C 12,4.1784 11.8216,4 11.6,4 h -2 V 6.61248 L 9.0671872,6.07968 8.5343752,6.61248 8,6.07968 7.4671876,6.61248 6.9343751,6.07968 6.4000001,6.61248 V 4 Z"
-       sodipodi:nodetypes="sssssssscccccccccs" />
-    <path
-       id="rect38565"
-       style="fill:#ffffff;stroke-width:0.9;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 4.5 4 C 4.2230001 4 4 4.2230001 4 4.5 L 4 6.5 L 4.5 6.5 L 4.5 4.5 L 6.5 4.5 L 6.5 4 L 4.5 4 z M 11.5 4 L 11.5 4.5 L 13.5 4.5 L 13.5 6.5 L 14 6.5 L 14 4.5 C 14 4.2230001 13.777 4 13.5 4 L 11.5 4 z M 4 11.5 L 4 13.5 C 4 13.777 4.2230001 14 4.5 14 L 6.5 14 L 6.5 13.5 L 4.5 13.5 L 4.5 11.5 L 4 11.5 z M 13.5 11.5 L 13.5 13.5 L 11.5 13.5 L 11.5 14 L 13.5 14 C 13.777 14 14 13.777 14 13.5 L 14 11.5 L 13.5 11.5 z "
+       style="display:inline;fill:#ffffff;stroke-width:1;paint-order:markers stroke fill"
+       d="M 4.5 4 C 4.223 4 4 4.223 4 4.5 L 4 13.5 C 4 13.777 4.223 14 4.5 14 L 13.5 14 C 13.777 14 14 13.777 14 13.5 L 14 4.5 C 14 4.223 13.777 4 13.5 4 L 11 4 L 11 7.265625 L 10.333984 6.5996094 L 9.6679688 7.265625 L 9 6.5996094 L 8.3339844 7.265625 L 7.6679688 6.5996094 L 7 7.265625 L 7 4 L 4.5 4 z M 10.244141 12 L 13.255859 12 C 13.391049 12 13.5 12.108951 13.5 12.244141 L 13.5 12.255859 C 13.5 12.391049 13.391049 12.5 13.255859 12.5 L 10.244141 12.5 C 10.108951 12.5 10 12.391049 10 12.255859 L 10 12.244141 C 10 12.108951 10.108951 12 10.244141 12 z M 10.25 13 A 0.25 0.25 0 0 1 10.5 13.25 A 0.25 0.25 0 0 1 10.25 13.5 A 0.25 0.25 0 0 1 10 13.25 A 0.25 0.25 0 0 1 10.25 13 z M 11.25 13 A 0.25 0.25 0 0 1 11.5 13.25 A 0.25 0.25 0 0 1 11.25 13.5 A 0.25 0.25 0 0 1 11 13.25 A 0.25 0.25 0 0 1 11.25 13 z M 12.25 13 A 0.25 0.25 0 0 1 12.5 13.25 A 0.25 0.25 0 0 1 12.25 13.5 A 0.25 0.25 0 0 1 12 13.25 A 0.25 0.25 0 0 1 12.25 13 z M 13.25 13 A 0.25 0.25 0 0 1 13.5 13.25 A 0.25 0.25 0 0 1 13.25 13.5 A 0.25 0.25 0 0 1 13 13.25 A 0.25 0.25 0 0 1 13.25 13 z "
        transform="translate(-1.0008429,-1.0005)" />
   </g>
   <g
