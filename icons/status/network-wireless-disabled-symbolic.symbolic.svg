@@ -1825,6 +1825,18 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1617">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1613"
+         id="use1619"
+         width="100%"
+         height="100%"
+         transform="translate(0.1690353,-0.16903566)" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1833,9 +1845,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="9.148194"
-     inkscape:cy="7.7781746"
+     inkscape:zoom="16"
+     inkscape:cx="1.8125"
+     inkscape:cy="10.5"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1903,20 +1915,22 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
+    <g
+       inkscape:label="Clip"
+       id="g1613"
+       transform="rotate(45,6.7105953,6.8799745)" />
+    <g
+       transform="matrix(0.8480193,0.8480193,-0.8480193,0.8480193,6.9992178,-6.5687005)"
+       id="g12"
+       style="fill:#000000" />
     <path
-       id="path1645"
-       style="opacity:1;stroke-width:2"
-       d="M 8.0097656 2 A 12.000002 12.000002 0 0 0 4.4023438 2.5644531 L 11.40625 9.5683594 L 15.3125 4.4863281 A 12.000002 12.000002 0 0 0 8.0097656 2 z M 1.8574219 3.6953125 A 12.000002 12.000002 0 0 0 0.703125 4.4746094 L 8 14 L 9.8085938 11.646484 L 1.8574219 3.6953125 z "
+       id="path1339"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:2"
+       d="M 8.0097656 2 A 12.000002 12.000002 0 0 0 7 2.0546875 L 7 7 L 2.6367188 7 L 8 14 L 15.3125 4.4863281 A 12.000002 12.000002 0 0 0 8.0097656 2 z "
        transform="translate(-1.0008429,-1.0005)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Negation">
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;paint-order:markers stroke fill"
-       d="M 0.35351563,-0.35351563 -0.35351563,0.35351563 13.646484,14.353516 14.353516,13.646484 Z"
-       id="path4410"
-       transform="translate(1.0008429,1.0005)" />
+       style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="m -8.429e-4,-5e-4 v 1 l 1.4999999,1.5 -1.4999999,1.5 v 1 h 1 l 1.4999999,-1.5 1.5,1.5 h 1 v -1 l -1.5,-1.5 1.5,-1.5 v -1 h -1 l -1.5,1.5 -1.4999999,-1.5 z"
+       id="path5983" />
   </g>
 </svg>

@@ -1833,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="-0.40625"
-     inkscape:cy="6"
+     inkscape:zoom="22.627417"
+     inkscape:cx="3.8890873"
+     inkscape:cy="9.2807765"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1903,18 +1903,16 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <g
-       id="g7135">
-      <path
-         id="path1558"
-         style="opacity:1;stroke-width:2;paint-order:markers stroke fill"
-         inkscape:transform-center-y="-1"
-         d="M 15 1 L 8.9179688 7.0820312 L 15 13.162109 L 15 1 z M 4.3535156 3.6464844 L 3.6464844 4.3535156 L 14.646484 15.353516 L 15.353516 14.646484 L 4.3535156 3.6464844 z M 7.0820312 8.9179688 L 1 15 L 13.162109 15 L 7.0820312 8.9179688 z "
-         transform="translate(-1.0008429,-1.0005)" />
-    </g>
+    <path
+       id="path1558"
+       style="opacity:1;stroke-width:2;paint-order:markers stroke fill"
+       inkscape:transform-center-y="-1"
+       transform="translate(-1.0008429,-1.0005)"
+       d="M 15,1 V 15 H 1 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="m 0.9991572,0.9995 v 1 l 1.4999999,1.5 -1.4999999,1.5 v 1 h 1 l 1.4999999,-1.5 1.5,1.5 h 1 v -1 l -1.5,-1.5 1.5,-1.5 v -1 h -1 l -1.5,1.5 -1.4999999,-1.5 z"
+       id="path5983" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Negation" />
 </svg>
