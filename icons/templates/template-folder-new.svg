@@ -1872,8 +1872,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.241786"
-     inkscape:cx="14.948799"
-     inkscape:cy="13.6418"
+     inkscape:cx="13.805175"
+     inkscape:cy="14.867112"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1994,5 +1994,5 @@
      id="layer2"
      inkscape:label="foreground"
      transform="translate(1.0008429,1.0005)"
-     style="display:inline;opacity:0.280735" />
+     style="display:inline;opacity:1" />
 </svg>
