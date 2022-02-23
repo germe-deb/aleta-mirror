@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="org.gnome.Robots.svg"
+   sodipodi:docname="template-icon-new.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -28,11 +28,11 @@
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#f41d10;stop-opacity:1" />
+         style="stop-color:#2aa9c7;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#a40000;stop-opacity:1" />
+         style="stop-color:#297fcc;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1854,9 +1854,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="12.462757"
-     inkscape:cy="16.440233"
+     inkscape:zoom="17.3125"
+     inkscape:cx="15.971119"
+     inkscape:cy="16"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1899,8 +1899,10 @@
        units="px"
        originx="0"
        originy="0"
-       color="#5200ff"
-       opacity="0.0627451" />
+       color="#5600f7"
+       opacity="0.04705882"
+       empcolor="#6008ff"
+       empopacity="0.19215686" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1916,7 +1918,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g4337"
        transform="translate(-22.320454,1056.4942)">
@@ -1938,7 +1941,7 @@
        id="g6215"
        transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <rect
-       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke-width:2;paint-order:markers stroke fill;stroke:none"
+       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
        width="28"
        height="28.000038"
@@ -1961,27 +1964,9 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="icon"
-     transform="translate(1.0008429,1.0005)"
-     style="display:inline">
-    <g
-       transform="matrix(1.6,0,0,1.6,2.2004371,2.2003)"
-       id="g5410"
-       style="fill:#ffffff">
-      <path
-         transform="translate(-1.0008,-1.0005)"
-         d="M 9,4 A 5,5 0 0 0 4,9 5,5 0 0 0 9,14 5,5 0 0 0 14,9 5,5 0 0 0 9,4 Z M 6,7.5 h 6 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 H 6 C 5.169,10.5 4.5,9.831 4.5,9 4.5,8.169 5.169,7.5 6,7.5 Z M 6,8 A 1,1 0 0 0 5,9 1,1 0 0 0 6,10 1,1 0 0 0 7,9 1,1 0 0 0 6,8 Z m 6,0 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-         fill="#ffffff"
-         style="fill:#ffffff;paint-order:markers stroke fill"
-         id="path5408" />
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="hint"
-     style="display:none;opacity:0.962927"
+     style="display:inline;opacity:0.962927"
      transform="translate(1.0008429,1.0005)"
      sodipodi:insensitive="true">
     <rect
@@ -1993,4 +1978,10 @@
        y="6.9994998"
        ry="0" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="foreground"
+     transform="translate(1.0008429,1.0005)"
+     style="display:inline" />
 </svg>
