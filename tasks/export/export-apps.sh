@@ -4,6 +4,7 @@ for SVG in _build/icons-t/apps/*.svg
 do
 	if [[ -f "${SVG}" ]]; then
 		N=$(basename ${SVG} .svg)
+		
 		echo exporting ${SVG}
 		
 		parallel  ::: \

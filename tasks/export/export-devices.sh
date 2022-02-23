@@ -4,6 +4,8 @@ for SVG in _build/icons-t/devices/*.svg
 do
 	if [[ -f "${SVG}" ]]; then
 		N=$(basename ${SVG} .svg)
+		
+		echo exporting ${SVG}
 
 		parallel ::: \
 		"inkscape -w 16 -h 16 -o    _build/aleta/devices/16/${N}.png  ${SVG}  >/dev/null 2>&1" \

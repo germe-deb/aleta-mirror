@@ -5,6 +5,7 @@ do
 	if [[ -f "${SVG}" ]]; then
 		N=$(basename ${SVG} .svg)
 
+		echo exporting ${SVG}
 		parallel ::: \
 		"inkscape -w 8 -h 8 -o      _build/aleta/animations/8/${N}.png   ${SVG}  >/dev/null 2>&1" \
 		"inkscape -w 16 -h 16 -o    _build/aleta/animations/16/${N}.png  ${SVG}  >/dev/null 2>&1" \
