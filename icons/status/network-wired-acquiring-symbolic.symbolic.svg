@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="network-wireless-no-route-symbolic.symbolic.svg"
+   sodipodi:docname="network-wired-acquiring-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -22,23 +22,6 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect18540"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.44384205,0,1 @ F,0,0,1,0,0.076721191,0,1 @ F,0,0,1,0,0.077896117,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1842,18 +1825,6 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1617">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1613"
-         id="use1619"
-         width="100%"
-         height="100%"
-         transform="translate(0.1690353,-0.16903566)" />
-    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1862,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="25.501405"
-     inkscape:cx="8.1171998"
-     inkscape:cy="8.1171998"
+     inkscape:zoom="32.000002"
+     inkscape:cx="7.7499995"
+     inkscape:cy="9.7187494"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1929,33 +1900,39 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="icon"
-     transform="translate(1.0008429,1.0005)">
-    <g
-       inkscape:label="Clip"
-       id="g1613"
-       transform="rotate(45,6.7105953,6.8799745)" />
-    <g
-       transform="matrix(0.8480193,0.8480193,-0.8480193,0.8480193,6.9992178,-6.5687005)"
-       id="g12"
-       style="fill:#000000" />
-    <path
-       id="path1339"
-       style="opacity:1;fill:#000000;fill-opacity:0.25;stroke-width:2"
-       d="M 8.4921875 2.0273438 C 9.459857 2.1267738 10.369738 2.5213814 11.017578 3.2421875 C 11.753312 4.0607909 12 5.0872607 12 6 C 12 6.8647035 11.710516 7.653809 11.263672 8.28125 C 10.993123 8.6611426 10.664102 8.9878496 10.292969 9.2519531 C 10.194562 9.3219808 10.09901 9.3461517 10 9.4023438 L 10 11.398438 L 15.3125 4.4863281 A 12.000002 12.000002 0 0 0 8.4921875 2.0273438 z M 7.4765625 2.0292969 A 12.000002 12.000002 0 0 0 0.703125 4.4746094 L 6 11.388672 L 6 7 L 4 7 L 4 6 C 4 5.0711325 4.2388896 4.0213833 4.9980469 3.1972656 C 5.651453 2.4879481 6.5467723 2.126327 7.4765625 2.0292969 z "
-       transform="translate(-1.0008429,-1.0005)" />
-  </g>
+     id="layer1"
+     inkscape:label="icon 1" />
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="question">
+     id="layer2"
+     inkscape:label="icon"
+     transform="translate(1.0008429,1.0005)"
+     style="opacity:1">
+    <path
+       id="rect1196"
+       style="opacity:0.25;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       d="M 1 1 L 1 5.7773438 C 1.5327385 5.2971047 2.2338577 5 3 5 C 4.0377994 5 4.9604664 5.5403787 5.5 6.3515625 C 6.0394511 5.5398855 6.9618229 5 8 5 C 9.0377994 5 9.9604664 5.5403787 10.5 6.3515625 C 11.039451 5.5398855 11.961823 5 13 5 C 13.766142 5 14.467261 5.2971047 15 5.7773438 L 15 1 L 1 1 z M 5.5 9.6484375 C 4.9604664 10.459621 4.0377994 11 3 11 L 3 13 L 5 13 L 5 15 L 11 15 L 11 13 L 13 13 L 13 11 C 11.961823 11 11.039451 10.460115 10.5 9.6484375 C 9.9604664 10.459621 9.0377994 11 8 11 C 6.9618229 11 6.0394511 10.460115 5.5 9.6484375 z M 13 11 L 15 11 L 15 10.222656 C 14.467261 10.702895 13.766142 11 13 11 z M 3 11 C 2.2338577 11 1.5327385 10.702895 1 10.222656 L 1 11 L 3 11 z "
+       transform="translate(-1.0008429,-1.0005)" />
     <g
-       id="path16977">
+       id="path3104">
       <path
          style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
-         d="M 8,3 C 7.1025981,3 6.2764442,3.2865464 5.734375,3.875 5.1923058,4.4634536 5,5.2397698 5,6 H 7 C 7,5.566564 7.1008666,5.3435976 7.2050781,5.2304688 7.3092897,5.1173399 7.4825291,5 8,5 8.5009887,5 8.6717871,5.1177825 8.7871094,5.2460938 8.9024316,5.3744051 9,5.6117174 9,6 9,6.1977531 8.937504,6.3764603 8.8203125,6.5410156 8.7484394,6.6419367 8.6559442,6.7331952 8.5527344,6.8066406 8.4626353,6.8707562 8.3647658,6.9210207 8.2695312,6.953125 8.1746125,6.9851229 8.0827188,7 8,7 H 7.4433594 A 0.44384205,0.44384205 0 0 0 7,7.4433594 V 9.9238281 A 0.07672119,0.07672119 0 0 0 7.0761719,10 H 8.921875 A 0.07789612,0.07789612 0 0 0 9,9.921875 V 8.8007812 C 9.2515119,8.7062384 9.4952343,8.5923869 9.7128906,8.4375 9.9943398,8.2372171 10.24368,7.9897802 10.449219,7.7011719 10.784357,7.2305848 11,6.6401175 11,6 11,5.2645773 10.804395,4.5009177 10.273438,3.9101562 9.7424784,3.3193947 8.9138841,3 8,3 Z m 0,8 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-         id="path10711" />
+         d="m 8.999157,6.9994998 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"
+         id="path3139" />
+    </g>
+    <g
+       id="path3106">
+      <path
+         style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
+         d="m 13.999157,6.9994998 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"
+         id="path3145" />
+    </g>
+    <g
+       id="path3108">
+      <path
+         style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
+         d="m 3.9991571,6.9994998 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2.00000002889,-2 2,2 0 0 1 2.00000002889,-2 2,2 0 0 1 2,2 z"
+         id="path3133" />
     </g>
   </g>
 </svg>
