@@ -164,3 +164,4 @@ ln -s org.gnome.World.Highscore.png org.gnome.World.Highscore.Devel.png
 ln -s gimp.png org.gimp.GIMP.png
 ln -s org.freedesktop.GnomeAbrt.png abrt.png
 ln -s linuxmint.png mintwelcome.png
+ln -s preferences-symbolic.symbolic.png preferences-other-symbolic.symbolic.png
