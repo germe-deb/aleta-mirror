@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="preferences-system-notifications-symbolic.symbolic.svg"
+   sodipodi:docname="preferences-desktop-font-symbolic.symbolic.svg-notifications-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -22,6 +22,40 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect17702"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,1.287134,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14710"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.0000001,0,1 @ F,0,0,1,0,2.0000002,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect10630"
@@ -1867,9 +1901,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="6.09375"
-     inkscape:cy="6.75"
+     inkscape:zoom="22.627417"
+     inkscape:cx="7.2257474"
+     inkscape:cy="7.7339804"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1884,19 +1918,19 @@
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false"
-     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox-edge-midpoints="false"
      height="16px"
-     inkscape:snap-others="true"
-     inkscape:bbox-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:bbox-nodes="false"
      inkscape:bbox-paths="true"
      fit-margin-top="1"
      fit-margin-left="1"
      fit-margin-right="1"
      fit-margin-bottom="1"
      lock-margins="true"
-     inkscape:snap-center="true"
+     inkscape:snap-center="false"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
@@ -1937,10 +1971,25 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
+    <g
+       id="rect11725">
+      <g
+         id="path12070"
+         transform="translate(-1.0008429,-1.0005)">
+        <g
+           id="path12806">
+          <path
+             id="path13905"
+             style="color:#000000;fill:#000000;stroke-width:3.5;-inkscape-stroke:none"
+             d="M 4,1 1,15 h 1.7890625 l 0.8574219,-4 h 2.7070312 l 0.8574219,4 H 9 L 6,1 Z M 5.2699253,5.9421065 5.9257812,9 H 4.0742188 L 4.7300747,5.9421065 a 0.27606402,0.27606402 0 0 1 0.5398506,0 z" />
+        </g>
+      </g>
+    </g>
     <path
-       id="rect9955"
-       style="stroke-width:2;paint-order:markers stroke fill"
-       d="M 8 1 A 5 5 0 0 0 3 6 C 3 6.9150939 2.9993901 10.342571 1.4667969 10.917969 C 1.2214155 11.010095 1 11.213027 1 11.476562 L 1 12 L 15 12 L 15 11.486328 C 15 11.217728 14.77266 11.009652 14.523438 10.914062 C 12.999148 10.329422 13 6.9134382 13 6 A 5 5 0 0 0 8 1 z M 6 13 C 6 14.108 6.8920001 15 8 15 C 9.1079997 15 10 14.108 10 13 L 6 13 z "
-       transform="translate(-1.0008429,-1.0005)" />
+       id="rect14336"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       d="m 11.5,5.9921875 c -0.351704,0.00203 -0.693947,0.026163 -1.013672,0.083984 C 9.633729,6.2303615 9,6.709434 9,7.2617188 V 8.5234375 C 9.1351166,8.1626892 9.8912051,7.8074058 11.277271,7.8074058 12.98163,7.8074058 13,8 13,8 V 9 H 11 C 9.8919999,9 9,9.8919999 9,11 v 2 c 0,1.108 0.8919999,2 2,2 h 2.310547 c 0.486916,0 0.751395,-0.202466 0.894531,-0.535156 C 14.48127,14.464693 15,15 15,15 V 8.4226685 C 15,7.318099 14.373284,6.2814489 13.279297,6.1289062 12.698366,6.0479013 12.086173,5.9888118 11.5,5.9921875 Z M 11.653999,11 H 13 v 2 h -1.346001 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
+       transform="translate(-1.0008429,-1.0005)"
+       sodipodi:nodetypes="ssscsccssssscccsssccsss" />
   </g>
 </svg>
