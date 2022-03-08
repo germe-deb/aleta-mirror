@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="network-cellular-hardware-disabled-symbolic.symbolic.svg"
+   sodipodi:docname="bluetooth-hardware-disabled-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1867,9 +1867,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-2.828427"
-     inkscape:cy="15.291183"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8.0433396"
+     inkscape:cy="8.9272231"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1937,27 +1937,16 @@
      id="layer1"
      inkscape:label="icon 1">
     <path
-       id="path1558"
-       style="stroke-width:2;paint-order:markers stroke fill;opacity:0.25"
-       inkscape:transform-center-y="-1"
-       d="M 15,1 9,7 h 6 z M 4,12 1,15 h 14 v -3 z"
-       sodipodi:nodetypes="ccccccccc" />
+       id="path3708"
+       style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none;opacity:0.25"
+       d="M 7.5117188,0 C 7.2292751,4.1175343e-4 7.0004118,0.22927501 7,0.51171875 V 4.5859375 L 5.7070312,3.2929688 c -0.390507,-0.3904235 -1.0235554,-0.3904235 -1.4140624,0 -0.3904235,0.3905069 -0.3904236,1.0235555 0,1.4140624 L 6.5859375,7 h 4.8281245 l 2,-2 L 8.7070312,0.29296875 C 8.5195484,0.10538921 8.2652091,0 8,0 Z M 9,3.4140625 10.585938,5 9,6.5859375 Z M 4,12 c 0,0.255889 0.097757,0.511778 0.2929688,0.707031 0.390507,0.390424 1.0235554,0.390424 1.4140624,0 L 6.4140625,12 Z m 3,0 v 3.486328 C 7.0000336,15.770007 7.2299927,15.999966 7.5136719,16 H 8 c 0.2652092,0 0.5195485,-0.105389 0.7070312,-0.292969 L 12.414062,12 H 9.5859375 L 9,12.585938 V 12 Z"
+       sodipodi:nodetypes="ccccccccccscccccccccccccscccccc" />
     <g
-       id="g1185"
-       transform="translate(0.99319465,1.0004999)" />
-    <g
-       id="rect7495"
-       style="stroke:#ffffff">
-      <g
-         id="path7619">
-        <g
-           id="path8721">
-          <path
-             style="color:#000000;fill:#000000;stroke:none;stroke-width:2;stroke-linecap:round;-inkscape-stroke:none;paint-order:markers stroke fill"
-             d="m 0,8 h 16 v 3 H 0 Z"
-             id="path10071" />
-        </g>
-      </g>
+       id="rect7495">
+      <path
+         style="color:#000000;fill:#000000;stroke-width:2;stroke-linecap:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+         d="m 0,8 h 16 v 3 H 0 Z"
+         id="path7619" />
     </g>
   </g>
 </svg>

@@ -4,7 +4,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="audio-volume-muted-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1834,8 +1834,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="8.3085047"
-     inkscape:cy="8.5736697"
+     inkscape:cx="10.915961"
+     inkscape:cy="8.5294755"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1918,6 +1918,18 @@
     <path
        id="path1414"
        style="fill:#000000;fill-opacity:0.25;stroke-width:1.18182"
-       d="M 13.392578 2 L 7 5.6914062 L 7 10.308594 L 13.392578 14 A 12 12 0 0 0 13.392578 2 z " />
+       d="M 13.392578 2 L 7 5.6914062 L 7 10.308594 L 9 11.462891 L 9 9 L 14.958984 9 A 12 12 0 0 0 13.392578 2 z " />
+    <g
+       id="path5983"
+       transform="translate(9,9)"
+       style="stroke:#ffffff">
+      <g
+         id="path6675">
+        <path
+           style="color:#000000;fill:#000000;stroke:none;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
+           d="M 1,1 V 2 L 2.5,3.5 1,5 V 6 H 2 L 3.5,4.5 5,6 H 6 V 5 L 4.5,3.5 6,2 V 1 H 5 L 3.5,2.5 2,1 Z"
+           id="path1210" />
+      </g>
+    </g>
   </g>
 </svg>

@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="network-cellular-hardware-disabled-symbolic.symbolic.svg"
+   sodipodi:docname="bluetooth-disabled-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -22,40 +22,6 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect4598"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0.51246643,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.51373291,0,1 @ F,0,0,1,0,0.4140625,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.4140625,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect3349"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,1.4135625,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.414563,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1867,12 +1833,12 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-2.828427"
-     inkscape:cy="15.291183"
+     inkscape:zoom="16"
+     inkscape:cx="12.375"
+     inkscape:cy="5.625"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
-     showgrid="true"
+     inkscape:current-layer="layer2"
+     showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="707"
      inkscape:window-x="0"
@@ -1934,30 +1900,23 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="icon 1">
+     id="layer2"
+     inkscape:label="icon"
+     transform="translate(1.0008429,1.0005)">
     <path
-       id="path1558"
-       style="stroke-width:2;paint-order:markers stroke fill;opacity:0.25"
-       inkscape:transform-center-y="-1"
-       d="M 15,1 9,7 h 6 z M 4,12 1,15 h 14 v -3 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <g
-       id="g1185"
-       transform="translate(0.99319465,1.0004999)" />
-    <g
-       id="rect7495"
-       style="stroke:#ffffff">
-      <g
-         id="path7619">
-        <g
-           id="path8721">
-          <path
-             style="color:#000000;fill:#000000;stroke:none;stroke-width:2;stroke-linecap:round;-inkscape-stroke:none;paint-order:markers stroke fill"
-             d="m 0,8 h 16 v 3 H 0 Z"
-             id="path10071" />
-        </g>
-      </g>
-    </g>
+       id="path3708"
+       style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+       d="M 7.5117188 0 C 7.2286914 0 7 0.22869137 7 0.51171875 L 7 5.1621094 L 10.125 8.2890625 L 10.414062 8 L 10.779297 7.6347656 L 13.414062 5 L 8.7070312 0.29296875 C 8.5195634 0.10550075 8.2651198 0 8 0 L 7.5117188 0 z M 9 3.4140625 L 10.585938 5 L 9 6.5859375 L 9 3.4140625 z M 6.875 8.7109375 L 4.2929688 11.292969 C 3.9025454 11.683476 3.9025454 12.316524 4.2929688 12.707031 C 4.6834758 13.097455 5.3165242 13.097455 5.7070312 12.707031 L 7 11.414062 L 7 15.486328 C 7 15.770055 7.229945 16 7.5136719 16 L 8 16 C 8.2651197 16 8.5195633 15.894499 8.7070312 15.707031 L 11.289062 13.125 L 9.875 11.710938 L 9 12.585938 L 9 10.837891 L 6.875 8.7109375 z "
+       transform="translate(-1.0008429,-1.0005)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Negation">
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="M 0.35351563,-0.35351563 -0.35351563,0.35351563 13.646484,14.353516 14.353516,13.646484 Z"
+       id="path4410"
+       transform="translate(1.0008429,1.0005)" />
   </g>
 </svg>
