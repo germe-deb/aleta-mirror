@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="location-services-disabled-symbolic.symbolic.svg"
+   sodipodi:docname="semi-starred-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1833,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="4.6845824"
-     inkscape:cy="8.4410872"
+     inkscape:zoom="32"
+     inkscape:cx="9.40625"
+     inkscape:cy="8.9375"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1903,14 +1903,23 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <path
-       id="path2"
-       style="isolation:auto;mix-blend-mode:normal;marker:none;fill:#000000;opacity:1"
-       d="M 8 0.99609375 A 5 5 0 0 0 4.3886719 2.5507812 L 6.5136719 4.6757812 A 2 2 0 0 1 8 3.9960938 A 2 2 0 0 1 9.3203125 7.4824219 L 11.892578 10.054688 C 12.363318 9.1274289 12.724384 8.1133598 12.90625 6.9960938 C 12.93325 6.8320938 12.95575 6.6630937 12.96875 6.4960938 C 12.98575 6.3280937 13 6.1680938 13 5.9960938 A 5 5 0 0 0 8 0.99609375 z M 3.1230469 4.9609375 A 5 5 0 0 0 3 5.9960938 C 3 6.1680937 3.01425 6.3280938 3.03125 6.4960938 C 3.04525 6.6630937 3.06675 6.8320937 3.09375 6.9960938 C 3.66575 10.509094 6 13 8 15 C 8.810011 14.189989 9.6727855 13.297056 10.453125 12.291016 L 3.1230469 4.9609375 z "
-       transform="translate(-1.0008429,-1.0005)" />
-    <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;paint-order:markers stroke fill"
-       d="M 0.35351563,-0.35351563 -0.35351563,0.35351563 13.646484,14.353516 14.353516,13.646484 Z"
-       id="path4410" />
+    <g
+       transform="matrix(1.1666628,0,0,1.1666628,-1.166549,-1.1665794)"
+       id="g4"
+       style="opacity:0.25">
+      <path
+         d="m 6.9992,0.9995 -1.7235,4.2636 -4.586,0.32234 3.5201,2.9528 -1.1089,4.4613 3.8983,-2.4369 3.9025,2.4369 L 9.7928,8.53824 13.3087,5.58544 8.7271,5.2631 6.9993,0.9995 Z"
+         stroke-width="2.2006"
+         id="path2" />
+    </g>
+    <g
+       transform="matrix(1.1666628,0,0,1.1666628,-1.166549,-1.1665794)"
+       id="g1196"
+       style="opacity:1">
+      <path
+         id="path1194"
+         d="M 8 1 L 5.9882812 5.9746094 L 0.63867188 6.3496094 L 4.7460938 9.7949219 L 3.4511719 15 L 8 12.15625 L 8 1 z "
+         transform="matrix(0.8571457,0,0,0.8571457,0.14203427,0.14235424)" />
+    </g>
   </g>
 </svg>

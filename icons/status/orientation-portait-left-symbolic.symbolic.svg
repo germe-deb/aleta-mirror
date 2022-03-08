@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="location-services-disabled-symbolic.symbolic.svg"
+   sodipodi:docname="orientation-portait-left-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1833,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="4.6845824"
-     inkscape:cy="8.4410872"
+     inkscape:zoom="16"
+     inkscape:cx="10.3125"
+     inkscape:cy="12"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1904,13 +1904,8 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="path2"
-       style="isolation:auto;mix-blend-mode:normal;marker:none;fill:#000000;opacity:1"
-       d="M 8 0.99609375 A 5 5 0 0 0 4.3886719 2.5507812 L 6.5136719 4.6757812 A 2 2 0 0 1 8 3.9960938 A 2 2 0 0 1 9.3203125 7.4824219 L 11.892578 10.054688 C 12.363318 9.1274289 12.724384 8.1133598 12.90625 6.9960938 C 12.93325 6.8320938 12.95575 6.6630937 12.96875 6.4960938 C 12.98575 6.3280937 13 6.1680938 13 5.9960938 A 5 5 0 0 0 8 0.99609375 z M 3.1230469 4.9609375 A 5 5 0 0 0 3 5.9960938 C 3 6.1680937 3.01425 6.3280938 3.03125 6.4960938 C 3.04525 6.6630937 3.06675 6.8320937 3.09375 6.9960938 C 3.66575 10.509094 6 13 8 15 C 8.810011 14.189989 9.6727855 13.297056 10.453125 12.291016 L 3.1230469 4.9609375 z "
-       transform="translate(-1.0008429,-1.0005)" />
-    <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;paint-order:markers stroke fill"
-       d="M 0.35351563,-0.35351563 -0.35351563,0.35351563 13.646484,14.353516 14.353516,13.646484 Z"
-       id="path4410" />
+       id="rect2262"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.8;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:markers stroke fill"
+       d="m 1.999157,12.9995 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 V 0.99950003 c 0,-0.554 -0.446,-1.000000005 -1,-1.000000005 h -8 c -0.554,0 -1,0.446000005 -1,1.000000005 z m 1.9999999,-6 4.0000001,-4 v 3 h 2 v 2 h -2 v 3 z" />
   </g>
 </svg>
