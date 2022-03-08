@@ -131,6 +131,7 @@ ln -s openjdk-8.png openjdk-6.png
 ln -s openjdk-8.png openjdk-7.png
 ln -s openjdk-8.png openjdk-9.png
 ln -s openjdk-8.png openjdk-11.png
+ln -s openjdk-8.png java-1.8.0-openjdk.png
 ln -s gtk-select-color.png cs-color.png
 ln -s gtk-select-color.png preferences-color.png
 ln -s code.png visual-studio-code.png
