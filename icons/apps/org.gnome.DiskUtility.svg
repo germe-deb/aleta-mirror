@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="gmrun.svg"
+   sodipodi:docname="org.gnome.DiskUtility.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -28,11 +28,11 @@
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#4e5f6b;stop-opacity:1" />
+         style="stop-color:#7b898b;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#39454e;stop-opacity:1" />
+         style="stop-color:#5f696b;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1854,11 +1854,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.241786"
-     inkscape:cx="14.458674"
-     inkscape:cy="19.441607"
+     inkscape:zoom="17.3125"
+     inkscape:cx="12.447653"
+     inkscape:cy="18.194946"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1868,7 +1868,7 @@
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -1983,42 +1983,10 @@
      inkscape:label="foreground"
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
-    <g
-       transform="matrix(1.6000533,0,0,1.6000533,2.1990291,2.1991749)"
-       id="g28"
-       style="display:inline">
-      <g
-         transform="matrix(1.0489,0,0,1.0489,-0.18855,-0.39126)"
-         fill="#ffffff"
-         stroke-width="0.080907"
-         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         aria-label="Launch"
-         id="g26">
-        <path
-           d="M 3.0399,9.1796 H 4.425 V 8.81067 H 3.45736 v -1.877 H 3.03988 Z"
-           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="path14" />
-        <path
-           d="m 5.1165,9.212 c 0.20065,0 0.37217,-0.067961 0.49191,-0.19094 l 0.058253,0.15858 h 0.2945 V 8.23466 c 0,-0.42718 -0.24272,-0.66019 -0.7055,-0.66019 -0.22654,0 -0.46602,0.055016 -0.65049,0.1521 L 4.70226,8.0146 C 4.86407,7.949875 5.02265,7.917513 5.16828,7.917513 c 0.25243,0 0.38835,0.097087 0.38835,0.28479 v 0.042071 c -0.68285,0.00971 -0.98382,0.16505 -0.98382,0.49838 0,0.28479 0.21359,0.46926 0.54369,0.46926 z M 4.98705,8.68773 c 0,-0.1424 0.16505,-0.20712 0.56958,-0.21359 v 0.29774 c -0.07767,0.074434 -0.18447,0.1165 -0.30421,0.1165 -0.15858,0 -0.26537,-0.080906 -0.26537,-0.20065 z"
-           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="path16" />
-        <path
-           d="M 6.6258,7.6068 H 6.2148 V 8.61 c 0,0.36246 0.2233,0.59547 0.55987,0.59547 0.18123,0 0.35922,-0.067961 0.49838,-0.19741 l 0.071198,0.17152 h 0.2945 v -1.5728 h -0.411 v 1.1262 c -0.090615,0.071198 -0.19418,0.11327 -0.30744,0.11327 -0.21359,0 -0.2945,-0.1424 -0.2945,-0.32686 z"
-           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="path18" />
-        <path
-           d="M 7.9167,9.1796 H 8.33094 V 8.0534 C 8.421555,7.978966 8.53159,7.94013 8.65133,7.94013 c 0.20065,0 0.30097,0.11327 0.30097,0.32686 V 9.17961 H 9.36654 V 8.20873 c 0,-0.38835 -0.22006,-0.62783 -0.57282,-0.62783 -0.19094,0 -0.36893,0.067961 -0.50809,0.19741 L 8.211196,7.60679 h -0.2945 z"
-           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="path20" />
-        <path
-           d="m 10.413,9.212 c 0.19094,0 0.36893,-0.042071 0.5178,-0.12298 L 10.83695,8.80423 c -0.11003,0.048544 -0.22977,0.074434 -0.33333,0.074434 -0.29126,0 -0.45955,-0.18123 -0.45955,-0.49515 0,-0.29774 0.14887,-0.45955 0.43042,-0.45955 0.1165,0 0.24919,0.02589 0.36246,0.071198 l 0.08738,-0.32686 C 10.78841,7.606813 10.62336,7.574451 10.46155,7.574451 c -0.50809,0 -0.83819,0.33657 -0.83819,0.85437 0,0.49191 0.2945,0.78317 0.78964,0.78317 z"
-           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="path22" />
-        <path
-           d="m 11.13,9.1796 h 0.40777 V 8.0663 c 0.09385,-0.087379 0.19741,-0.12621 0.31715,-0.12621 0.20388,0 0.30744,0.11327 0.30744,0.32686 v 0.91262 h 0.411 V 8.19251 c 0,-0.37864 -0.22006,-0.61165 -0.57929,-0.61165 -0.16828,0 -0.32362,0.055016 -0.45631,0.16505 V 6.78798 h -0.40777 z"
-           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="path24" />
-      </g>
-    </g>
+    <path
+       id="rect1299"
+       style="fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
+       d="M 11 8 C 10.446 8 10 8.4459999 10 9 L 10 23 C 10 23.554 10.446 24 11 24 L 21 24 C 21.554 24 22 23.554 22 23 L 22 9 C 22 8.4459999 21.554 8 21 8 L 11 8 z M 11.5 9 A 0.5 0.5 0 0 1 12 9.5 A 0.5 0.5 0 0 1 11.5 10 A 0.5 0.5 0 0 1 11 9.5 A 0.5 0.5 0 0 1 11.5 9 z M 20.5 9 A 0.5 0.5 0 0 1 21 9.5 A 0.5 0.5 0 0 1 20.5 10 A 0.5 0.5 0 0 1 20 9.5 A 0.5 0.5 0 0 1 20.5 9 z M 16 14 A 4 4 0 0 1 20 18 A 4 4 0 0 1 16 22 A 4 4 0 0 1 12 18 A 4 4 0 0 1 16 14 z M 16 17 A 1 1 0 0 0 15 18 A 1 1 0 0 0 16 19 A 1 1 0 0 0 17 18 A 1 1 0 0 0 16 17 z M 11.5 22 A 0.5 0.5 0 0 1 12 22.5 A 0.5 0.5 0 0 1 11.5 23 A 0.5 0.5 0 0 1 11 22.5 A 0.5 0.5 0 0 1 11.5 22 z M 20.5 22 A 0.5 0.5 0 0 1 21 22.5 A 0.5 0.5 0 0 1 20.5 23 A 0.5 0.5 0 0 1 20 22.5 A 0.5 0.5 0 0 1 20.5 22 z "
+       transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>
