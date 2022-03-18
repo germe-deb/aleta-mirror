@@ -24,12 +24,12 @@
      id="defs4">
     <inkscape:path-effect
        effect="taper_stroke"
-       id="path-effect1778"
+       id="path-effect8982"
        is_visible="true"
        lpeversion="1"
        stroke_width="2"
-       attach_start="1.6629209"
-       end_offset="0"
+       attach_start="3.8506314"
+       end_offset="0.036681816"
        start_smoothing="0.5"
        end_smoothing="0.5"
        jointype="extrapolated"
@@ -1847,9 +1847,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="4.625"
-     inkscape:cy="7.9375"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-0.75130095"
+     inkscape:cy="11.22532"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1863,7 +1863,7 @@
      inkscape:pagecheckerboard="false"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -1882,9 +1882,7 @@
      inkscape:snap-intersection-paths="true"
      width="16px"
      inkscape:showpageshadow="false"
-     inkscape:document-rotation="0"
-     inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false">
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1920,24 +1918,10 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       style="opacity:1;fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
-       id="path1710"
-       sodipodi:type="arc"
-       sodipodi:cx="6.999157"
-       sodipodi:cy="6.9994998"
-       sodipodi:rx="6"
-       sodipodi:ry="6"
-       sodipodi:start="3.4711138"
-       sodipodi:end="0.032017491"
-       sodipodi:arc-type="arc"
-       d="M 13.310412,3.9716192 C 12.29564,1.8768264 10.284509,0.56487277 8.2248845,0.29290215 c 0,0 -9e-7,5.8e-7 -9e-7,5.8e-7 C 5.4030534,-0.04250439 3.3288445,1.5453297 2.383092,2.773786 1.3896056,4.0642447 1.3219725,5.0579599 1.3219725,5.0579599 c 0,0 0.3565112,-0.9256843 1.4939185,-1.8718151 1.0994492,-0.9145559 3.1000253,-1.833565 5.1149745,-1.2845156 2e-7,5e-7 8e-7,2e-7 8e-7,2e-7 1.4895693,0.3756834 2.8913227,1.4871877 3.5763297,2.9350985 0.34723,0.7237586 0.515096,1.5205006 0.489398,2.3228313 l 1.998975,0.064024 C 14.031546,6.1003046 13.79654,4.9848951 13.310412,3.9716192 Z"
-       inkscape:path-effect="#path-effect1778"
-       sodipodi:open="true" />
-    <circle
-       style="opacity:1;fill:#000000;stroke:none;stroke-width:2.89687;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
-       id="path1903"
-       cx="12.996082"
-       cy="7.1915717"
-       r="0.99948794" />
+       id="path8912"
+       style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1015625,1.09375 C 5.2236496,1.1338275 2.7134749,3.0175417 1.7714844,5.4199219 0.51824801,8.7846298 2.2950375,12.026223 4.4296875,13.34375 c 2.3462106,1.414599 4.8003214,0.824303 6.0136715,0.242188 1.325006,-0.635684 1.798828,-1.34375 1.798829,-1.34375 0,0 -0.56589,0.639049 -1.898438,1.105468 C 9.109471,13.779678 6.7889162,14.046697 4.9042969,12.632812 3.1845563,11.37517 1.9763218,8.4619288 3.1425781,5.9882812 4.0401654,3.9668446 6.6500933,2.4872154 8.9863281,3.0371094 10.850135,3.4276679 12.52031,5.0869491 12.894531,6.9804688 c 0.05265,0.252842 0.08659,0.5096408 0.09961,0.7675781 C 12.996141,7.7879349 13,8 13,8 c 0,0.5522847 0.447715,1 1,1 0.552285,0 1,-0.4477153 1,-1 -0.0039,-0.1155677 -0.0065,-0.2352064 -0.0098,-0.3535156 -0.01822,-0.3611126 -0.063,-0.7202396 -0.136718,-1.0742188 C 14.261659,3.8268203 12.015455,1.7029289 9.3535156,1.1933594 8.9308744,1.1199401 8.5126929,1.0880246 8.1015625,1.09375 Z"
+       transform="translate(-1.0008429,-1.0005)"
+       sodipodi:nodetypes="sccscsccccccsccccs" />
   </g>
 </svg>
