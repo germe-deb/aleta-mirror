@@ -8,7 +8,7 @@ command -v inkscape >/dev/null 2>&1 || { echo >&2 "I cannot continue without 'in
 command -v parallel >/dev/null 2>&1 || { echo >&2 "I cannot continue without 'parallel'"; exit 1; }
 command -v bash >/dev/null 2>&1 || { echo >&2 "I cannot continue without 'bash'"; exit 1; }
 
-printf "${info_color}this scripts deletes the icon pack, and rebuild it again${reset_colors}\\n\\n"
+printf "${info_color}this script build the icon pack and update/installs it to your home directory${reset_colors}\\n\\n"
 
 printf "${info_color}removing last build...${reset_colors}\\n"
 rm _build/aleta -rf
