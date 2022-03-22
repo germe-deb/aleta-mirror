@@ -1834,8 +1834,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="7.9991455"
-     inkscape:cy="9.3691648"
+     inkscape:cx="7.6676892"
+     inkscape:cy="8.1759222"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1900,18 +1900,13 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="icon 1" />
-  <g
-     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     transform="translate(1.0008429,1.0005)"
-     style="opacity:1">
+     transform="translate(1.0008429,1.0005)">
     <path
-       id="rect1196"
-       style="fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
-       d="m -8.4285e-4,-5e-4 v 10 H 1.9991571 v 2 h 2 v 2 h 6 v -2 h 1.9999999 v -2 h 2 v -10 z"
-       sodipodi:nodetypes="ccccccccccccc" />
+       id="rect1283"
+       style="fill:#000000;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 1 2 L 1 12 L 3 12 L 4 14 L 12 14 L 13 12 L 15 12 L 15 2 L 1 2 z "
+       transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>
