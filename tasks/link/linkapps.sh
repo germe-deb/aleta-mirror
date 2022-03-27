@@ -166,5 +166,7 @@ ln -s gimp.png org.gimp.GIMP.png
 ln -s org.freedesktop.GnomeAbrt.png abrt.png
 ln -s linuxmint.png mintwelcome.png
 ln -s preferences-symbolic.symbolic.png preferences-other-symbolic.symbolic.png
+ln -s preferences-symbolic.symbolic.png preferences-system-symbolic.png
 ln -s syncthing.png me.kozec.syncthingtk.png
 ln -s rrootage.png com.abagames.rRootage.png
+
