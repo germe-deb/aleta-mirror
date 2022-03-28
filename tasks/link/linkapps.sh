@@ -1,8 +1,7 @@
 
 ln -s gthumb.png org.gnome.gThumb.png
-ln -s mpv.png celluloid.png
-ln -s mpv.png io.github.celluloid_player.Celluloid.png
-ln -s mpv.png io.github.GnomeMpv.png
+ln -s celluloid.png io.github.celluloid_player.Celluloid.png
+ln -s celluloid.png io.github.GnomeMpv.png
 ln -s mpv.png mpv-icon-8bit-64x64.png
 ln -s firewall.png gufw.png
 ln -s utilities-terminal.png terminal.png
