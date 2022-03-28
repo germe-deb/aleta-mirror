@@ -4,8 +4,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="folder-music-symbolic.symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="music-note-single-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1833,16 +1833,16 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="18.377463"
-     inkscape:cy="8.2726059"
+     inkscape:zoom="22.98097"
+     inkscape:cx="5.4827972"
+     inkscape:cy="6.8317394"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
@@ -1900,16 +1900,12 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="icon"
-     transform="translate(1.0008429,1.0005)">
-    <g
-       transform="matrix(1.1669444,0,0,1.1669444,-1.1684969,-1.169552)"
-       id="g4">
-      <path
-         d="M 5.9985,1.1611 V 7.1718 C 5.6774,7.05816 5.33929,7.00005 4.99868,6.99995 c -1.6566,0 -2.9995,1.3429 -2.9995,2.9995 0,1.6566 1.3429,2.9995 2.9995,2.9995 1.6566,0 2.9995,-1.3429 2.9995,-2.9995 v -6.1743 c 0.5778,0.27773 1.7669,0.68958 2.3969,0.74987 0.42207,0.040387 1.6041,-0.23824 1.6041,-0.23824 v -2.5699 c 0,0 -1.1821,0.27471 -1.6041,0.23434 C 9.50276,1.915833 8.28078,1.12509 7.39188,1.00921 6.97225,0.97179 6.41304,1.08453 5.99848,1.16114 Z"
-         stroke-width="1.9996"
-         id="path2" />
-    </g>
+     id="layer1"
+     inkscape:label="icon 1"
+     style="display:inline">
+    <path
+       id="path2073"
+       style="fill:#000000;stroke-width:0.4;stroke-linecap:square;paint-order:markers stroke fill"
+       d="M 8,1 V 4 7.5371094 A 4,4 0 0 0 6,7 4,4 0 0 0 2,11 4,4 0 0 0 6,15 4,4 0 0 0 10,11 V 4.1679688 C 11.298259,4.4526533 11.335255,5 14,5 V 2 C 10.4,2 11.6,1 8,1 Z" />
   </g>
 </svg>
