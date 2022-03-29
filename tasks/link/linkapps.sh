@@ -168,4 +168,4 @@ ln -s preferences-symbolic.symbolic.png preferences-other-symbolic.symbolic.png
 ln -s preferences-symbolic.symbolic.png preferences-system-symbolic.png
 ln -s syncthing.png me.kozec.syncthingtk.png
 ln -s rrootage.png com.abagames.rRootage.png
-
+ln -s anki.png net.ankiweb.Anki.png
