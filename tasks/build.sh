@@ -49,4 +49,8 @@ rm -rf ~/.icons/aleta
 mkdir ~/.icons/aleta -p
 cp -r ./_build/aleta/* ~/.icons/aleta/
 
+printf "${info_color}Updating gtk icon cache${reset_colors}\\n"
+
+gtk-update-icon-cache ~/.icons/aleta/
+
 printf "${comple_color}\\ncompleted${reset_colors}\\n"
