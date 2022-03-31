@@ -4,8 +4,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="preferences-desktop-wallpaper-symbolic.symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="folder-pictures-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1833,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-0.35355339"
-     inkscape:cy="10.076272"
+     inkscape:zoom="22.627417"
+     inkscape:cx="6.4302523"
+     inkscape:cy="7.7781746"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1904,9 +1904,14 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="rect2082"
-       style="fill:#000000;stroke:none;stroke-width:0.035;paint-order:markers stroke fill"
-       d="M 2 1 C 1.446 1 1 1.446 1 2 L 1 14 C 1 14.554 1.446 15 2 15 L 14 15 C 14.554 15 15 14.554 15 14 L 15 2 C 15 1.446 14.554 1 14 1 L 2 1 z M 11.5 3 A 1.5 1.5 0 0 1 13 4.5 A 1.5 1.5 0 0 1 11.5 6 A 1.5 1.5 0 0 1 10 4.5 A 1.5 1.5 0 0 1 11.5 3 z M 7 8 L 9 10.400391 L 10 9.1992188 L 13.568359 13.482422 L 2.4316406 13.482422 L 7 8 z "
+       id="rect1283"
+       style="opacity:1;fill:#000000;stroke-width:0.2;stroke-linecap:square;paint-order:markers stroke fill"
+       d="M 2.0175781 1 C 1.4541442 1 1 1.4541442 1 2.0175781 L 1 13.982422 C 1 14.545856 1.4541442 15 2.0175781 15 L 13.982422 15 C 14.545856 15 15 14.545856 15 13.982422 L 15 2.0175781 C 15 1.4541442 14.545856 1 13.982422 1 L 2.0175781 1 z M 2.0527344 2 L 13.947266 2 C 13.976311 2 14 2.0236886 14 2.0527344 L 14 13.947266 C 14 13.976311 13.976311 14 13.947266 14 L 2.0527344 14 C 2.0236886 14 2 13.976311 2 13.947266 L 2 2.0527344 C 2 2.0236886 2.0236886 2 2.0527344 2 z "
        transform="translate(-1.0008429,-1.0005)" />
+    <path
+       d="m 10.499158,1.9995 c 0.828427,0 1.499999,0.6715729 1.499999,1.5 0,0.8284271 -0.671572,1.5 -1.499999,1.5 -0.8284274,0 -1.5000004,-0.6715729 -1.5000004,-1.5 0,-0.8284271 0.671573,-1.5 1.5000004,-1.5 z m -4.5000004,5 2,2.400391 1,-1.2011722 L 11.999157,11.9995 H 1.9991571 Z"
+       style="fill:#000000;stroke:none;stroke-width:0.035;paint-order:markers stroke fill"
+       id="path3278"
+       sodipodi:nodetypes="ssssscccccc" />
   </g>
 </svg>
