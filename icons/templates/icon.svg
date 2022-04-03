@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="template-icon-new.svg"
+   sodipodi:docname="icon.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1855,7 +1855,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.3125"
-     inkscape:cx="15.133574"
+     inkscape:cx="15.162455"
      inkscape:cy="16"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
@@ -1919,26 +1919,6 @@
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
      style="display:inline">
-    <g
-       id="g4337"
-       transform="translate(-22.320454,1056.4942)">
-      <g
-         id="g4666"
-         transform="matrix(0.33600544,0,0,0.33600544,1.5295902,73.042549)" />
-      <g
-         id="g5363"
-         transform="matrix(0.37187349,0,0,0.37187349,38.801738,63.239042)">
-        <g
-           id="g5646"
-           transform="matrix(2.6890865,0,0,2.6890865,-82.905872,-48.450082)" />
-      </g>
-    </g>
-    <g
-       id="g4198"
-       transform="matrix(0.26264259,0,0,0.26264259,1.2201088,1094.2147)" />
-    <g
-       id="g6215"
-       transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <rect
        style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
