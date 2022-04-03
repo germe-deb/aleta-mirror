@@ -22,3 +22,7 @@
 * symbolic icons from Adwaita icon theme
 * Moka icon theme
 * Android adaptive icons
+
+## Special thanks to
+
+The Community that helped commenting or something
