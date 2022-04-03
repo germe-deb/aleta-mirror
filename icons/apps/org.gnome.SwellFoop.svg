@@ -24,6 +24,18 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5542">
+      <stop
+         style="stop-color:#33d17a;stop-opacity:1"
+         offset="0"
+         id="stop5538" />
+      <stop
+         style="stop-color:#1c71d8;stop-opacity:1"
+         offset="1"
+         id="stop5540" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient8471">
       <stop
          id="stop8467"
@@ -1839,12 +1851,12 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient8471"
-       id="linearGradient8465"
-       x1="14.999157"
-       y1="1095.7725"
-       x2="14.999157"
-       y2="1121.7725"
+       xlink:href="#linearGradient5542"
+       id="linearGradient5544"
+       x1="0.99915707"
+       y1="1108.7725"
+       x2="28.999157"
+       y2="1108.7725"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -1854,11 +1866,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.483572"
-     inkscape:cx="11.313709"
-     inkscape:cy="20.013419"
+     inkscape:zoom="17.3125"
+     inkscape:cx="16.115524"
+     inkscape:cy="16.635379"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1940,7 +1952,7 @@
        id="g6215"
        transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <rect
-       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:1;fill:url(#linearGradient5544);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
        width="28"
        height="28.000038"
