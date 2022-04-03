@@ -1846,84 +1846,6 @@
        x2="14.999157"
        y2="1121.7725"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter2321"
-       x="-0.35805466"
-       y="-0.35805466"
-       width="1.7161093"
-       height="1.7161093">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.28927307"
-         id="feGaussianBlur2323" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter2325"
-       x="-0.26618648"
-       y="-0.26618648"
-       width="1.532373"
-       height="1.532373">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.28927307"
-         id="feGaussianBlur2327" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter2329"
-       x="-0.16966074"
-       y="-0.58247695"
-       width="1.3393215"
-       height="2.1649539">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.18764898"
-         id="feGaussianBlur2331" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter2333"
-       x="-0.19159064"
-       y="-0.6577664"
-       width="1.3831813"
-       height="2.3155328">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.27340022"
-         id="feGaussianBlur2335" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter2337"
-       x="-0.21866859"
-       y="-0.75073006"
-       width="1.4373372"
-       height="2.5014601">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.31204052"
-         id="feGaussianBlur2339" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter2456"
-       x="-0.17463569"
-       y="-0.59955688"
-       width="1.3492714"
-       height="2.1991138">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.1931514"
-         id="feGaussianBlur2458" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1932,11 +1854,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="2.6875"
-     inkscape:cy="4.875"
+     inkscape:zoom="22.627417"
+     inkscape:cx="15.048116"
+     inkscape:cy="19.843184"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1950,7 +1872,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -2041,83 +1963,29 @@
      id="layer2"
      inkscape:label="foreground"
      transform="translate(1.0008429,1.0005)"
-     style="display:inline" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="foreground 1"
-     style="display:inline;opacity:1">
+     style="display:inline">
     <circle
-       style="opacity:0.35;fill:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="path1219"
-       cx="16"
-       cy="16"
-       r="8" />
+       style="opacity:0.6;fill:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="circle1629"
+       cx="21.212254"
+       cy="0.00024246692"
+       r="8"
+       transform="rotate(45)" />
     <circle
-       style="opacity:0.2;fill:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="path1687"
-       cx="15.856041"
-       cy="15.79769"
-       r="7.6089935" />
-    <path
-       id="path1243"
-       style="opacity:0.2;mix-blend-mode:normal;fill:#ffffff;stroke-width:6.97216;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="m 16,8 a 8,8 0 0 0 -7.7421875,6.052734 6.9721527,6.9721527 0 0 0 -0.050781,0.714844 6.9721527,6.9721527 0 0 0 6.9726565,6.972656 6.9721527,6.9721527 0 0 0 6.970703,-6.972656 A 6.9721527,6.9721527 0 0 0 17.164062,8.0839844 8,8 0 0 0 16,8 Z" />
-    <path
-       id="path1445"
-       style="opacity:0.2;fill:#ffffff;stroke-width:6.47621;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="m 14.751953,9.078125 a 4.8840332,4.8840332 0 0 0 -4.8828124,4.884766 4.8840332,4.8840332 0 0 0 2.2460934,4.109375 5.1809692,5.1809692 0 0 0 3.271485,3.652343 6.9721527,6.9721527 0 0 0 6.716797,-6.298828 5.1809692,5.1809692 0 0 0 -2.81836,-3.28125 4.8840332,4.8840332 0 0 0 -4.533203,-3.066406 z" />
+       style="opacity:0.5;fill:#ffffff;stroke-width:3.74703;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="circle1948"
+       cx="19.804771"
+       cy="0.00024246692"
+       r="5.9952407"
+       transform="rotate(45)"
+       inkscape:transform-center-x="-1.6416742"
+       inkscape:transform-center-y="1.6416742" />
     <circle
-       style="opacity:0.35;fill:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="path1685"
-       cx="14.762753"
-       cy="13.665668"
-       r="4.0694895" />
-    <circle
-       style="opacity:0.8;mix-blend-mode:normal;fill:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter2325)"
-       id="path1552"
-       cx="13.627686"
-       cy="11.869019"
-       r="1.3040771" />
-    <circle
-       style="opacity:0.8;mix-blend-mode:normal;fill:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter2321)"
-       id="path1554"
-       cx="14.635986"
-       cy="15.985352"
-       r="0.96948242" />
-    <ellipse
-       style="opacity:0.8;mix-blend-mode:normal;fill:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter2337)"
-       id="path1556"
-       cx="14.410506"
-       cy="24.17527"
-       rx="1.7124023"
-       ry="0.4987793"
-       transform="rotate(-5.1627691)" />
-    <ellipse
-       style="opacity:0.8;mix-blend-mode:normal;fill:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter2333)"
-       id="ellipse1638"
-       cx="-12.683497"
-       cy="25.368088"
-       rx="1.7124023"
-       ry="0.4987793"
-       transform="rotate(-78.815572)"
-       inkscape:transform-center-x="-6.6916682"
-       inkscape:transform-center-y="1.3765678" />
-    <ellipse
-       style="opacity:0.8;mix-blend-mode:normal;fill:#ffffff;stroke-width:3.87534;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter2456)"
-       id="ellipse1640"
-       cx="14.802876"
-       cy="21.754539"
-       rx="1.3272297"
-       ry="0.38658831"
-       transform="rotate(-4.0464093)" />
-    <ellipse
-       style="opacity:0.8;mix-blend-mode:normal;fill:#ffffff;stroke-width:3.87534;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter2329)"
-       id="ellipse1642"
-       cx="-9.8480387"
-       cy="24.912485"
-       rx="1.3272297"
-       ry="0.38658831"
-       transform="rotate(-72.220797)" />
+       style="opacity:1;fill:#ffffff;stroke-width:2.8125;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="circle1631"
+       cx="18.712254"
+       cy="0.00024246692"
+       r="4.5"
+       transform="rotate(45)" />
   </g>
 </svg>
