@@ -39,7 +39,7 @@ cd aleta-postre
 
 ## Credits
 
-[Contributors list](./Contributors.md)	
+[Credits list](./AUTHORS.md)	
 
 ## license
 
