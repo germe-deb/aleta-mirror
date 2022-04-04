@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="io.github.lainsce.Emulsion.svg"
+   sodipodi:docname="io.github.lainsce.Khronos.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -28,11 +28,11 @@
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#1df144;stop-opacity:1" />
+         style="stop-color:#8247b0;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#007f17;stop-opacity:1" />
+         style="stop-color:#593078;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1854,11 +1854,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.3125"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:zoom="16"
+     inkscape:cx="17.21875"
+     inkscape:cy="16.5625"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1959,52 +1959,63 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="foreground"
-     transform="translate(1.0008429,1.0005)"
+     id="layer4"
+     inkscape:label="foreground 1"
      style="display:inline">
-    <rect
-       style="display:inline;opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1658"
-       width="16"
-       height="2"
-       x="6.999157"
-       y="1107.7725"
-       ry="1"
-       transform="translate(0,-1093.773)" />
-    <rect
-       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1804"
-       width="16"
-       height="2"
-       x="6.999157"
-       y="8.9995003"
-       ry="1" />
-    <rect
-       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1806"
-       width="16"
-       height="2"
-       x="6.999157"
-       y="18.9995"
-       ry="1" />
+    <path
+       id="path3668"
+       style="opacity:0.2;fill:#ffffff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 16,8 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,7 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z" />
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="path1910"
-       cx="19.999157"
-       cy="14.9995"
-       r="2" />
+       style="opacity:0.2;fill:#ffffff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path3736"
+       cx="13"
+       cy="21"
+       r="1" />
+    <rect
+       style="opacity:0.2;fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect4065"
+       width="5"
+       height="1.2000008"
+       x="15"
+       y="20.4" />
     <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="path1912"
-       cx="9.999157"
-       cy="19.9995"
-       r="2" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="path1914"
-       cx="10.999157"
-       cy="9.9995003"
-       r="2" />
+       style="opacity:0.2;fill:#ffffff;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="circle4246"
+       cx="13"
+       cy="18"
+       r="1" />
+    <rect
+       style="opacity:0.2;fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect4248"
+       width="5"
+       height="1.2000008"
+       x="15"
+       y="17.4" />
+    <path
+       id="path4451"
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:7.50244;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 12.652344,11.994141 A 0.75,0.75 0 0 0 12.125,12.21875 a 0.75,0.75 0 0 0 0.01367,1.060547 l 2.410156,2.351562 A 1.5004883,1.5004883 0 0 0 14.5,16 a 1.5004883,1.5004883 0 0 0 0.542969,1.152344 l -1.9375,4.310547 a 0.40000001,0.40000001 0 0 0 0.201172,0.529297 0.40000001,0.40000001 0 0 0 0.529297,-0.201172 l 1.9375,-4.310547 A 1.5004883,1.5004883 0 0 0 16,17.5 1.5004883,1.5004883 0 0 0 17.5,16 1.5004883,1.5004883 0 0 0 17.369141,15.388672 l 2.55664,-2.431641 A 0.5,0.5 0 0 0 19.943359,12.25 0.5,0.5 0 0 0 19.591797,12.09375 0.5,0.5 0 0 0 19.236328,12.232422 l -2.554687,2.43164 A 1.5004883,1.5004883 0 0 0 16,14.5 1.5004883,1.5004883 0 0 0 15.59375,14.55664 L 13.185547,12.20703 A 0.75,0.75 0 0 0 12.652344,11.99414 Z M 16,15.476562 A 0.52349854,0.52349854 0 0 1 16.523438,16 0.52349854,0.52349854 0 0 1 16,16.523438 0.52349854,0.52349854 0 0 1 15.476562,16 0.52349854,0.52349854 0 0 1 16,15.476562 Z" />
+    <g
+       id="path1976-5">
+      <path
+         style="color:#000000;fill:#ffffff;stroke-linecap:round;-inkscape-stroke:none"
+         d="m 16,16 3.580192,-3.405818"
+         id="path5156" />
+    </g>
+    <g
+       id="path1988-4">
+      <path
+         style="color:#000000;fill:#ffffff;stroke-width:0.8;stroke-linecap:round;-inkscape-stroke:none"
+         d="m 16,16 -2.529143,5.627271"
+         id="path5162" />
+    </g>
+    <g
+       id="path2370-7">
+      <path
+         style="color:#000000;fill:#ffffff;stroke-width:1.5;stroke-linecap:round;-inkscape-stroke:none"
+         d="M 16,16 12.662011,12.743368"
+         id="path5150" />
+    </g>
   </g>
 </svg>
