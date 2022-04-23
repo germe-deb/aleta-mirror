@@ -171,3 +171,4 @@ ln -s rrootage.png com.abagames.rRootage.png
 ln -s anki.png net.ankiweb.Anki.png
 ln -s goa-account-lastfm.png lastfm.png
 ln -s preferences-desktop-theme.png cs-themes.png
+ln -s ardour.png org.ardour.Ardour.png
