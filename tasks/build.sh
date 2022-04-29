@@ -10,13 +10,13 @@ command -v bash >/dev/null 2>&1 || { echo >&2 "I cannot continue without 'bash'"
 
 printf "${info_color}this script build the icon pack and update/installs it to your home directory${reset_colors}\\n\\n"
 
-printf "${info_color}removing last build...${reset_colors}\\n"
+printf "${info_color}cleaning up the build directory...${reset_colors}\\n"
 rm _build/aleta -rf
 
-printf "${info_color}rebuilding folders...${reset_colors}\\n"
+printf "${info_color}rebuilding folder structure...${reset_colors}\\n"
 ./tasks/rebuildfolders.sh
 
-printf "${info_color}making a copy of the files to build${reset_colors}\\n"
+printf "${info_color}copying the files to build in the build dir${reset_colors}\\n"
 
 cp icons/apps/*.svg        _build/icons-t/apps/
 cp icons/places/*.svg      _build/icons-t/places/
@@ -30,7 +30,7 @@ cp icons/animations/*.svg  _build/icons-t/animations/
 printf "${info_color}starting link process...${reset_colors}\\n"
 ./tasks/linkcall.sh
 
-printf "${info_color}exporting all the icons...${reset_colors}\\n"
+printf "${info_color}exporting all the icons... This will take a long time; and depends directly on the numbers of cores your processor has.${reset_colors}\\n"
 ./tasks/export/export-places.sh 
 ./tasks/export/export-apps.sh
 ./tasks/export/export-categories.sh
@@ -40,7 +40,7 @@ printf "${info_color}exporting all the icons...${reset_colors}\\n"
 ./tasks/export/export-actions.sh
 ./tasks/export/export-animations.sh
 
-printf "${info_color}Launching misc commands${reset_colors}\\n"
+printf "${info_color}Launching misc commands...${reset_colors}\\n"
 ./tasks/misc.sh
 ./tasks/mvscalable.sh
 
@@ -49,8 +49,8 @@ rm -rf ~/.icons/aleta
 mkdir ~/.icons/aleta -p
 cp -r ./_build/aleta/* ~/.icons/aleta/
 
-printf "${info_color}Updating gtk icon cache${reset_colors}\\n"
+printf "${info_color}Updating gtk icon cache...${reset_colors}\\n"
 
 gtk-update-icon-cache ~/.icons/aleta/
 
-printf "${comple_color}\\ncompleted${reset_colors}\\n"
+printf "${comple_color}\\nCOMPLETED\!${reset_colors}\\n"
