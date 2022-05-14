@@ -1858,12 +1858,12 @@
          stop-color="#f6d32d"
          offset="0"
          id="stop28"
-         style="stop-color:#92c3e9;stop-opacity:1" />
+         style="stop-color:#7eb8e5;stop-opacity:1" />
       <stop
          stop-color="#f9f06b"
          offset="1"
          id="stop30"
-         style="stop-color:#4ca0e1;stop-opacity:1" />
+         style="stop-color:#278cda;stop-opacity:1" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -1874,10 +1874,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.3125"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:cx="23.65343"
+     inkscape:cy="16.750903"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
