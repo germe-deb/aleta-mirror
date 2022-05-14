@@ -10,7 +10,6 @@ do
 		parallel  ::: \
 		"inkscape -w 8 -h 8 -o      _build/aleta/apps/8/${N}.png  ${SVG}  >/dev/null 2>&1" \
 		"inkscape -w 16 -h 16 -o    _build/aleta/apps/16/${N}.png ${SVG}  >/dev/null 2>&1" \
-		"inkscape -w 22 -h 22 -o    _build/aleta/apps/22/${N}.png ${SVG}  >/dev/null 2>&1" \
 		"inkscape -w 24 -h 24 -o    _build/aleta/apps/24/${N}.png ${SVG}  >/dev/null 2>&1" \
 		"inkscape -w 32 -h 32 -o    _build/aleta/apps/32/${N}.png ${SVG}  >/dev/null 2>&1" \
 		"inkscape -w 48 -h 48 -o    _build/aleta/apps/48/${N}.png ${SVG}  >/dev/null 2>&1" \

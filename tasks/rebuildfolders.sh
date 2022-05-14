@@ -44,7 +44,6 @@ mkdir -p _build/aleta/animations
 # here is the .png exported.
 mkdir -p _build/aleta/apps/8
 mkdir -p _build/aleta/apps/16
-mkdir -p _build/aleta/apps/22
 mkdir -p _build/aleta/apps/24
 mkdir -p _build/aleta/apps/32
 mkdir -p _build/aleta/apps/48
@@ -56,7 +55,6 @@ mkdir -p _build/aleta/apps/scalable
 
 mkdir -p _build/aleta/places/8
 mkdir -p _build/aleta/places/16
-mkdir -p _build/aleta/places/22
 mkdir -p _build/aleta/places/24
 mkdir -p _build/aleta/places/32
 mkdir -p _build/aleta/places/48
