@@ -30,7 +30,7 @@ cp icons/animations/*.svg  _build/icons-t/animations/
 printf "${info_color}starting link process...${reset_colors}\\n"
 ./tasks/linkcall.sh
 
-printf "${info_color}exporting all the icons... This will take a long time; and depends directly on the numbers of cores your processor has.${reset_colors}\\n"
+printf "${info_color}exporting all the icons... this will take a long time.${reset_colors}\\n"
 ./tasks/export/export-places.sh 
 ./tasks/export/export-apps.sh
 ./tasks/export/export-categories.sh
