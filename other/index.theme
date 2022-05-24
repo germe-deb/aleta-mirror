@@ -52,12 +52,12 @@ Size=256
 Context=Applications
 Type=Fixed
 
-[apps/scalable]
-Context=Applications
-Size=18
-MinSize=8
-MaxSize=1024
-Type=Scalable
+# [apps/scalable]
+# Context=Applications
+# Size=18
+# MinSize=8
+# MaxSize=1024
+# Type=Scalable
 
 
 # places
@@ -236,12 +236,12 @@ Context=Status
 Type=Fixed
 Size = 256
 
-[status/scalable]
-Context=Status
-Size=18
-MinSize=8
-MaxSize=1024
-Type=Scalable
+# [status/scalable]
+# Context=Status
+# Size=18
+# MinSize=8
+# MaxSize=1024
+# Type=Scalable
 
 
 

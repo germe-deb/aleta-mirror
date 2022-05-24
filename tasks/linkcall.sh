@@ -3,7 +3,6 @@
 function order () {
 	liplaces 8
 	liplaces 16
-	liplaces 22
 	liplaces 24
 	liplaces 32
 	liplaces 48
@@ -14,7 +13,6 @@ function order () {
 
 	liapps 8
 	liapps 16
-	liapps 22
 	liapps 24
 	liapps 32
 	liapps 48
