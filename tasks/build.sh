@@ -42,7 +42,6 @@ printf "${info_color}exporting all the icons... This will take a long time; and 
 
 printf "${info_color}Launching misc commands...${reset_colors}\\n"
 ./tasks/misc.sh
-./tasks/linkcall.sh
 
 printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
 rm -rf ~/.icons/aleta
