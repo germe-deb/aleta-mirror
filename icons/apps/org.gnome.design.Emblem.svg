@@ -24,6 +24,18 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11247">
+      <stop
+         style="stop-color:#5799e9;stop-opacity:1"
+         offset="0"
+         id="stop11243" />
+      <stop
+         style="stop-color:#8c31a8;stop-opacity:1"
+         offset="1"
+         id="stop11245" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient8471">
       <stop
          id="stop8467"
@@ -1837,35 +1849,15 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
-    <meshgradient
+    <linearGradient
        inkscape:collect="always"
-       id="meshgradient1980"
-       gradientUnits="userSpaceOnUse"
-       x="0.99915707"
-       y="1094.7725">
-      <meshrow
-         id="meshrow1982">
-        <meshpatch
-           id="meshpatch1984">
-          <stop
-             path="c 9.33333,0  18.6667,0  28,0"
-             style="stop-color:#ed333b;stop-opacity:1"
-             id="stop1986" />
-          <stop
-             path="c 0,9.33335  0,18.6667  0,28"
-             style="stop-color:#f79856;stop-opacity:1"
-             id="stop1988" />
-          <stop
-             path="c -9.33333,0  -18.6667,0  -28,0"
-             style="stop-color:#b161c9;stop-opacity:1"
-             id="stop1990" />
-          <stop
-             path="c 0,-9.33335  0,-18.6667  0,-28"
-             style="stop-color:#f6d32d;stop-opacity:1"
-             id="stop1992" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
+       xlink:href="#linearGradient11247"
+       id="linearGradient11171"
+       x1="14.999157"
+       y1="1095.7725"
+       x2="14.999157"
+       y2="1121.7725"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1874,11 +1866,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.65625"
-     inkscape:cx="13.111913"
-     inkscape:cy="16.981949"
+     inkscape:zoom="17.3125"
+     inkscape:cx="10.079422"
+     inkscape:cy="16.462094"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1888,7 +1880,7 @@
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -1906,7 +1898,8 @@
      inkscape:snap-center="true"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-grids="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1960,7 +1953,7 @@
        id="g6215"
        transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <rect
-       style="opacity:1;fill:url(#meshgradient1980);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:1;fill:url(#linearGradient11171);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
        width="28"
        height="28.000038"
@@ -1999,15 +1992,12 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="foreground"
-     transform="translate(1.0008429,1.0005)"
-     style="display:inline">
+     id="layer4"
+     inkscape:label="foreground 1">
     <path
-       id="path100"
-       style="fill:#ffffff;stroke-width:0.247618"
-       d="m 18.67323,6.9995 c -0.53973,0 -0.990018,0.4502879 -0.990018,0.9900175 v 4.9522745 c 0,0.53973 0.450288,0.990017 0.990018,0.990016 h 2.972238 c 0.53973,0 0.990018,-0.450286 0.990018,-0.990016 V 7.9895175 C 22.635486,7.4497879 22.185198,6.9995 21.645468,6.9995 Z m 0,0.9900175 h 2.972238 V 8.979535 H 18.67323 Z M 9.8389647,8.485619 c -0.1528265,0 -0.2728696,0.045079 -0.3715295,0.13987 l -1.8117542,1.840166 1.8117542,1.842351 c 0.098659,0.0948 0.218703,0.13987 0.3715295,0.13987 H 10.33288 v -0.496102 c 2e-6,-0.127678 -0.06424,-0.261444 -0.155167,-0.356231 L 9.5439262,10.961757 H 13.799035 V 9.9717389 H 9.5439262 L 10.177713,9.3357674 C 10.26864,9.2429049 10.33288,9.1072128 10.33288,8.979535 V 8.485619 Z M 18.67323,9.9717389 h 2.972238 V 10.961757 H 18.67323 Z m 0,1.9800351 h 2.972238 v 0.990018 H 18.67323 Z m -7.844247,4.115419 c -1.9132353,0 -3.4661549,1.55292 -3.4661549,3.466153 0,1.913236 1.5529196,3.466154 3.4661549,3.466154 1.913234,10e-7 3.466153,-1.552918 3.466153,-3.466154 0,-1.913233 -1.552919,-3.466153 -3.466153,-3.466153 z m 0,0.990018 c 1.366733,0 2.476135,1.109402 2.476135,2.476135 0,0.504909 -0.141933,0.969809 -0.402125,1.361548 L 9.4674352,17.459337 c 0.391739,-0.260192 0.8566388,-0.402126 1.3615478,-0.402126 z m 8.834265,0.01967 v 1.98222 h -1.980036 v 0.990018 h 1.980036 v 1.98222 h 0.992202 v -1.98222 h 1.980036 V 19.059102 H 20.65545 v -1.98222 z m -10.9082761,1.09492 3.4355581,3.435558 c -0.391739,0.260193 -0.856639,0.402127 -1.361547,0.402127 -1.3667353,0 -2.4761374,-1.109402 -2.4761374,-2.476137 0,-0.504908 0.1419344,-0.969809 0.4021263,-1.361548 z"
-       sodipodi:nodetypes="ssscssssscccccscccsccccccccscsccccccccccsssssssccscccccccccccccccssc" />
+       id="rect9768"
+       style="opacity:1;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.684953;paint-order:markers stroke fill"
+       d="m 19,8 c -0.554,0 -1,0.446 -1,1 v 5 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 V 9 C 24,8.446 23.554,8 23,8 Z m 0,1 h 4 v 1 H 19 Z M 10.353516,9.1074219 8,11.460938 l 2.353516,2.353515 h 0.707031 V 13.107422 L 9.953125,12 H 15 V 11 H 9.875 L 11.060547,9.8144531 V 9.1074219 Z M 19,11 h 4 v 1 h -4 z m 0,2 h 4 v 1 h -4 z m -7,3 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,1 a 3,3 0 0 1 3,3 3,3 0 0 1 -0.556641,1.736328 L 10.263672,17.556641 A 3,3 0 0 1 12,17 Z m 8,1 v 2 h -2 v 1 h 2 v 2 h 1 v -2 h 2 V 20 H 21 V 18 Z M 9.5566406,18.263672 13.736328,22.443359 A 3,3 0 0 1 12,23 3,3 0 0 1 9,20 3,3 0 0 1 9.5566406,18.263672 Z" />
   </g>
   <script
      id="mesh_polyfill"
