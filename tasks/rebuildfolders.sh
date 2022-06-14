@@ -51,7 +51,6 @@ mkdir -p _build/aleta/apps/64
 mkdir -p _build/aleta/apps/96
 mkdir -p _build/aleta/apps/128
 mkdir -p _build/aleta/apps/256
-mkdir -p _build/aleta/apps/scalable
 
 mkdir -p _build/aleta/places/8
 mkdir -p _build/aleta/places/16
