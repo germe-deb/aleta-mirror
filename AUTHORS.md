@@ -6,11 +6,11 @@
 
 ## Forked from
 
-#### Literally the project
+#### Base Project
 
 * [Ameixa](https://gitlab.com/xphnx/ameixa) Minimalist material design inspired icon pack for Android
 
-#### Structure of the resultant build
+#### Structure of the build
 
 * Adwaita icon theme
 * Moka icon theme
