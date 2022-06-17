@@ -28,11 +28,11 @@
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#2aa9c7;stop-opacity:1" />
+         style="stop-color:#62a0ea;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#297fcc;stop-opacity:1" />
+         style="stop-color:#1c71d8;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1854,11 +1854,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.65625"
-     inkscape:cx="11.379061"
-     inkscape:cy="26.33935"
+     inkscape:zoom="17.3125"
+     inkscape:cx="15.971119"
+     inkscape:cy="16"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="svg2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1918,28 +1918,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <g
-       id="g4337"
-       transform="translate(-22.320454,1056.4942)">
-      <g
-         id="g4666"
-         transform="matrix(0.33600544,0,0,0.33600544,1.5295902,73.042549)" />
-      <g
-         id="g5363"
-         transform="matrix(0.37187349,0,0,0.37187349,38.801738,63.239042)">
-        <g
-           id="g5646"
-           transform="matrix(2.6890865,0,0,2.6890865,-82.905872,-48.450082)" />
-      </g>
-    </g>
-    <g
-       id="g4198"
-       transform="matrix(0.26264259,0,0,0.26264259,1.2201088,1094.2147)" />
-    <g
-       id="g6215"
-       transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
+     style="display:inline">
     <rect
        style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
@@ -1985,25 +1964,21 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
     <path
-       id="rect3637"
-       style="opacity:1;fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       d="M 9 8 C 8.4459999 8 8 8.4459999 8 9 L 8 23 C 8 23.554 8.4459999 24 9 24 L 23 24 C 23.554 24 24 23.554 24 23 L 24 9 C 24 8.4459999 23.554 8 23 8 L 9 8 z M 9 9 L 23 9 L 23 13 L 9 13 L 9 9 z M 9 14 L 23 14 L 23 18 L 9 18 L 9 14 z M 9 19 L 23 19 L 23 23 L 9 23 L 9 19 z "
+       id="rect4878"
+       style="opacity:0.81;fill:#ffffff;stroke-width:0.3;stroke-linejoin:round"
+       d="M 10,8 C 8.8919999,8 8,8.8919999 8,10 v 12 c 0,1.108 0.8919999,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 V 10 C 24,8.8919999 23.108,8 22,8 Z m 0,1 h 12 c 0.554,0 1,0.4459999 1,1 v 12 c 0,0.554 -0.446,1 -1,1 H 10 C 9.4459999,23 9,22.554 9,22 V 10 C 9,9.4459999 9.4459999,9 10,9 Z"
        transform="translate(-1.0008429,-1.0005)" />
     <path
-       id="rect3752"
-       style="opacity:1;fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       d="m 13,10 v 2 c 2,0 4,0 6,0 0,-0.666667 0,-1.333333 0,-2 h -1 v 1 h -4 v -1 z"
+       id="rect4989"
+       style="opacity:1;fill:#ffffff;stroke-width:0.3;stroke-linejoin:round"
+       d="m 10,10 v 6 h 12 v -6 z m 3,2 h 1 v 1 h 4 v -1 h 1 v 2 h -6 z"
        transform="translate(-1.0008429,-1.0005)"
-       sodipodi:nodetypes="ccccccccc" />
+       sodipodi:nodetypes="cccccccccccccc" />
     <path
-       id="path3880"
-       style="opacity:1;fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       d="m 11.999157,13.9995 v 2 c 2,0 4,0 6,0 0,-0.666667 0,-1.333333 0,-2 h -1 v 1 h -4 v -1 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       id="path3882"
-       style="opacity:1;fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       d="m 11.999157,18.9995 v 2 c 2,0 4,0 6,0 0,-0.666667 0,-1.333333 0,-2 h -1 v 1 h -4 v -1 z"
-       sodipodi:nodetypes="ccccccccc" />
+       id="rect5013"
+       style="opacity:0.62;fill:#ffffff;stroke-width:0.3;stroke-linejoin:round"
+       d="m 10,16 v 6 h 12 v -6 z m 3,2 h 1 v 1 h 4 v -1 h 1 v 2 h -6 z"
+       transform="translate(-1.0008429,-1.0005)"
+       sodipodi:nodetypes="cccccccccccccc" />
   </g>
 </svg>

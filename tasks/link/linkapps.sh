@@ -120,9 +120,13 @@ ln -s chromium.png chromium-browser.png
 ln -s firefox-developer.png firefox-developer-icon.png
 ln -s kdenlive.png org.kde.kdenlive.png
 ln -s org.gnome.Nautilus.png org.gnome.NautilusDevel.png
+ln -s org.gnome.Nautilus.png org.xfce.thunar.png
+ln -s org.gnome.Nautilus.png thunar.png
+ln -s org.gnome.Nautilus.png xfce-thunar.png
 ln -s color-selector.png org.gnome.design.Contrast.png
 ln -s audacity.png org.audacityteam.Audacity.png
 ln -s com.discordapp.Discord.png discord.png
+ln -s com.discordapp.Discord.png discordapp.png
 ln -s mintstick.png drive-removable-media.png
 ln -s cs-sound.png multimedia-volume-control.png
 ln -s application-x-executable.png system-run.png
