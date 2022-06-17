@@ -23,6 +23,7 @@ Make sure you have them all installed.
 * inkscape
 * GNU parallel
 * bash
+* optipng
 
 ```
 # clone this repo and enter to it
