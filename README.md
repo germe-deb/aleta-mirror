@@ -14,8 +14,6 @@ Now we are working in the redesign of the icon pack, and adding new apps to the 
 * [build from source](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre#build-from-source)
 * [from an automatic release*](https://gitea.sergiotarxz.freemyip.com/sergiotarxz/AletaReleaser)
 
-*automatic releases has stopped for a while because the releaser doesn't support other branches than master, and I am working on the __segundo-rediseño__ branch*
-
 # build from source
 
 ### Dependencies
