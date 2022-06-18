@@ -2,7 +2,7 @@
 
 ### A material icon pack featuring gradients, squares, and white symbolics!
 
-![aleta](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/presentation-beta.png)
+![aleta](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/Presentacion.png)
 
 This icon pack is strongly inspired in moka and ameixa, and a bit in adwaita.
 
