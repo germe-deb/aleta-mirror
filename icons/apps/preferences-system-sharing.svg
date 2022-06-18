@@ -20,7 +20,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3766">Twelf Icon Template</title>
+     id="title1273">an Aleta Postre template based icon (or the template itself)</title>
   <defs
      id="defs4">
     <linearGradient
@@ -28,11 +28,11 @@
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#28d57d;stop-opacity:1" />
+         style="stop-color:#21c0d9;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#27a151;stop-opacity:1" />
+         style="stop-color:#1b44b0;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1854,9 +1854,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="12.6875"
-     inkscape:cy="22.25"
+     inkscape:zoom="12.241786"
+     inkscape:cx="12.048895"
+     inkscape:cy="18.379671"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1909,8 +1909,30 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>an Aleta Postre template based icon (or the template itself)</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luci / Germe</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1919,26 +1941,6 @@
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
      style="display:inline">
-    <g
-       id="g4337"
-       transform="translate(-22.320454,1056.4942)">
-      <g
-         id="g4666"
-         transform="matrix(0.33600544,0,0,0.33600544,1.5295902,73.042549)" />
-      <g
-         id="g5363"
-         transform="matrix(0.37187349,0,0,0.37187349,38.801738,63.239042)">
-        <g
-           id="g5646"
-           transform="matrix(2.6890865,0,0,2.6890865,-82.905872,-48.450082)" />
-      </g>
-    </g>
-    <g
-       id="g4198"
-       transform="matrix(0.26264259,0,0,0.26264259,1.2201088,1094.2147)" />
-    <g
-       id="g6215"
-       transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <rect
        style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
@@ -1983,11 +1985,28 @@
      inkscape:label="foreground"
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
+    <circle
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="path34242"
+       cx="19.999157"
+       cy="9.9995003"
+       r="2.9999998" />
+    <circle
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="path34266"
+       cx="9.999157"
+       cy="14.9995"
+       r="3" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="path34268"
+       cx="19.999157"
+       cy="19.9995"
+       rx="2.9999998"
+       ry="3.0000002" />
     <path
-       id="path1689"
-       style="fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       d="m 21,8 c -1.656854,0 -3,1.3431458 -3,3 0.0012,0.01433 0.0025,0.02866 0.0039,0.04297 l -5.169922,2.583984 C 12.308862,13.220808 11.663857,13.000311 11,13 c -1.6568542,0 -3,1.343146 -3,3 0,1.656854 1.3431458,3 3,3 0.663204,-0.0029 1.30677,-0.225386 1.830078,-0.632812 l 5.173828,2.58789 c -0.0014,0.01496 -0.0027,0.02994 -0.0039,0.04492 0,1.656854 1.343146,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 -0.662976,0.0023 -1.306518,0.224132 -1.830078,0.630859 l -5.173828,-2.585937 0.002,-0.0918 5.171875,-2.585937 C 19.69323,13.774614 20.336796,13.997149 21,14 c 1.656854,0 3,-1.343146 3,-3 0,-1.6568542 -1.343146,-3 -3,-3 z"
-       transform="translate(-1.0008429,-1.0005)"
-       sodipodi:nodetypes="sccccsccccssccccccss" />
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       d="m 19.999157,19.9995 -9.9999999,-5 9.9999999,-5"
+       id="path34303" />
   </g>
 </svg>
