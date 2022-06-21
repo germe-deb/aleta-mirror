@@ -181,3 +181,5 @@ ln -s preferences-desktop-theme.png cs-themes.png
 ln -s ardour.png org.ardour.Ardour.png
 ln -s godot.png org.godotengine.Godot.png
 ln -s org.gnome.Fractal.png org.gnome.Fractal.Devel.png
+ln -s peazip.png PeaZip.png
+ln -s peazip.png io.github.peazip.PeaZip.png
