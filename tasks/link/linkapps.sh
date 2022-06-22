@@ -89,6 +89,8 @@ ln -s preferences-system.png system-settings.png
 ln -s preferences-desktop-locale.png preferences-locale.png
 ln -s preferences-desktop-locale.png cs-language.png
 ln -s preferences-desktop-font.png cs-fonts.png
+ln -s preferences-desktop-font.png org.gnome.font-viewer.png
+ln -s preferences-desktop-font.png fonts.png
 ln -s clock.png cs-date-time.png
 ln -s org.gnome.seahorse.Application.png cs-privacy.png
 ln -s preferences-desktop-accessibility.png cs-universal-access.png
