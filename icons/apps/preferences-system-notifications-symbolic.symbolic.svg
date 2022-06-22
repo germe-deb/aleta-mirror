@@ -1859,6 +1859,23 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13277"
+       is_visible="false"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.10995172,0,1 @ F,0,0,1,0,0.48517864,0,1 @ F,0,0,1,0,0.48840944,0,1 @ F,0,0,1,0,0.13338025,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1867,9 +1884,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="6.09375"
-     inkscape:cy="6.75"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8.3747959"
+     inkscape:cy="9.2365823"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1937,10 +1954,16 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
+    <circle
+       style="opacity:0.55;fill:#000000;stroke-width:0.797994;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path13119"
+       cx="6.999157"
+       cy="11.605518"
+       r="2.3939822" />
     <path
-       id="rect9955"
-       style="stroke-width:2;paint-order:markers stroke fill"
-       d="M 8 1 A 5 5 0 0 0 3 6 C 3 6.9150939 2.9993901 10.342571 1.4667969 10.917969 C 1.2214155 11.010095 1 11.213027 1 11.476562 L 1 12 L 15 12 L 15 11.486328 C 15 11.217728 14.77266 11.009652 14.523438 10.914062 C 12.999148 10.329422 13 6.9134382 13 6 A 5 5 0 0 0 8 1 z M 6 13 C 6 14.108 6.8920001 15 8 15 C 9.1079997 15 10 14.108 10 13 L 6 13 z "
+       id="rect14790"
+       style="fill:#000000;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 8,1 C 5.2385763,1 3,3.2385763 3,6 v 1 c 0,2.209139 -0.8954305,4 -2,4 v 2 H 15 V 11 C 13.895431,11 13,9.209139 13,7 V 6 C 13,3.2385763 10.761424,1 8,1 Z"
        transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>
