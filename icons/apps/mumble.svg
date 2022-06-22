@@ -33,11 +33,11 @@
        gradientTransform="translate(-160.34416,-185.61088)">
       <stop
          offset="0"
-         style="stop-color:#4D4D4D"
+         style="stop-color:#535353;stop-opacity:1"
          id="stop3510" />
       <stop
          offset="1"
-         style="stop-color:#0D0D0D"
+         style="stop-color:#1e1e1e;stop-opacity:1"
          id="stop3508" />
     </linearGradient>
     <linearGradient
@@ -1861,7 +1861,7 @@
        x1="14.999157"
        y1="1095.7725"
        x2="14.999157"
-       y2="1130.7725"
+       y2="1121.7725"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="rect908-1-6_1_"
@@ -1906,8 +1906,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="15.40625"
-     inkscape:cy="16.9375"
+     inkscape:cx="15.53125"
+     inkscape:cy="19.625"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
