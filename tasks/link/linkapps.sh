@@ -123,7 +123,7 @@ ln -s org.gnome.Nautilus.png org.gnome.NautilusDevel.png
 ln -s org.gnome.Nautilus.png org.xfce.thunar.png
 ln -s org.gnome.Nautilus.png thunar.png
 ln -s org.gnome.Nautilus.png xfce-thunar.png
-ln -s color-selector.png org.gnome.design.Contrast.png
+ln -s color-selector.png nl.hjdskes.gcolor3.png
 ln -s audacity.png org.audacityteam.Audacity.png
 ln -s com.discordapp.Discord.png discord.png
 ln -s com.discordapp.Discord.png discordapp.png
