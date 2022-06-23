@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="org.gnome.Reversi.svg"
+   sodipodi:docname="input-tablet.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -28,11 +28,11 @@
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#42e77d;stop-opacity:1" />
+         style="stop-color:#d640d9;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#1aae6b;stop-opacity:1" />
+         style="stop-color:#7e2c82;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1855,8 +1855,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.3125"
-     inkscape:cx="15.971119"
-     inkscape:cy="16"
+     inkscape:cx="19.725632"
+     inkscape:cy="15.075812"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1986,33 +1986,39 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
     <path
-       id="path1927"
-       style="color:#000000;opacity:0.25;fill:#ffffff;-inkscape-stroke:none"
-       d="m 12.5,8 v 4.5 H 8 v 1 h 4.5 v 5 H 8 v 1 h 4.5 V 24 h 1 v -4.5 h 5 V 24 h 1 V 19.5 H 24 v -1 h -4.5 v -5 H 24 v -1 H 19.5 V 8 h -1 v 4.5 h -5 V 8 Z m 1,5.5 h 5 v 5 h -5 z"
+       id="rect1293"
+       style="display:inline;opacity:0.3;fill:#ffffff"
+       d="m 9,10 c -0.5539998,0 -1,0.446 -1,1 v 10 c 0,0.554 0.4460002,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 13.533203 L 16.535156,21 H 13 V 17.464844 L 20.363281,10.099609 20.462891,10 Z M 21.677734,10 24,12.322266 V 11 c 0,-0.554 -0.446,-1 -1,-1 z"
        transform="translate(-1.0008429,-1.0005)" />
-    <circle
-       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path2056"
-       cx="20.999157"
-       cy="20.9995"
-       r="1.9999998" />
-    <circle
-       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path2293"
-       cx="14.999157"
-       cy="14.9995"
-       r="2" />
-    <circle
-       style="opacity:0.45;fill:#ffffff;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path2339"
-       cx="20.999157"
-       cy="14.9995"
-       r="1.9999999" />
-    <circle
-       style="opacity:0.45;fill:#ffffff;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path2343"
-       cx="14.999157"
-       cy="20.9995"
-       r="2" />
+    <path
+       id="rect1317"
+       style="opacity:1;fill:#ffffff"
+       d="m 9,10 c -0.554,0 -1,0.446 -1,1 v 10 c 0,0.554 0.446,1 1,1 h 1 V 21 11 10 Z"
+       transform="translate(-1.0008429,-1.0005)" />
+    <path
+       id="path2356"
+       style="color:#000000;opacity:0.1;fill:#ffffff;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="M 19.462891,11 13,17.464844 V 21 h 3.535156 L 23,14.533203 V 13.123047 L 16.121094,20 H 14 V 17.878906 L 20.876953,11 Z M 21.263672,11 23,12.736328 V 11.322266 L 22.677734,11 Z"
+       transform="translate(-1.0008429,-1.0005)" />
+    <g
+       id="g1665">
+      <g
+         id="g1688">
+        <path
+           id="rect1637"
+           style="opacity:0.6;fill:#ffffff"
+           d="m 10,10 v 1 h 9.462891 L 20.363281,10.099609 20.462891,10 Z m 11.677734,0 1,1 H 23 v 0.322266 l 1,1 V 11 c 0,-0.554 -0.446,-1 -1,-1 z M 24,13.533203 l -1,1 V 21 H 10 v 1 h 13 c 0.554,0 1,-0.446 1,-1 z"
+           transform="translate(-1.0008429,-1.0005)" />
+        <path
+           id="path2616"
+           style="opacity:0.2;fill:#ffffff"
+           d="M 20.462891,10 20.363281,10.09961 19.462891,11 h 3.214843 l -1,-1 z M 23,11.322266 v 3.210937 l 1,-1 v -1.210937 z"
+           transform="translate(-1.0008429,-1.0005)" />
+      </g>
+    </g>
+    <path
+       style="color:#000000;fill:#ffffff;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="M 20.070225,9.8071118 12.999157,16.87818 v 2.12132 h 2.12132 l 7.071068,-7.071068 z"
+       id="path1914" />
   </g>
 </svg>
