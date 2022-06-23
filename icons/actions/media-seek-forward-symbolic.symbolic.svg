@@ -4,7 +4,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="media-seek-forward-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -22,6 +22,57 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2475"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.3416408,0,1 @ F,0,0,1,0,1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2387"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.3416408,0,1 @ F,0,0,1,0,1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1728"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.3416408,0,1 @ F,0,0,1,0,1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1833,9 +1884,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.4688154"
-     inkscape:cy="4.2426407"
+     inkscape:zoom="16"
+     inkscape:cx="12.46875"
+     inkscape:cy="7.4375"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1903,15 +1954,31 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <path
-       id="rect1196"
-       style="stroke-width:2;stroke-linecap:square;paint-order:markers stroke fill"
-       d="M 6.999157,-5.0000002e-4 V 13.9995 l 7,-7 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path1608"
-       style="stroke-width:2;stroke-linecap:square;paint-order:markers stroke fill"
-       d="M -8.429e-4,-5.0000002e-4 V 13.9995 l 6.9999999,-7 z"
-       sodipodi:nodetypes="cccc" />
+    <g
+       transform="scale(1.0533527,1)"
+       id="g4">
+      <path
+         d="M 0.86204907,3.1615642 6.2559697,6.3213521 a 0.78594048,0.78594048 89.999999 0 1 0,1.356296 L 0.86204905,10.837436 A 0.5731458,0.5731458 29.818998 0 1 -8e-4,10.342898 V 3.6561025 A 0.57314582,0.57314582 150.181 0 1 0.86204907,3.1615642 Z"
+         stroke-linecap="round"
+         stroke-width="1.20152"
+         style="paint-order:markers stroke fill"
+         id="path2"
+         sodipodi:nodetypes="cccc"
+         inkscape:path-effect="#path-effect1728"
+         inkscape:original-d="M -8e-4,2.6561025 7.4136032,6.9995001 -8e-4,11.342898 Z" />
+    </g>
+    <g
+       transform="matrix(1.0533527,0,0,1,6.9999998,-1.0158954e-7)"
+       id="g2471">
+      <path
+         d="M 0.86204907,3.1615642 6.2559697,6.3213521 a 0.78594048,0.78594048 89.999999 0 1 0,1.356296 L 0.86204905,10.837436 A 0.5731458,0.5731458 29.818998 0 1 -8e-4,10.342898 V 3.6561025 A 0.57314582,0.57314582 150.181 0 1 0.86204907,3.1615642 Z"
+         stroke-linecap="round"
+         stroke-width="1.20152"
+         style="paint-order:markers stroke fill"
+         id="path2469"
+         sodipodi:nodetypes="cccc"
+         inkscape:path-effect="#path-effect2475"
+         inkscape:original-d="M -8e-4,2.6561025 7.4136032,6.9995001 -8e-4,11.342898 Z" />
+    </g>
   </g>
 </svg>

@@ -22,6 +22,57 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2475"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.3416408,0,1 @ F,0,0,1,0,1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2387"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.3416408,0,1 @ F,0,0,1,0,1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1728"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.3416408,0,1 @ F,0,0,1,0,1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1833,9 +1884,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.328125"
-     inkscape:cx="7.7400722"
-     inkscape:cy="2.0794224"
+     inkscape:zoom="32"
+     inkscape:cx="8.234375"
+     inkscape:cy="7.78125"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1904,18 +1955,20 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <rect
-       style="opacity:1;fill:#000000;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1283"
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect7633"
        width="5"
        height="14"
-       x="-0.00084290002"
-       y="-0.00050000002" />
+       x="0.99915707"
+       y="-0.00050000002"
+       ry="1" />
     <rect
-       style="opacity:1;fill:#000000;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1307"
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect7635"
        width="5"
        height="14"
-       x="8.999157"
-       y="-0.00050000002" />
+       x="7.999157"
+       y="-0.00050000002"
+       ry="1" />
   </g>
 </svg>
