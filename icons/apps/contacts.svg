@@ -27,11 +27,11 @@
        inkscape:collect="always"
        id="linearGradient8146">
       <stop
-         style="stop-color:#4c66c7;stop-opacity:1"
+         style="stop-color:#b5835a;stop-opacity:1"
          offset="0"
          id="stop8144" />
       <stop
-         style="stop-color:#3250c7;stop-opacity:1;"
+         style="stop-color:#63452c;stop-opacity:1"
          offset="1"
          id="stop8142" />
     </linearGradient>
@@ -3796,11 +3796,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.3125"
-     inkscape:cx="17.415162"
-     inkscape:cy="18.830325"
+     inkscape:zoom="18.3125"
+     inkscape:cx="15.972696"
+     inkscape:cy="16"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -3810,7 +3810,7 @@
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -3882,7 +3882,7 @@
        id="g6215"
        transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <rect
-       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1.0;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
        width="28"
        height="28.000038"
@@ -3924,7 +3924,7 @@
      id="layer2"
      inkscape:label="foreground"
      transform="translate(1.0008429,1.0005)"
-     style="display:inline">
+     style="display:none">
     <g
        id="layer3-2"
        inkscape:label="hint"
@@ -3953,7 +3953,7 @@
        style="display:inline">
       <path
          d="m 8.0016695,3 c 1.2097934,0 2.1940185,0.9874916 2.1940185,2.1973516 0,1.2146602 -0.9842417,2.1940183 -2.1940185,2.1940183 -1.2097767,0 -2.1973516,-0.9793748 -2.1973516,-2.1940183 C 5.8043177,3.9875582 6.7918094,3 8.0016695,3 Z m -0.00325,6.0970508 c 1.6244135,0 4.8795395,0.8170068 4.8795395,2.4413532 V 13 H 3.1220404 v -1.461596 c 0,-1.6244131 3.2521937,-2.4413532 4.8763739,-2.4413532 z"
-         style="fill:#ffffff;stroke-width:1.66668;paint-order:markers stroke fill"
+         style="fill:#000000;stroke-width:1.66668;paint-order:markers stroke fill"
          id="path5029" />
     </g>
     <g
@@ -3977,5 +3977,98 @@
          y="-12"
          transform="rotate(90)" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="foreground 1">
+    <path
+       id="rect19392"
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       d="m 12,8 c -1.108,0 -2,0.892 -2,2 h 2 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 h -2 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 10 C 24,8.892 23.108,8 22,8 Z m 6,4 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z m 0,5 c 2.209139,0 4,0.895431 4,2 v 1 h -8 v -1 c 0,-1.104569 1.790861,-2 4,-2 z" />
+    <path
+       id="rect19460"
+       style="opacity:0.72;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       d="m 10,10 v 1 h 1.5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 H 10 v 1 h 2 c 0.554,0 1,-0.446 1,-1 V 11 c 0,-0.554 -0.446,-1 -1,-1 z" />
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19484"
+       width="4"
+       height="1"
+       x="8"
+       y="11"
+       ry="0.5" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19508"
+       width="4"
+       height="1"
+       x="8"
+       y="12"
+       ry="0.5" />
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19631"
+       width="4"
+       height="1"
+       x="8"
+       y="13"
+       ry="0.5" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19633"
+       width="4"
+       height="1"
+       x="8"
+       y="14"
+       ry="0.5" />
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19635"
+       width="4"
+       height="1"
+       x="8"
+       y="15"
+       ry="0.5" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19637"
+       width="4"
+       height="1"
+       x="8"
+       y="16"
+       ry="0.5" />
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19639"
+       width="4"
+       height="1"
+       x="8"
+       y="17"
+       ry="0.5" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19641"
+       width="4"
+       height="1"
+       x="8"
+       y="18"
+       ry="0.5" />
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19643"
+       width="4"
+       height="1"
+       x="8"
+       y="19"
+       ry="0.5" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect19645"
+       width="4"
+       height="1"
+       x="8"
+       y="20"
+       ry="0.5" />
   </g>
 </svg>
