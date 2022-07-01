@@ -1918,9 +1918,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.6562499"
-     inkscape:cx="9.4729243"
-     inkscape:cy="9.0108304"
+     inkscape:zoom="17.3125"
+     inkscape:cx="14.296029"
+     inkscape:cy="15.364621"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -2042,14 +2042,15 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline;opacity:1">
     <path
-       id="rect1283"
-       style="display:inline;fill:#ffffff;stroke-width:0.2;stroke-linecap:square;paint-order:markers stroke fill"
-       d="m 8.0167352,8.9994998 c -0.5634339,0 -1.0175781,0.4541442 -1.0175781,1.0175782 v 13.964844 c 0,0.563434 0.4541442,1.017578 1.0175781,1.017578 H 21.981579 c 0.563434,0 1.017578,-0.454144 1.017578,-1.017578 V 10.017078 c 0,-0.563434 -0.454144,-1.0175782 -1.017578,-1.0175782 z m 0.035156,1 H 21.946423 c 0.02904,0 0.05273,0.023689 0.05273,0.052734 v 13.894532 c 0,0.02904 -0.02369,0.05273 -0.05273,0.05273 H 8.0518915 c -0.029046,0 -0.052734,-0.02369 -0.052734,-0.05273 V 10.052234 c 0,-0.02905 0.023689,-0.052734 0.052734,-0.052734 z"
-       sodipodi:nodetypes="ssssssssscsssssssc" />
+       id="rect12094"
+       style="opacity:1;fill:#ffffff;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 10,10 c -1.1079999,0 -2,0.892 -2,2 v 12 c 0,1.108 0.8920001,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 V 12 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 H 22.166016 V 23.970703 H 10 Z"
+       transform="translate(-1.0008429,-1.0005)" />
     <path
-       d="m 18.499158,11.9995 c 0.828427,0 1.499999,0.671573 1.499999,1.5 0,0.828427 -0.671572,1.5 -1.499999,1.5 -0.828427,0 -1.5,-0.671573 -1.5,-1.5 0,-0.828427 0.671573,-1.5 1.5,-1.5 z m -4.5,5 2,2.400391 1,-1.201172 2.999999,3.800781 H 9.9991571 Z"
-       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.035;paint-order:markers stroke fill"
        id="path3278"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.035;paint-order:markers stroke fill"
+       d="M 18.5,14 C 17.671573,14 17,14.671573 17,15.5 17,16.328427 17.671573,17 18.5,17 19.328427,17 20,16.328427 20,15.5 20,14.671573 19.328427,14 18.5,14 Z m -3.5,4 -3.199219,4 h 8.410157 L 18,19.199219 17,20.400391 Z"
+       transform="translate(-1.0008429,-1.0005)"
        sodipodi:nodetypes="ssssscccccc" />
   </g>
 </svg>

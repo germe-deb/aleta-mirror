@@ -113,6 +113,8 @@ ln -s arduino-arduinoide.png arduino.png
 ln -s arduino-arduinoide.png arduino-ide.png
 ln -s arduino-arduinoide.png cc.arduino.arduinoide.png
 ln -s chromium.png com.github.Eloston.UngoogledChromium.png
+ln -s chromium.png org.chromium.Chromium.png
+ln -s chromium.png chromium-browser.png
 ln -s signal.png org.signal.Signal.png
 ln -s signal.png signal-desktop.png
 ln -s steam.png com.valvesoftware.Steam.png
