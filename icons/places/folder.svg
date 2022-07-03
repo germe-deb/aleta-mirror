@@ -1884,11 +1884,11 @@
        inkscape:collect="always"
        id="linearGradient4312">
       <stop
-         style="stop-color:#aa7f6c;stop-opacity:1;"
+         style="stop-color:#2fb2f3;stop-opacity:1"
          offset="0"
          id="stop4308" />
       <stop
-         style="stop-color:#764e3c;stop-opacity:1"
+         style="stop-color:#0a74a9;stop-opacity:1"
          offset="1"
          id="stop4310" />
     </linearGradient>
@@ -1917,9 +1917,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.6562499"
-     inkscape:cx="15.018051"
-     inkscape:cy="9.8194947"
+     inkscape:zoom="6.120893"
+     inkscape:cx="4.8195582"
+     inkscape:cy="15.520611"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -2004,7 +2004,7 @@
        transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <path
        id="rect7796"
-       style="opacity:1;fill:url(#linearGradient8465);stroke-width:2;paint-order:markers stroke fill;fill-opacity:1.0"
+       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke-width:2;paint-order:markers stroke fill"
        d="m 2.9991962,1096.7725 h 7.9999608 l 4,4 h 11.999961 c 1.108022,0 2.000039,0.892 2.000039,2 v 16 c 0,1.108 -0.892017,2 -2.000039,2 H 2.9991962 c -1.1080217,0 -2.00003913,-0.892 -2.00003913,-2 v -20 c 0,-1.108 0.89201743,-2 2.00003913,-2 z"
        sodipodi:nodetypes="sccssssssss" />
     <path

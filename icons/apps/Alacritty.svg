@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="alacritty.svg"
+   sodipodi:docname="Alacritty.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -20,9 +20,26 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3766">Twelf Icon Template</title>
+     id="title1273">an Aleta Postre template based icon (or the template itself)</title>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient1810"
+       x1="0.025171699"
+       y1="0.079489581"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,473.895,-473.895,0,547.884,192.222)">
+      <stop
+         offset="0"
+         style="stop-color:#ee3a02;stop-opacity:1"
+         id="stop1806" />
+      <stop
+         offset="1"
+         style="stop-color:#fcb200;stop-opacity:1"
+         id="stop1808" />
+    </linearGradient>
     <linearGradient
        id="linearGradient8471">
       <stop
@@ -1839,7 +1856,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#red-orange"
+       xlink:href="#linearGradient1810"
        id="linearGradient8465"
        x1="14.999157"
        y1="1095.7725"
@@ -1871,11 +1888,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="23"
-     inkscape:cy="-3.75"
+     inkscape:zoom="12.241786"
+     inkscape:cx="18.747264"
+     inkscape:cy="16.255798"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1885,7 +1902,7 @@
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -1926,8 +1943,30 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>an Aleta Postre template based icon (or the template itself)</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luci / Germe</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1936,28 +1975,8 @@
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
      style="display:inline">
-    <g
-       id="g4337"
-       transform="translate(-22.320454,1056.4942)">
-      <g
-         id="g4666"
-         transform="matrix(0.33600544,0,0,0.33600544,1.5295902,73.042549)" />
-      <g
-         id="g5363"
-         transform="matrix(0.37187349,0,0,0.37187349,38.801738,63.239042)">
-        <g
-           id="g5646"
-           transform="matrix(2.6890865,0,0,2.6890865,-82.905872,-48.450082)" />
-      </g>
-    </g>
-    <g
-       id="g4198"
-       transform="matrix(0.26264259,0,0,0.26264259,1.2201088,1094.2147)" />
-    <g
-       id="g6215"
-       transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <rect
-       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1.0;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
        width="28"
        height="28.000038"
@@ -1996,13 +2015,26 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="foreground"
-     transform="translate(1.0008429,1.0005)"
-     style="display:inline">
+     id="layer4"
+     inkscape:label="foreground 1">
     <path
-       id="rect5358-5"
-       style="clip-rule:evenodd;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.245677;stroke-linejoin:round;stroke-miterlimit:1.41421;enable-background:new"
-       d="m 8.2369503,7.7663492 c -0.2870657,0 -0.5180657,0.2347153 -0.5180657,0.5263664 v 0.039552 H 22.279431 v -0.039552 c 0,-0.2916511 -0.231,-0.5263664 -0.518067,-0.5263664 z M 7.8507198,8.608634 c -0.47184,0 -0.8515631,0.3836113 -0.8515631,0.8603521 v 0.1225601 11.7304678 0.05517 c 0,0.474016 0.3797231,0.855469 0.8515631,0.855469 H 22.147594 c 0.47184,9e-6 0.851563,-0.381444 0.851563,-0.855461 V 21.322006 9.5915381 9.4689782 c 0,-0.4767409 -0.379723,-0.8603521 -0.851563,-0.8603521 z M 8.4786494,9.7975989 H 21.519666 c 0.211995,0 0.382811,0.1703282 0.382811,0.3823251 v 10.638671 c 0,0.211996 -0.170816,0.382812 -0.382811,0.382812 H 8.4786494 c -0.2119951,0 -0.3828127,-0.170816 -0.3828127,-0.382812 V 10.179924 c 0,-0.2119969 0.1708176,-0.3823251 0.3828127,-0.3823251 z m 5.6889646,0.6000971 -3.682617,9.140139 h 1.543945 l 2.970215,-6.980959 2.970215,6.980959 h 1.543945 l -3.682616,-9.140139 z m 0.831543,4.269044 -0.751464,1.8208 -0.23584,0.57129 c 0.633549,1.950888 0.63362,1.950995 0.987304,3.652832 0.353684,-1.701837 0.353755,-1.701944 0.987305,-3.652832 l -0.23584,-0.57129 z" />
+       id="rect3221"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       d="M 10,9 C 8.892,9 8,9.892 8,11 v 11 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 V 11 C 24,9.892 23.108,9 22,9 Z m 0,1 h 12 c 0.554,0 1,0.446 1,1 v 11 c 0,0.554 -0.446,1 -1,1 H 10 C 9.446,23 9,22.554 9,22 V 11 c 0,-0.554 0.446,-1 1,-1 z"
+       sodipodi:nodetypes="ssssssssssssssssss" />
+    <path
+       id="rect3291"
+       style="opacity:1;fill:#ffffff;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       d="m 15,12 -4,9 h 2 l 3,-7 3,7 h 2 l -4,-9 z" />
+    <path
+       id="rect3687"
+       style="opacity:1;fill:#ffffff;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       d="m 16,16 1,2 c 0,0 -1,3 -1,4 0,-1 -1,-4 -1,-4 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect4157"
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       d="M 11,8 C 10.446,8 10,8.446 10,9 H 22 C 22,8.446 21.554,8 21,8 Z"
+       sodipodi:nodetypes="sccss" />
   </g>
 </svg>

@@ -1867,9 +1867,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.3125"
-     inkscape:cx="17.617329"
-     inkscape:cy="18.021661"
+     inkscape:zoom="8.65625"
+     inkscape:cx="14.844765"
+     inkscape:cy="17.444043"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1881,7 +1881,7 @@
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -1998,8 +1998,16 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
     <path
-       id="path3666"
-       style="font-size:6.27413px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';display:inline;fill:#ffffff;stroke-width:0.235623;stroke-linejoin:round"
-       d="m 6.999157,10.076423 v 1.39423 l 5.98077,3.014425 -5.98077,2.899037 v 1.307693 l 7.384615,-3.701923 V 13.91777 Z m 8.615385,8.615385 v 1.230769 h 7.384615 v -1.230769 z" />
+       id="path11102"
+       style="color:#000000;opacity:1;fill:#ffffff;stroke-linecap:square;stroke-linejoin:bevel;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="m 8,10.882812 v 2.234376 L 13.763672,16 8,18.882812 v 2.234376 L 8.4472656,20.894531 16,17.117188 V 14.882812 L 8.4472656,11.105469 Z"
+       transform="translate(-1.0008429,-1.0005)" />
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill"
+       id="rect11559"
+       width="8"
+       height="2"
+       x="14.999157"
+       y="18.9995" />
   </g>
 </svg>
