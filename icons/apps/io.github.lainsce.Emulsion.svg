@@ -1855,10 +1855,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.3125"
-     inkscape:cx="16"
-     inkscape:cy="16"
+     inkscape:cx="16.837545"
+     inkscape:cy="14.960289"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1964,7 +1964,7 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
     <rect
-       style="display:inline;opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       style="display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect1658"
        width="16"
        height="2"
@@ -1973,7 +1973,7 @@
        ry="1"
        transform="translate(0,-1093.773)" />
     <rect
-       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect1804"
        width="16"
        height="2"
@@ -1981,7 +1981,7 @@
        y="8.9995003"
        ry="1" />
     <rect
-       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
        id="rect1806"
        width="16"
        height="2"
