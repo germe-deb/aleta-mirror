@@ -1872,10 +1872,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.241786"
-     inkscape:cx="10.905271"
-     inkscape:cy="17.726171"
+     inkscape:cx="10.905272"
+     inkscape:cy="17.726172"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1982,13 +1982,13 @@
      style="display:inline">
     <path
        id="rect10884"
-       style="opacity:0.5;fill:#ffffff;fill-opacity:0.980392;stroke-width:0.192;stroke-linecap:square;paint-order:markers stroke fill"
+       style="opacity:0.4;fill:#ffffff;fill-opacity:0.980392;stroke-width:0.192;stroke-linecap:square;paint-order:markers stroke fill"
        d="m 11.975353,6.9994998 h 6.047608 c 0.540812,0 0.976196,0.4353835 0.976196,0.9761961 v 0.047608 c 0,0.5408127 -0.435384,0.9761961 -0.976196,0.9761961 h -6.047608 c -0.540813,0 -0.976196,-0.4353834 -0.976196,-0.9761961 v -0.047608 c 0,-0.5408126 0.435383,-0.9761961 0.976196,-0.9761961 z"
        sodipodi:nodetypes="sssssssss" />
     <path
        id="rect10886"
        d="m 12.999157,8.9995003 h 4 V 20.9995 a 2.0000003,2.0000003 135 0 1 -2,2 1.9999997,1.9999997 45 0 1 -2,-1.999999 z"
-       style="opacity:0.5;fill:#ffffff;fill-opacity:0.980392;stroke-width:0.192;stroke-linecap:square;paint-order:markers stroke fill" />
+       style="opacity:0.4;fill:#ffffff;fill-opacity:0.980392;stroke-width:0.192;stroke-linecap:square;paint-order:markers stroke fill" />
     <path
        id="rect10973"
        style="opacity:1;fill:#ffffff;fill-opacity:0.980392;stroke-width:0.192;stroke-linecap:square;paint-order:markers stroke fill"

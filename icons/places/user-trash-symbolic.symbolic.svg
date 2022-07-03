@@ -22,23 +22,6 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2622"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0.2432251,0,1 @ F,0,0,1,0,0.22183228,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1850,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="5.0625"
-     inkscape:cy="7.609375"
+     inkscape:zoom="24.483572"
+     inkscape:cx="7.6990399"
+     inkscape:cy="8.3729612"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1868,7 +1851,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1921,9 +1904,24 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="rect2082"
-       style="fill:#000000;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 5,1 C 4.446,1 4,1.446 4,2 V 3 H 2 A 1,1 135 0 0 1,4 V 5 H 15 V 4 A 1,1 45 0 0 14,3 H 12 V 2 C 12,1.446 11.554,1 11,1 Z M 5.2432251,2 H 10.778168 A 0.22183228,0.22183228 45 0 1 11,2.2218323 V 3 H 5 V 2.2432251 A 0.2432251,0.2432251 135 0 1 5.2432251,2 Z M 3,6 v 8 a 1,1 45 0 0 1,1 h 8 a 1,1 135 0 0 1,-1 V 6 Z m 2,2 h 2 v 5 H 5 Z m 4,0 h 2 v 5 H 9 Z"
-       transform="translate(-1.0008429,-1.0005)" />
+       id="rect40146"
+       style="display:inline;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 0.99915695,1.9994609 H 12.999157 v 2 H 0.99915695 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect40295"
+       style="display:inline;opacity:0.8;fill:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 3.9991571,-5e-4 c -0.554,0 -1,0.4459999 -1,1 v 1 h 1 v -1 h 6 v 1 h 0.9999999 v -1 c 0,-0.5540001 -0.446,-1 -0.9999999,-1 z"
+       sodipodi:nodetypes="ssccccccsss" />
+    <path
+       id="rect44309"
+       style="display:inline;opacity:0.65;stroke-width:2;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 3.999157,0.9994998 h 6 v 1 h -6 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path45370"
+       style="color:#000000;display:inline;fill:#000000;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="m 1.9991571,4.9995 c 0,3 0,6 0,9 h 9.9999999 v -9 z m 2,2 h 2 v 5 h -2 z m 4,0 h 2 v 5 h -2 z"
+       sodipodi:nodetypes="ccccccccccccccc" />
   </g>
 </svg>
