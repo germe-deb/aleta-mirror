@@ -20,7 +20,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title1273">an Aleta Postre template based icon (or the template itself)</title>
+     id="title8055">Aleta Postre</title>
   <defs
      id="defs4">
     <linearGradient
@@ -1855,8 +1855,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="20.196737"
-     inkscape:cy="19.26866"
+     inkscape:cx="20.285125"
+     inkscape:cy="19.268659"
      inkscape:document-units="pt"
      inkscape:current-layer="svg2"
      showgrid="true"
@@ -1911,12 +1911,7 @@
          rdf:about="">
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:title>an Aleta Postre template based icon (or the template itself)</dc:title>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Luci / Germe</dc:title>
-          </cc:Agent>
-        </dc:creator>
+        <dc:title>Aleta Postre</dc:title>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
