@@ -7,12 +7,21 @@ reset_colors="\e[0m"    # this resets the coloring
 
 
 # Check dependencies
+# If you are having trobule with a dependency that IS in your system but
+# the script can't continue, please add this to your command: --ignore-dependency-check
+case "$@" in *--ignore-dependency-check*)
+IGNOREDEPS=ok
+esac
+# this checks for that option and if it is ok, skip this process
+if [ "$IGNOREDEPS" != ok ]
+then
 # It mutes the output but verifies if the command returns an error
 # if that's true, then the process can't continue
 command -v inkscape >/dev/null 2>&1 || { echo >&2 "Please install 'inkscape'"; DEPSCOMPLETE=n; }
 command -v parallel >/dev/null 2>&1 || { echo >&2 "Please install 'parallel'"; DEPSCOMPLETE=n; }
 command -v bash     >/dev/null 2>&1 || { echo >&2 "Please install 'bash'";     DEPSCOMPLETE=n; }
 command -v optipng  >/dev/null 2>&1 || { echo >&2 "Please install 'parallel'"; DEPSCOMPLETE=n; }
+fi
 
 # here is the checking. it is sepparated for practicy
 if [ "$DEPSCOMPLETE" = n ]
