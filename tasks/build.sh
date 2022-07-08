@@ -9,14 +9,14 @@ reset_colors="\e[0m"    # this resets the coloring
 # Check dependencies
 # It mutes the output but verifies if the command returns an error
 # if that's true, then the process can't continue
-command -v inkscape >/dev/null 2>&1 || { echo >&2 "Please install 'inkscape'"; DEPSCOMPLETE=no; }
-command -v parallel >/dev/null 2>&1 || { echo >&2 "Please install 'parallel'"; DEPSCOMPLETE=no; }
-command -v bash     >/dev/null 2>&1 || { echo >&2 "Please install 'bash'";     DEPSCOMPLETE=no; }
-command -v optipng  >/dev/null 2>&1 || { echo >&2 "Please install 'parallel'"; DEPSCOMPLETE=no; }
+command -v inkscape >/dev/null 2>&1 || { echo >&2 "Please install 'inkscape'"; DEPSCOMPLETE=n; }
+command -v parallel >/dev/null 2>&1 || { echo >&2 "Please install 'parallel'"; DEPSCOMPLETE=n; }
+command -v bash     >/dev/null 2>&1 || { echo >&2 "Please install 'bash'";     DEPSCOMPLETE=n; }
+command -v optipng  >/dev/null 2>&1 || { echo >&2 "Please install 'parallel'"; DEPSCOMPLETE=n; }
 
 # here is the checking. it is sepparated for practicy
-if [ DEPSCOMPLETE = no ]
-  then exit 1
+if [ "$DEPSCOMPLETE" = n ]
+then exit 1
 fi
 
 # Check for --help
@@ -50,7 +50,7 @@ case "$@" in *-r*|*--restart*|*--again*|*--from-cero*)
 	RESTART=yes
 esac
 
-if [ $RESTART = yes ]
+if [ "$RESTART" = yes ]
 
 # this deletes the build directory
 then printf "${info_color}cleaning up the build directory...${reset_colors}\\n"
@@ -88,7 +88,7 @@ case "$@" in *--avoid-optipng*|*--no-optipng*)
 	OPTIPNG=avoid
 esac
 
-if [ $OPTIPNG != avoid ];
+if [ "$OPTIPNG" != avoid ];
   then printf "${info_color}Using optipng to reduce the size of the build...${reset_colors}\\n"
 	./tasks/opticall.sh
 fi
