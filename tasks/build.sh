@@ -9,13 +9,14 @@ reset_colors="\e[0m"    # this resets the coloring
 # Check dependencies
 # It mutes the output but verifies if the command returns an error
 # if that's true, then the process can't continue
-command -v inkscape >/dev/null 2>&1 || { echo >&2 "I cannot continue without 'inkscape'"; DEPSCOMPLETE=no; }
-command -v parallel >/dev/null 2>&1 || { echo >&2 "I cannot continue without 'parallel'"; DEPSCOMPLETE=no; }
-command -v bash >/dev/null 2>&1 || { echo >&2 "I cannot continue without 'bash'"; DEPSCOMPLETE=no; }
+command -v inkscape >/dev/null 2>&1 || { echo >&2 "Please install 'inkscape'"; DEPSCOMPLETE=no; }
+command -v parallel >/dev/null 2>&1 || { echo >&2 "Please install 'parallel'"; DEPSCOMPLETE=no; }
+command -v bash     >/dev/null 2>&1 || { echo >&2 "Please install 'bash'";     DEPSCOMPLETE=no; }
+command -v optipng  >/dev/null 2>&1 || { echo >&2 "Please install 'parallel'"; DEPSCOMPLETE=no; }
 
 # here is the checking. it is sepparated for practicy
 if [ DEPSCOMPLETE = no ]
-then exit 1
+  then exit 1
 fi
 
 # Check for --help
@@ -45,18 +46,21 @@ esac
 # begin exportation and stuff
 printf "${info_color}This script runs the build tasks and performs an install (or an update) of aleta to your home${reset_colors}\\n\\n"
 
-printf "${info_color}cleaning up the build directory...${reset_colors}\\n"
+case "$@" in *-r*|*--restart*|*--again*|*--from-cero*)
+	RESTART=yes
+esac
+
+if [ $RESTART = yes ]
+
+# this deletes the build directory
+then printf "${info_color}cleaning up the build directory...${reset_colors}\\n"
 rm _build/aleta -rf
 
+# this creates the folder structure used in the build and while the building
 printf "${info_color}rebuilding folder structure...${reset_colors}\\n"
 ./tasks/rebuildfolders.sh
 
-case "$@" in *-r*|*--restart*|*--again*|*--from-cero*)
-	RESTART=avoid
-esac
-
-if [ RESTART = yes ]
-then\
+# this copies the "SVG in" to the build folders 
 printf "${info_color}copying the files to build in the build dir${reset_colors}\\n"
 cp icons/apps/*.svg        _build/icons-t/apps/
 cp icons/places/*.svg      _build/icons-t/places/
@@ -66,6 +70,7 @@ cp icons/status/*.svg      _build/icons-t/status/
 cp icons/mimetypes/*.svg   _build/icons-t/mimetypes/
 cp icons/actions/*.svg     _build/icons-t/actions/
 cp icons/animations/*.svg  _build/icons-t/animations/
+
 fi
 
 
@@ -99,9 +104,9 @@ case "$@" in *--autoinstall*|*--update*|*-i*)
 	rm -rf ~/.icons/aleta
 	mkdir ~/.icons/aleta -p
 	cp -r ./_build/aleta/* ~/.icons/aleta/
+	printf "${info_color}Updating gtk icon cache...${reset_colors}\\n"
+	gtk-update-icon-cache ~/.icons/aleta/
+	
 esac
-
-printf "${info_color}Updating gtk icon cache...${reset_colors}\\n"
-gtk-update-icon-cache ~/.icons/aleta/
 
 printf "${comple_color}\\nCOMPLETED! The icon pack is builded.${reset_colors}\\n"
