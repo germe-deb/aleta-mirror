@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="template-action-symbolic-with-negation.svg"
+   sodipodi:docname="symbolic-with-negation.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -22,6 +22,23 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1705"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.0001356,0,1 @ F,0,0,1,0,0.99965072,0,1 @ F,0,0,1,0,0.99965036,0,1 @ F,0,0,1,0,1.0001353,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1833,9 +1850,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="6.0104076"
-     inkscape:cy="8.4410872"
+     inkscape:zoom="16"
+     inkscape:cx="9.84375"
+     inkscape:cy="8.9375"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1902,20 +1919,14 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="icon"
-     transform="translate(1.0008429,1.0005)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Negation">
+     transform="translate(1.0008429,1.0005)">
     <path
-       style="color:#000000;fill:#ffffff;-inkscape-stroke:none;paint-order:markers stroke fill"
-       d="M 0.91796875,-0.91992188 -0.91992188,0.91796875 13.080078,14.917969 14.917969,13.080078 Z"
-       id="path5198"
-       transform="translate(1.0008429,1.0005)" />
+       style="color:#000000;opacity:0.4;fill:#ffffff;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="m 0.7042352,-1.2934687 c -0.5293023,6.063e-4 -1.03782041,0.2116106 -1.41210935,0.58593745 -0.77297865,0.77260375 -0.77297865,2.05552125 0,2.82812505 L 11.880016,14.706531 c 0.772216,0.77046 2.053956,0.77046 2.826172,0 0.772283,-0.772657 0.772283,-2.055467 0,-2.828125 L 2.122204,-0.70753125 C 1.746962,-1.0828128 1.2368396,-1.2938961 0.7061883,-1.2934687 Z"
+       id="path1843" />
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;paint-order:markers stroke fill"
-       d="M 0.35351563,-0.35351563 -0.35351563,0.35351563 13.646484,14.353516 14.353516,13.646484 Z"
-       id="path4410"
-       transform="translate(1.0008429,1.0005)" />
+       style="color:#000000;opacity:1;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="M 0.7061883,-0.29346875 A 1.0001356,1.0001356 0 0 0 -8.429e-4,-5e-4 a 0.9996507,0.9996507 0 0 0 0,1.4140625 L 12.587048,13.9995 a 0.99965038,0.99965038 0 0 0 1.412109,0 1.0001353,1.0001353 0 0 0 0,-1.414062 L 1.4151727,-5e-4 A 1.0001356,1.0001356 0 0 0 0.7061883,-0.29346875 Z"
+       id="path1845" />
   </g>
 </svg>

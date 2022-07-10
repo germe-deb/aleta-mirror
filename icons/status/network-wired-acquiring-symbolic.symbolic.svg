@@ -18,10 +18,110 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect40872"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.51954049,0,1 @ F,0,0,1,0,0.44129436,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect32763"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.0001356,0,1 @ F,0,0,1,0,0.99965072,0,1 @ F,0,0,1,0,0.99965036,0,1 @ F,0,0,1,0,1.0001353,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect22614"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.58381653,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect22226"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.53785212,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect21696"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.82798056,0,1 @ F,0,0,1,0,1.3966225,0,1 @ F,0,0,1,0,0.83365109,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1194"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.1394086,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.1394087,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1834,8 +1934,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="7.6676892"
-     inkscape:cy="8.1759222"
+     inkscape:cx="10.00998"
+     inkscape:cy="8.6620581"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1868,7 +1968,8 @@
      inkscape:snap-intersection-paths="true"
      width="16px"
      inkscape:showpageshadow="false"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:snap-grids="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1891,7 +1992,6 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
@@ -1904,36 +2004,31 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="rect1283"
-       style="opacity:0.25;fill:#000000;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 1,2 V 5.7773438 C 1.5327385,5.2971048 2.2338577,5 3,5 4.0381771,5 4.9605489,5.5398855 5.5,6.3515625 6.0394511,5.5398855 6.9618229,5 8,5 9.0381771,5 9.9605489,5.5398855 10.5,6.3515625 11.039451,5.5398855 11.961823,5 13,5 c 0.766142,0 1.467261,0.2971048 2,0.7773438 V 2 Z M 5.5,9.6484375 C 4.9605489,10.460115 4.0381771,11 3,11 2.2338577,11 1.5327385,10.702895 1,10.222656 V 12 h 2 l 1,2 h 8 l 1,-2 h 2 V 10.222656 C 14.467261,10.702895 13.766142,11 13,11 11.961823,11 11.039451,10.460115 10.5,9.6484375 9.9605489,10.460115 9.0381771,11 8,11 6.9618229,11 6.0394511,10.460115 5.5,9.6484375 Z"
+       id="rect40650"
+       style="opacity:0.4;stroke-width:2;paint-order:markers stroke fill"
+       d="M 2,2 C 1.4477153,2 1,2.4477153 1,3 V 5.7773438 C 1.5328677,5.2965293 2.2333409,5 3,5 4.0377457,5 4.9604547,5.5404488 5.5,6.3515625 6.0394511,5.5398855 6.9618229,5 8,5 9.0387626,5 9.9606772,5.541074 10.5,6.3535156 11.039337,5.5411603 11.961303,5.0000001 13,5 c 0.766142,0 1.467261,0.2971047 2,0.7773438 V 3 C 15,2.4477153 14.552285,2 14,2 Z m 8.5,7.6464844 C 9.9606772,10.458926 9.0387626,11 8,11 6.9618229,11 6.0394511,10.460115 5.5,9.6484375 4.9604667,10.459623 4.0378007,11 3,11 2.2330867,11 1.532931,10.703754 1,10.222656 V 11 c 0,0.552285 0.4477153,1 1,1 h 1 l 0.7675781,1.535156 C 3.9099429,13.82003 4.2010643,13.999996 4.5195312,14 h 7.0390628 c 0.270424,4.2e-5 0.517668,-0.152689 0.638672,-0.394531 L 13,12 h 1 c 0.552285,0 1,-0.447715 1,-1 V 10.224609 C 14.467314,10.704613 13.765931,11 13,11 11.961242,11 11.039324,10.45892 10.5,9.6464844 Z"
        transform="translate(-1.0008429,-1.0005)"
-       sodipodi:nodetypes="ccscscsccccsccccccccscsc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="icon 1">
+       sodipodi:nodetypes="sscscscscssscscscssccccccsscsc" />
     <g
-       id="path3139">
+       id="path13638">
       <path
          style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
-         d="m 9.9999999,7.9999998 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"
-         id="path13638" />
+         d="m 8.999157,6.9994998 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"
+         id="path45432" />
     </g>
     <g
-       id="path3145">
+       id="path13644">
       <path
          style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
-         d="m 15,7.9999998 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"
-         id="path13644" />
+         d="m 13.999157,6.9994998 a 2,2 0 0 1 -2,2 2,2 0 0 1 -1.9999999,-2 2,2 0 0 1 1.9999999,-2 2,2 0 0 1 2,2 z"
+         id="path45438" />
     </g>
     <g
-       id="path3133">
+       id="path13632">
       <path
          style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
-         d="m 5,7.9999998 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2.00000003,-2 2,2 0 0 1 2.00000003,-2 2,2 0 0 1 2,2 z"
-         id="path13632" />
+         d="m 3.9991571,6.9994998 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2.00000003,-2 2,2 0 0 1 2.00000003,-2 2,2 0 0 1 2,2 z"
+         id="path45426" />
     </g>
   </g>
 </svg>

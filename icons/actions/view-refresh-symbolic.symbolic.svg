@@ -19,15 +19,15 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3766">Twelf Icon Template</title>
+     id="title8838">Aleta Postre</title>
   <defs
      id="defs4">
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect11217"
+       id="path-effect2159"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.1661358,0,1 @ F,0,0,1,0,1.1661358,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -39,20 +39,6 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
-    <inkscape:path-effect
-       effect="taper_stroke"
-       id="path-effect8982"
-       is_visible="true"
-       lpeversion="1"
-       stroke_width="2"
-       attach_start="3.8506314"
-       end_offset="0.036681816"
-       start_smoothing="0.5"
-       end_smoothing="0.5"
-       jointype="extrapolated"
-       start_shape="center"
-       end_shape="center"
-       miter_limit="100" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1864,9 +1850,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="1.875"
-     inkscape:cy="8.1875"
+     inkscape:zoom="34.625"
+     inkscape:cx="7.1191336"
+     inkscape:cy="9.5306859"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1878,7 +1864,7 @@
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -1886,7 +1872,7 @@
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
-     inkscape:bbox-nodes="false"
+     inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
      fit-margin-top="1"
      fit-margin-left="1"
@@ -1912,20 +1898,20 @@
        units="px"
        originx="0"
        originy="0"
-       color="#001fff"
-       opacity="0.19215686"
-       empcolor="#d000ff"
-       empopacity="0.3254902" />
+       color="#00a2ff"
+       opacity="0.05490196"
+       empcolor="#4300ff"
+       empopacity="0.08235294" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Aleta Postre</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1935,18 +1921,24 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="path8912"
-       style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1.9544101,2.0442282 C -0.05224255,4.1075589 -0.49521703,7.2145076 0.53743436,9.5793352 2.0304703,12.844714 5.5790027,13.880487 8.0200606,13.302694 10.679355,12.643945 11.997271,10.491224 12.443622,9.2216389 12.931045,7.8352218 12.76541,6.9995008 12.765411,6.9995002 c 0,0 0.05173,0.8520203 -0.560757,2.1240706 C 11.637416,10.301835 10.185346,12.131526 7.852951,12.464385 5.7476236,12.791138 2.8332999,11.585517 1.9088349,9.0117156 1.1141533,6.9476543 1.9133952,4.0559007 3.9541965,2.792767 c 1.594077,-1.0417438 3.948358,-1.0494469 5.5518927,0.02486 0.2160154,0.1415573 0.4215984,0.2991421 0.6131948,0.4723248 0.02962,0.026791 0.18233,0.1739858 0.18233,0.1739858 0.390524,0.3905242 1.023689,0.3905243 1.414214,0 0.390524,-0.3905246 0.390524,-1.0236894 0,-1.4142135 C 11.631351,1.9707626 11.544915,1.8880038 11.458925,1.80668 11.190696,1.5642183 10.905091,1.3419414 10.602663,1.1437668 8.2428285,-0.37904513 5.1527044,-0.29255707 2.9101091,1.2293981 2.5593414,1.4763353 2.2410747,1.7494666 1.9544101,2.0442282 Z"
-       sodipodi:nodetypes="sccscsccccccsccccs"
-       inkscape:transform-center-x="0.37020773"
-       inkscape:transform-center-y="-0.25030738" />
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stroke-linecap:round"
+       id="path1620"
+       sodipodi:type="arc"
+       sodipodi:cx="6.999157"
+       sodipodi:cy="6.9994998"
+       sodipodi:rx="7"
+       sodipodi:ry="7"
+       sodipodi:start="0.78539816"
+       sodipodi:end="5.4977871"
+       sodipodi:arc-type="arc"
+       d="m 11.948904,11.949247 a 7,7 0 0 1 -9.8994944,0 7,7 0 0 1 -3e-7,-9.8994945 7,7 0 0 1 9.8994947,-4e-7"
+       sodipodi:open="true" />
     <path
-       id="rect10995"
-       style="fill:#000000;stroke:none;stroke-width:1.41422;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 8.7565164,4.9995003 4.2426406,-3e-7 10e-7,-4.24264147 z"
-       sodipodi:nodetypes="cccc"
-       inkscape:transform-center-x="-3.535534"
-       inkscape:transform-center-y="-4.9497475" />
+       id="path1941"
+       style="opacity:1;stroke-width:2.229"
+       inkscape:transform-center-x="0.43980452"
+       inkscape:transform-center-y="-0.43980465"
+       d="M 14.999157,4.9995 H 9.4849344 A 0.48577727,0.48577727 0 0 1 9.141438,4.1702263 l 5.028445,-5.02844543 a 0.48577726,0.48577726 0 0 1 0.829274,0.34349639 z"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

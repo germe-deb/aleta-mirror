@@ -24,27 +24,10 @@
      id="defs4">
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect4598"
+       id="path-effect1194"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,0.51246643,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.51373291,0,1 @ F,0,0,1,0,0.4140625,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.4140625,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect3349"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,1.4135625,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.414563,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,1.1394086,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.1394087,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -1867,11 +1850,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-2.828427"
-     inkscape:cy="15.291183"
+     inkscape:zoom="16"
+     inkscape:cx="8.09375"
+     inkscape:cy="9.375"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1934,30 +1917,21 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="icon 1">
+     id="layer2"
+     inkscape:label="icon"
+     transform="translate(1.0008429,1.0005)">
     <path
        id="path1558"
-       style="stroke-width:2;paint-order:markers stroke fill;opacity:0.25"
-       inkscape:transform-center-y="-1"
-       d="M 15,1 9,7 h 6 z M 4,12 1,15 h 14 v -3 z"
-       sodipodi:nodetypes="ccccccccc" />
+       style="opacity:0.4;stroke-width:2.39513;paint-order:markers stroke fill"
+       d="m 15.398438,0.00390625 c -0.121784,0.01349387 -0.235393,0.0678882 -0.322266,0.15429687 L 8.234375,7 H 16 V 0.54101562 C 15.999342,0.21860437 15.718864,-0.03182222 15.398438,0.00390625 Z M 3.234375,12 0.15820312,15.076172 C -0.18179059,15.417332 0.05936711,15.999309 0.54101562,16 H 16 v -4 z"
+       transform="translate(-1.0008429,-1.0005)"
+       sodipodi:nodetypes="cccccccccccc" />
     <g
-       id="g1185"
-       transform="translate(0.99319465,1.0004999)" />
-    <g
-       id="rect7495"
-       style="stroke:#ffffff">
-      <g
-         id="path7619">
-        <g
-           id="path8721">
-          <path
-             style="color:#000000;fill:#000000;stroke:none;stroke-width:2;stroke-linecap:round;-inkscape-stroke:none;paint-order:markers stroke fill"
-             d="m 0,8 h 16 v 3 H 0 Z"
-             id="path10071" />
-        </g>
-      </g>
+       id="rect12573">
+      <path
+         style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
+         d="M -1.0008429,6.9994998 H 14.999157 v 3 H -1.0008429 Z"
+         id="path12579" />
     </g>
   </g>
 </svg>

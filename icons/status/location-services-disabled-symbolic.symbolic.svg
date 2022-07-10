@@ -22,6 +22,23 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1705"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.0001356,0,1 @ F,0,0,1,0,0.99965072,0,1 @ F,0,0,1,0,0.99965036,0,1 @ F,0,0,1,0,1.0001353,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1833,9 +1850,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="4.6845824"
-     inkscape:cy="8.4410872"
+     inkscape:zoom="32"
+     inkscape:cx="8.078125"
+     inkscape:cy="6.75"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1905,12 +1922,12 @@
      transform="translate(1.0008429,1.0005)">
     <path
        id="path2"
-       style="isolation:auto;mix-blend-mode:normal;marker:none;fill:#000000;opacity:1"
-       d="M 8 0.99609375 A 5 5 0 0 0 4.3886719 2.5507812 L 6.5136719 4.6757812 A 2 2 0 0 1 8 3.9960938 A 2 2 0 0 1 9.3203125 7.4824219 L 11.892578 10.054688 C 12.363318 9.1274289 12.724384 8.1133598 12.90625 6.9960938 C 12.93325 6.8320938 12.95575 6.6630937 12.96875 6.4960938 C 12.98575 6.3280937 13 6.1680938 13 5.9960938 A 5 5 0 0 0 8 0.99609375 z M 3.1230469 4.9609375 A 5 5 0 0 0 3 5.9960938 C 3 6.1680937 3.01425 6.3280938 3.03125 6.4960938 C 3.04525 6.6630937 3.06675 6.8320937 3.09375 6.9960938 C 3.66575 10.509094 6 13 8 15 C 8.810011 14.189989 9.6727855 13.297056 10.453125 12.291016 L 3.1230469 4.9609375 z "
+       style="isolation:auto;mix-blend-mode:normal;fill:#000000;marker:none;opacity:0.4"
+       d="M 8,0.99609375 A 5,5 0 0 0 4.9101562,2.0800781 l 2.15625,2.1582031 A 2,2 0 0 1 8,3.9960938 2,2 0 0 1 9.7597656,6.9296875 l 2.4492184,2.4492187 c 0.315752,-0.7388235 0.558646,-1.5312215 0.697266,-2.3828124 0.027,-0.164 0.0495,-0.3330001 0.0625,-0.5 0.017,-0.1680001 0.03125,-0.328 0.03125,-0.5 A 5,5 0 0 0 8,0.99609375 Z M 3.0117188,5.8398438 A 5,5 0 0 0 3,5.9960938 c 0,0.1719999 0.01425,0.332 0.03125,0.5 0.014,0.1669999 0.0355,0.3359999 0.0625,0.5 C 3.66575,10.509094 6,13 8,15 8.6597431,14.340257 9.3545231,13.625248 10.011719,12.839844 Z"
        transform="translate(-1.0008429,-1.0005)" />
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;paint-order:markers stroke fill"
-       d="M 0.35351563,-0.35351563 -0.35351563,0.35351563 13.646484,14.353516 14.353516,13.646484 Z"
-       id="path4410" />
+       style="color:#000000;opacity:1;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="M 0.7061883,-0.29346875 A 1.0001356,1.0001356 0 0 0 -8.429e-4,-5e-4 a 0.9996507,0.9996507 0 0 0 0,1.4140625 L 12.587048,13.9995 a 0.99965038,0.99965038 0 0 0 1.412109,0 1.0001353,1.0001353 0 0 0 0,-1.414062 L 1.4151727,-5e-4 A 1.0001356,1.0001356 0 0 0 0.7061883,-0.29346875 Z"
+       id="path1845" />
   </g>
 </svg>

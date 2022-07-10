@@ -20,19 +20,36 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3766">Twelf Icon Template</title>
+     id="title8055">Aleta Postre</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7459"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient8471">
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#986a44;stop-opacity:1" />
+         style="stop-color:#2aa9c7;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#63452c;stop-opacity:1" />
+         style="stop-color:#297fcc;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1840,11 +1857,11 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5775"
-       id="linearGradient8465"
-       x1="14.999157"
-       y1="1095.7725"
-       x2="14.999157"
-       y2="1121.7725"
+       id="linearGradient11557"
+       x1="16"
+       y1="3"
+       x2="16"
+       y2="29"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -1866,11 +1883,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.3125"
-     inkscape:cx="13.198556"
-     inkscape:cy="17.617329"
+     inkscape:zoom="16.000001"
+     inkscape:cx="14.906249"
+     inkscape:cy="15.999999"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1921,8 +1938,25 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Aleta Postre</dc:title>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1931,27 +1965,28 @@
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
      style="display:inline">
-    <rect
-       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
-       id="rect7796"
-       width="28"
-       height="28.000038"
-       x="0.99915707"
-       y="1094.7725"
-       ry="4.0000391" />
     <path
-       id="rect7982"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:2;paint-order:markers stroke fill"
-       d="M 6,2 C 3.7839783,2 2,3.7839783 2,6 V 7 C 2,4.7839783 3.7839783,3 6,3 h 20 c 2.216022,0 4,1.7839783 4,4 V 6 C 30,3.7839783 28.216022,2 26,2 Z"
+       id="rect10969"
+       style="opacity:1;fill:url(#linearGradient11557);fill-opacity:1;stroke-width:0.8;stroke-opacity:0.576874;paint-order:markers stroke fill"
+       d="M 6,2 C 4.8919783,2 4,2.8919783 4,4 v 24 c 0,1.108022 0.8919783,2 2,2 h 20 c 1.108022,0 2,-0.891978 2,-2 V 10 L 20,2 Z"
+       transform="translate(-1.0008429,1092.7725)" />
+    <path
+       id="rect6233"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:0.8;stroke-opacity:0.576874;paint-order:markers stroke fill"
+       d="m 20,2 h -1 c 0.552285,0 1,0.4477153 1,1 v 7 h 7 c 0.552285,0 1,0.447715 1,1 v -1 z"
        transform="translate(-1.0008429,1092.7725)"
-       sodipodi:nodetypes="sscsscsss"
-       inkscape:transform-center-y="-11.5" />
+       sodipodi:nodetypes="ccscsscc" />
     <path
-       id="path8382"
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:2;paint-order:markers stroke fill"
-       d="m 4.9991571,1122.7725 c -2.2160217,0 -4,-1.784 -4,-4 v -1 c 0,2.216 1.7839783,4 4,4 H 24.999157 c 2.216022,0 4,-1.784 4,-4 v 1 c 0,2.216 -1.783978,4 -4,4 z"
-       sodipodi:nodetypes="sscsscsss"
-       inkscape:transform-center-y="11.5" />
+       id="path6461"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       d="M 6,2 C 4.8919783,2 4,2.8919783 4,4 V 5 C 4,3.892 4.8919784,3 6,3 10.483073,3 14.966146,3 19.449219,3 L 28,11.552734 V 10 L 20,2 C 15.333333,2 10.666667,2 6,2 Z"
+       transform="translate(-1.0008429,1092.7725)"
+       sodipodi:nodetypes="csccccccc" />
+    <path
+       id="path11287"
+       style="opacity:0.3;fill:#000000;stroke-width:0.8;stroke-opacity:0.576874;paint-order:markers stroke fill"
+       d="m 4,27 v 1 c 0,1.108022 0.8919783,2 2,2 h 20 c 1.108022,0 2,-0.891978 2,-2 v -1 c 0,1.108 -0.891978,2 -2,2 H 6 C 4.8919783,29 4,28.108 4,27 Z"
+       transform="translate(-1.0008429,1092.7725)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1966,7 +2001,7 @@
        width="16"
        height="16"
        x="6.999157"
-       y="6.9994998"
+       y="8.9995003"
        ry="0" />
   </g>
   <g
@@ -1977,14 +2012,13 @@
      style="display:inline">
     <path
        id="rect4081"
-       style="fill:#ffffff;stroke:none;stroke-width:0.3;stroke-linejoin:round"
-       d="M 9,8 C 8.4459999,8 8,8.4459999 8,9 v 14 c 0,0.554 0.4459999,1 1,1 4.666667,0 9.333333,0 14,0 0.554,0 1,-0.446 1,-1 V 9 C 24,8.4459999 23.554,8 23,8 h -4 v 6 l -1,-1 -1,1 -1,-1 -1,1 -1,-1 -1,1 V 8 Z"
-       transform="translate(-1.0008429,-1.0005)"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.3;stroke-linejoin:round"
+       d="m 7.9991571,8.9995001 c -0.5540001,0 -1,0.4459997 -1,0.9999997 V 23.9995 c 0,0.554 0.4459999,1 1,1 4.6666669,0 9.3333329,0 13.9999999,0 0.554,0 1,-0.446 1,-1 V 9.9994998 c 0,-0.554 -0.446,-0.9999997 -1,-0.9999997 h -4 V 14.9995 l -1,-1 -1,1 -1,-1 -1,1 -1,-1 -1,1 V 8.9995001 Z"
        sodipodi:nodetypes="sssccssscccccccccs" />
     <path
        id="rect4127"
-       style="opacity:0.4;fill:#ffffff;stroke-width:0.367423;stroke-linejoin:round"
-       d="m 11.999157,6.9995 h 6 v 6 l -1,-1 -1,1 -1,-1 -1,1 -1,-1 -1,1 z"
+       style="display:inline;opacity:0.4;fill:#ffffff;stroke-width:0.367423;stroke-linejoin:round"
+       d="m 11.999157,8.9995001 h 6 V 14.9995 l -1,-1 -1,1 -1,-1 -1,1 -1,-1 -1,1 z"
        sodipodi:nodetypes="cccccccccc" />
   </g>
 </svg>

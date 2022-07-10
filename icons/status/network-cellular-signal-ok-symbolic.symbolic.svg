@@ -22,6 +22,23 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1194"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.1394086,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.1394087,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1834,8 +1851,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="5.1486212"
-     inkscape:cy="10.297242"
+     inkscape:cx="6.7838057"
+     inkscape:cy="8.9272231"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1905,16 +1922,13 @@
      transform="translate(1.0008429,1.0005)">
     <path
        id="path1558"
-       style="opacity:0.25;stroke-width:2;paint-order:markers stroke fill"
-       inkscape:transform-center-y="-1"
-       transform="translate(-1.0008429,-1.0005)"
-       d="M 15,1 V 15 H 1 Z"
+       style="opacity:0.4;stroke-width:2.39513;paint-order:markers stroke fill"
+       d="M 14.999157,-0.45894944 V 14.9995 H -0.4592922 A 0.5415506,0.5415506 0 0 1 -0.8422263,14.075015 L 14.074672,-0.84188352 a 0.54155055,0.54155055 0 0 1 0.924485,0.38293408 z"
        sodipodi:nodetypes="cccc" />
     <path
-       id="path2868"
-       style="opacity:1;stroke-width:2;paint-order:markers stroke fill;fill:#000000"
-       inkscape:transform-center-y="-1"
-       d="M 8 8 L 1 15 L 8 15 L 8 8 z "
+       id="path1986"
+       style="opacity:1;stroke-width:2.39513;paint-order:markers stroke fill"
+       d="M 8,7.234375 0.15820312,15.076172 A 0.5415506,0.5415506 0 0 0 0.54101562,16 H 8 Z"
        transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>
