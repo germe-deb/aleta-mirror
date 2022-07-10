@@ -4,8 +4,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="dialog-info-symbolic.symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="help-about-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -1833,9 +1833,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="5"
-     inkscape:cy="8.0625"
+     inkscape:zoom="22.627417"
+     inkscape:cx="6.3418639"
+     inkscape:cy="9.6343299"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1903,22 +1903,28 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <g
-       transform="matrix(1.2538024,0,0,1.2538024,-3.0304628,-3.7618768)"
-       id="g14">
-      <g
-         transform="translate(-5.8235e-5,-2.3329e-5)"
-         id="g12">
-        <path
-           d="M 7.9999,3 C 7.3301386,3.0003862 6.7872862,3.5432386 6.7869,4.213 6.7859605,4.8836984 7.329201,5.4280138 7.9999,5.4284 8.6715364,5.4293414 9.2162414,4.8846364 9.2153,4.213 9.2149138,3.542301 8.6705984,2.9990605 7.9999,3 Z M 6.9159,6.405 C 6.68453,6.40208 6.53625,6.4098 6.53625,6.4098 c 0,0 0.65193,0.92425 0.73304,1.4637 0.22066,1.4675 -1.5467,4.320873 -0.73304,5.561873 0.55153,0.8412 2.9274,0.73066 2.9274,0.73066 0,0 -0.64954,-0.92424 -0.73066,-1.4637 C 8.51233,11.234833 10.27729,8.38146 9.46365,7.14046 9.05,6.50955 7.61005,6.41371 6.91595,6.40503 Z"
-           fill="#ffffff"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="0.83377"
-           style="paint-order:markers stroke fill;fill:#000000"
-           id="path10"
-           sodipodi:nodetypes="ccccccccsccccc" />
-      </g>
-    </g>
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+       id="path2163"
+       cx="6.999157"
+       cy="1.9995003"
+       r="2.0000002" />
+    <path
+       id="rect2253"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+       d="m 2.9991571,4.9995005 v 2 h 2 V 9.9995 v 3 c 0,0.552285 0.4477153,1 1,1 h 3 v -2.999999 -4.0000005 -2 z"
+       sodipodi:nodetypes="ccccssccccc" />
+    <path
+       style="display:inline;opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linejoin:round"
+       id="path2279"
+       sodipodi:type="arc"
+       sodipodi:cx="8.999157"
+       sodipodi:cy="11.9995"
+       sodipodi:rx="2.0000002"
+       sodipodi:ry="2.0000002"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       sodipodi:arc-type="slice"
+       d="m 10.999157,11.9995 a 2.0000002,2.0000002 0 0 1 -2,2.000001 V 11.9995 Z" />
   </g>
 </svg>
