@@ -48,7 +48,7 @@ case "$@" in *--help*|*-h*)
   --autoinstall      Autoinstall to User directory
   
 This software is licensed under the GPLv3 and the CC-BY-SA 4.0 licenses.
-See README and LICENSE for more information"
+See README and LICENSE for more information\\n"
 	exit 0;
 esac
 
