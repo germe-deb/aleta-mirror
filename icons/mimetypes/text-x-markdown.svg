@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="text-x-script.svg"
+   sodipodi:docname="text-x-markdown.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -25,10 +25,10 @@
      id="defs4">
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect25443"
+       id="path-effect1887"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.0124234,0,1 @ F,0,0,1,0,0.9999999,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -1873,7 +1873,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4312-4"
+       xlink:href="#linearGradient5775"
        id="linearGradient11557"
        x1="16"
        y1="3"
@@ -1882,15 +1882,15 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4312-4">
+       id="linearGradient5775">
       <stop
-         style="stop-color:#4be56f;stop-opacity:1"
+         style="stop-color:#266785;stop-opacity:1"
          offset="0"
-         id="stop4308-2" />
+         id="stop5773" />
       <stop
-         style="stop-color:#14a134;stop-opacity:1"
+         style="stop-color:#122c3a;stop-opacity:1"
          offset="1"
-         id="stop4310-0" />
+         id="stop5771" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -1900,9 +1900,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="17.390406"
-     inkscape:cy="13.921164"
+     inkscape:zoom="16.000001"
+     inkscape:cx="12.906249"
+     inkscape:cy="18.562499"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1915,7 +1915,7 @@
      showguides="false"
      inkscape:pagecheckerboard="0"
      inkscape:snap-nodes="true"
-     inkscape:snap-object-midpoints="false"
+     inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-global="true"
@@ -1984,7 +1984,7 @@
      style="display:inline">
     <path
        id="rect10969"
-       style="opacity:1;fill:url(#linearGradient11557);fill-opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.576874;paint-order:markers stroke fill"
+       style="opacity:1;fill:url(#linearGradient11557);fill-opacity:1;stroke-width:0.8;stroke-opacity:0.576874;paint-order:markers stroke fill"
        d="M 6,2 C 4.8919783,2 4,2.8919783 4,4 v 24 c 0,1.108022 0.8919783,2 2,2 h 20 c 1.108022,0 2,-0.891978 2,-2 V 10 L 20,2 Z"
        transform="translate(-1.0008429,1092.7725)" />
     <path
@@ -2028,9 +2028,13 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
     <path
-       id="rect25315"
-       style="opacity:1;fill:#ffffff;stroke-width:0.2;paint-order:markers stroke fill"
-       d="m 8,11 v 14 a 1,1 45 0 0 1,1 h 14 a 1,1 135 0 0 1,-1 V 11 A 1,1 45 0 0 23,10 H 9 a 1,1 135 0 0 -1,1 z m 2.685547,2.707031 c 0.265198,5.5e-5 0.519517,0.105436 0.707031,0.292969 l 3.330078,3.330078 c 0.370504,0.369774 0.370504,0.97007 0,1.339844 L 11.392578,22 c -0.390923,0.39126 -1.025092,0.39126 -1.4160155,0 -0.3910077,-0.390265 -0.3910077,-1.023797 0,-1.414062 L 12.564453,18 9.9785156,15.414062 C 9.5878994,15.023635 9.5878994,14.390427 9.9785156,14 10.16603,13.812467 10.420349,13.707086 10.685547,13.707031 Z M 16,20 h 6 v 2 h -6 z"
+       id="rect3266"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       d="m 8,14 v 8 h 2 v -5 l 2,2 2,-2 v 5 h 2 v -8 h -2 l -2,2 -2,-2 z"
        transform="translate(-1.0008429,-1.0005)" />
+    <path
+       id="rect3625"
+       style="opacity:0.6;fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
+       d="m 18.999157,12.9995 v 4 h -2 l 3,4 3,-4 h -2 v -4 z" />
   </g>
 </svg>
