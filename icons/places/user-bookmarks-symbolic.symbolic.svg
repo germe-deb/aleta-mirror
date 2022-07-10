@@ -4,7 +4,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="user-bookmarks-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -22,6 +22,91 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3014"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0.69305609,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2753"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2014"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0.69305609,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1738"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1401"
+       is_visible="false"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1833,16 +1918,16 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="18.377463"
-     inkscape:cy="8.2726059"
+     inkscape:zoom="22.627417"
+     inkscape:cx="9.5238445"
+     inkscape:cy="11.22532"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
@@ -1868,7 +1953,9 @@
      inkscape:snap-intersection-paths="true"
      width="16px"
      inkscape:showpageshadow="false"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:snap-grids="true"
+     inkscape:snap-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1903,13 +1990,11 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <g
-       transform="matrix(1.1666628,0,0,1.1666628,-1.166549,-1.1665794)"
-       id="g4">
-      <path
-         d="m 6.9992,0.9995 -1.7235,4.2636 -4.586,0.32234 3.5201,2.9528 -1.1089,4.4613 3.8983,-2.4369 3.9025,2.4369 L 9.7928,8.53824 13.3087,5.58544 8.7271,5.2631 6.9993,0.9995 Z"
-         stroke-width="2.2006"
-         id="path2" />
-    </g>
+    <path
+       id="path2010"
+       style="fill:#000000;stroke-width:0.94385;stroke-opacity:0.576874;paint-order:markers stroke fill"
+       inkscape:transform-center-x="-0.014200313"
+       inkscape:transform-center-y="-3.394265"
+       d="M 7.0005357,-5e-4 A 0.32631257,0.32631257 0 0 0 6.6983153,0.2037594 l -1.8216598,4.5645709 -0.00834,-0.00834 -4.91264557,0.3209789 a 0.32631257,0.32631257 0 0 0 -0.18550081,0.5773453 l 3.77671348,3.1430926 -0.010426,0.00417 -1.2130503,4.7688299 a 0.32631257,0.32631257 0 0 0 0.4898056,0.356412 l 4.1560523,-2.619939 0.00208,0.0125 4.1623058,2.626192 a 0.32631257,0.32631257 0 0 0 0.489804,-0.356412 l -1.206796,-4.7625775 0.0125,0.00208 3.782965,-3.1493455 A 0.32631257,0.32631257 0 0 0 14.024555,5.1080678 L 9.1244161,4.7850045 9.1285846,4.7766675 7.3027561,0.2037594 A 0.32631257,0.32631257 0 0 0 7.0005357,-5e-4 Z" />
   </g>
 </svg>

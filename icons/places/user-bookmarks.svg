@@ -2949,11 +2949,11 @@
        inkscape:collect="always"
        id="linearGradient1274">
       <stop
-         style="stop-color:#f1cb46;stop-opacity:1"
+         style="stop-color:#fdee3a;stop-opacity:1"
          offset="0"
          id="stop1270" />
       <stop
-         style="stop-color:#c69815;stop-opacity:1"
+         style="stop-color:#e3b40d;stop-opacity:1"
          offset="1"
          id="stop1272" />
     </linearGradient>
@@ -2965,11 +2965,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.6562499"
-     inkscape:cx="15.826715"
-     inkscape:cy="21.025271"
+     inkscape:zoom="12.241786"
+     inkscape:cx="8.2095864"
+     inkscape:cy="17.236047"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -3052,7 +3052,7 @@
        transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <path
        id="rect7796"
-       style="opacity:1;fill:url(#linearGradient8465);stroke-width:2;paint-order:markers stroke fill;fill-opacity:1.0"
+       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke-width:2;paint-order:markers stroke fill"
        d="m 2.9991962,1096.7725 h 7.9999608 l 4,4 h 11.999961 c 1.108022,0 2.000039,0.892 2.000039,2 v 16 c 0,1.108 -0.892017,2 -2.000039,2 H 2.9991962 c -1.1080217,0 -2.00003913,-0.892 -2.00003913,-2 v -20 c 0,-1.108 0.89201743,-2 2.00003913,-2 z"
        sodipodi:nodetypes="sccssssssss" />
     <path
@@ -3089,24 +3089,6 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline;opacity:1">
     <g
-       id="layer4"
-       inkscape:label="icon 1"
-       style="display:inline"
-       transform="matrix(1.99999,0,0,1.99999,-3.0007526,-3.0004397)">
-      <g
-         id="rect7686" />
-      <g
-         transform="matrix(0.66666779,0,0,0.66666779,4.3338588,5.3336655)"
-         id="g4"
-         style="fill:#ffffff">
-        <path
-           d="m 6.9992,0.9995 -1.7235,4.2636 -4.586,0.32234 3.5201,2.9528 -1.1089,4.4613 3.8983,-2.4369 3.9025,2.4369 L 9.7928,8.53824 13.3087,5.58544 8.7271,5.2631 6.9993,0.9995 Z"
-           stroke-width="2.2006"
-           id="path2"
-           style="fill:#ffffff" />
-      </g>
-    </g>
-    <g
        id="layer1-9"
        inkscape:label="hint"
        style="display:none;opacity:0.800522"
@@ -3119,5 +3101,11 @@
          x="5"
          y="6" />
     </g>
+    <path
+       id="path2010"
+       style="fill:#ffffff;stroke-width:1.03465;stroke-opacity:0.576874;paint-order:markers stroke fill"
+       inkscape:transform-center-x="-0.015563281"
+       inkscape:transform-center-y="-3.7208095"
+       d="m 15.012124,8.9995 a 0.35770504,0.35770504 0 0 0 -0.331296,0.2239089 l -1.996909,5.0036991 -0.0091,-0.0091 -5.3852606,0.351858 a 0.35770504,0.35770504 0 0 0 -0.2033467,0.632888 l 4.1400473,3.44547 -0.01143,0.0046 -1.3297514,5.227609 a 0.35770504,0.35770504 0 0 0 0.5369274,0.3907 l 4.555879,-2.871986 0.0023,0.0137 4.562735,2.878842 a 0.35770504,0.35770504 0 0 0 0.536925,-0.390701 l -1.322894,-5.220755 0.0137,0.0023 4.1469,-3.452324 a 0.35770504,0.35770504 0 0 0 -0.205613,-0.63059 l -5.37155,-0.354144 0.0046,-0.0091 -2.001481,-5.01284 A 0.35770504,0.35770504 0 0 0 15.012124,8.9995 Z" />
   </g>
 </svg>
