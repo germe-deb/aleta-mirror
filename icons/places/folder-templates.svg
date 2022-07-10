@@ -8438,10 +8438,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.3125"
-     inkscape:cx="16.173285"
-     inkscape:cy="22.296029"
+     inkscape:cx="14.527076"
+     inkscape:cy="16.693141"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -8524,7 +8524,7 @@
        transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <path
        id="rect7796"
-       style="opacity:1;fill:url(#linearGradient8465);stroke-width:2;paint-order:markers stroke fill;fill-opacity:1"
+       style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1;stroke-width:2;paint-order:markers stroke fill"
        d="m 2.9991962,1096.7725 h 7.9999608 l 4,4 h 11.999961 c 1.108022,0 2.000039,0.892 2.000039,2 v 16 c 0,1.108 -0.892017,2 -2.000039,2 H 2.9991962 c -1.1080217,0 -2.00003913,-0.892 -2.00003913,-2 v -20 c 0,-1.108 0.89201743,-2 2.00003913,-2 z"
        sodipodi:nodetypes="sccssssssss" />
     <path
@@ -8562,6 +8562,10 @@
     <path
        id="rect7097"
        style="display:inline;opacity:1;fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       d="M 11 10 C 10.446 10 10 10.446 10 11 L 10 16 L 12 16 L 12 12 L 16.171875 12 L 20 15.830078 L 20 20 L 22 20 L 22 15.089844 L 16.910156 10 L 11 10 z M 10 17 L 10 19 L 12 19 L 12 17 L 10 17 z M 10 20 L 10 22 L 12 22 L 12 20 L 10 20 z M 20 21 L 20 23 L 22 23 L 22 21 L 20 21 z M 10 23 L 10 25 C 10 25.554 10.446 26 11 26 L 12 26 L 12 24 L 12 23 L 10 23 z M 13 24 L 13 26 L 15 26 L 15 24 L 13 24 z M 16 24 L 16 26 L 18 26 L 18 24 L 16 24 z M 19 24 L 19 26 L 21 26 C 21.554 26 22 25.554 22 25 L 22 24 L 20 24 L 19 24 z " />
+       d="m 11,10 c -0.554,0 -1,0.446 -1,1 v 5 h 2 v -4 h 4.171875 L 20,15.830078 V 18 h 2 V 15.089844 L 16.910156,10 Z m -1,8 v 2 h 2 v -2 z m 10,2 v 2 h 2 v -2 z m -10,2 v 2 h 2 v -2 z m 2,2 v 2 h 2 v -2 z m 4,0 v 2 h 2 v -2 z m 4,0 v 2 h 1 c 0.554,0 1,-0.446 1,-1 v -1 z" />
+    <path
+       id="rect2831"
+       style="opacity:0.4;fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
+       d="m 10,16 v 2 h 2 v -2 z m 10,2 v 2 h 2 v -2 z m -10,2 v 2 h 2 v -2 z m 10,2 v 2 h 2 v -2 z m 0,2 h -2 v 2 h 2 z m -10,0 v 1 c 0,0.554 0.446,1 1,1 h 1 v -2 z m 4,0 v 2 h 2 v -2 z" />
   </g>
 </svg>
