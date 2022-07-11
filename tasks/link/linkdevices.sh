@@ -10,3 +10,4 @@ ln -s hard-drive.png harddrive.png
 ln -s hard-drive.png gtk-harddisk.png
 ln -s keyboard.png input-keyboard.png
 ln -s drive-harddisk-symbolic.symbolic.png drive-harddisk-usb-symbolic.symbolic.png 
+ln -s drive-harddisk-symbolic.symbolic.png drive-harddisk-system-symbolic.symbolic.png 
