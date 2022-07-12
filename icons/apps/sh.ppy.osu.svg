@@ -1875,9 +1875,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.483572"
-     inkscape:cx="13.437582"
-     inkscape:cy="15.888205"
+     inkscape:zoom="17.3125"
+     inkscape:cx="13.891697"
+     inkscape:cy="17.732852"
      inkscape:document-units="pt"
      inkscape:current-layer="layer4"
      showgrid="true"
@@ -2015,7 +2015,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="triangulos"
-     style="opacity:0.59026228">
+     style="display:inline;opacity:0.14371257">
     <g
        id="g1726"
        clip-path="url(#clipPath1728)">
@@ -2033,7 +2033,7 @@
          id="g1573">
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1445"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2049,7 +2049,7 @@
            inkscape:transform-center-y="-0.64596696" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1447"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2065,7 +2065,7 @@
            inkscape:transform-center-y="-1.2785755" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1449"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2081,7 +2081,7 @@
            inkscape:transform-center-y="-0.49451007" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1451"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2097,7 +2097,7 @@
            inkscape:transform-center-y="-0.45411328" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1453"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2113,7 +2113,7 @@
            inkscape:transform-center-y="-0.62876076" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1455"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2129,7 +2129,7 @@
            inkscape:transform-center-y="-0.64380702" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1457"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2145,7 +2145,7 @@
            inkscape:transform-center-y="-0.81773045" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1459"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2161,7 +2161,7 @@
            inkscape:transform-center-y="-0.27714756" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1461"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2177,7 +2177,7 @@
            inkscape:transform-center-y="-0.37584037" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1463"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2193,7 +2193,7 @@
            inkscape:transform-center-y="-0.59805105" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1465"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2209,7 +2209,7 @@
            inkscape:transform-center-y="-0.20877601" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1467"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2225,7 +2225,7 @@
            inkscape:transform-center-y="-0.38740142" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1469"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2241,7 +2241,7 @@
            inkscape:transform-center-y="-0.21877003" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1471"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2257,7 +2257,7 @@
            inkscape:transform-center-y="-0.47032925" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1473"
            inkscape:flatsided="true"
            sodipodi:sides="3"
@@ -2273,7 +2273,7 @@
            inkscape:transform-center-y="-0.63212591" />
         <path
            sodipodi:type="star"
-           style="opacity:0.1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+           style="opacity:1;fill:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
            id="path1475"
            inkscape:flatsided="true"
            sodipodi:sides="3"

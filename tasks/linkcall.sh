@@ -60,6 +60,16 @@ function order () {
 	liactions 96
 	liactions 128
 	liactions 256
+	
+	limime 8
+	limime 16
+	limime 24
+	limime 32
+	limime 48
+	limime 64
+	limime 96
+	limime 128
+	limime 256
 
 }
 
@@ -96,6 +106,12 @@ function listatus () {
 function liactions () {
 	cd _build/aleta/actions/$1
 	../../../../tasks/link/linkactions.sh
+	cd ../../../..
+}
+
+function limime () {
+	cd _build/aleta/mimetypes/$1
+	../../../../tasks/link/linkmime.sh
 	cd ../../../..
 }
 

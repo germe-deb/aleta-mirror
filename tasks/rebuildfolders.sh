@@ -92,7 +92,6 @@ mkdir -p _build/aleta/status/scalable
 
 mkdir -p _build/aleta/mimetypes/8
 mkdir -p _build/aleta/mimetypes/16
-mkdir -p _build/aleta/mimetypes/22
 mkdir -p _build/aleta/mimetypes/24
 mkdir -p _build/aleta/mimetypes/32
 mkdir -p _build/aleta/mimetypes/48
