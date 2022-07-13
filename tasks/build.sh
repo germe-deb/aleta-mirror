@@ -33,8 +33,10 @@ fi
 case "$@" in *--help*|*-h*)
 	printf "${info_color}Aleta's build script help${reset_colors}\\n\
 	
-  --help -h          Show this help.
+  -h
+  --help             Show this help.
   
+  -a
   --no-optipng
   --avoid-optipng    Don't launch optipng process
 
@@ -93,7 +95,7 @@ printf "${info_color}exporting all the icons... this will take a long time.${res
 ./tasks/export/export-actions.sh
 ./tasks/export/export-animations.sh
 
-case "$@" in *--avoid-optipng*|*--no-optipng*)
+case "$@" in *--avoid-optipng*|*-a*|*--no-optipng*)
 	OPTIPNG=avoid
 esac
 
