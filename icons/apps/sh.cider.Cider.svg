@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="org.gnome.five-or-more.svg"
+   sodipodi:docname="sh.cider.Cider.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640">
@@ -21,16 +21,50 @@
      id="title8055">Aleta Postre</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1226"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,1,1,0,0.58509093,0,1 @ F,0,1,1,0,0.58509093,0,1 @ F,0,0,1,0,0.58509093,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1223"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient8471">
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#62a0ea;stop-opacity:1" />
+         style="stop-color:#ff3d69;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#1a5fb4;stop-opacity:1" />
+         style="stop-color:#e50545;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1853,10 +1887,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="17.124349"
-     inkscape:cy="16.793073"
+     inkscape:cx="18.680964"
+     inkscape:cy="17.777558"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="704"
@@ -1870,7 +1904,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1978,80 +2012,11 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="foreground"
-     transform="translate(1.0008429,1.0005)"
-     style="display:inline">
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-       id="path3808"
-       cx="10"
-       cy="22"
-       r="1.9999998"
-       transform="translate(-1.0008429,-1.0005)" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1"
-       id="path4633"
-       cx="14"
-       cy="18"
-       r="2"
-       transform="translate(-1.0008429,-1.0005)" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1"
-       id="path4635"
-       cx="18"
-       cy="14"
-       r="2"
-       transform="translate(-1.0008429,-1.0005)" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1"
-       id="path4637"
-       cx="22"
-       cy="10"
-       r="1.9999999"
-       transform="translate(-1.0008429,-1.0005)" />
-    <ellipse
-       style="opacity:0.65;fill:#ffffff;fill-opacity:1"
-       id="path4639"
-       cx="14"
-       cy="14"
-       rx="1.9999999"
-       ry="1.9999609"
-       transform="translate(-1.0008429,-1.0005)" />
-    <circle
-       style="opacity:0.4;fill:#ffffff;fill-opacity:1"
-       id="path4641"
-       cx="14"
-       cy="10"
-       r="2"
-       transform="translate(-1.0008429,-1.0005)" />
-    <circle
-       style="opacity:0.65;fill:#ffffff;fill-opacity:1"
-       id="path4643"
-       cx="10"
-       cy="10"
-       r="2"
-       transform="translate(-1.0008429,-1.0005)" />
-    <circle
-       style="opacity:1;fill:#ffffff;fill-opacity:1"
-       id="path4645"
-       cx="18"
-       cy="22"
-       r="1.9999998"
-       transform="translate(-1.0008429,-1.0005)" />
-    <circle
-       style="opacity:0.65;fill:#ffffff;fill-opacity:1"
-       id="path4647"
-       cx="22"
-       cy="22"
-       r="1.9999998"
-       transform="translate(-1.0008429,-1.0005)" />
-    <circle
-       style="opacity:0.4;fill:#ffffff;fill-opacity:1"
-       id="path4649"
-       cx="22"
-       cy="18"
-       r="1.9999999"
-       transform="translate(-1.0008429,-1.0005)" />
+     id="layer4"
+     inkscape:label="foreground 1">
+    <path
+       id="path1215"
+       style="opacity:1;fill:#ffffff"
+       d="M 16 8 A 8 8 0 0 0 8 16 A 8 8 0 0 0 16 24 A 8 8 0 0 0 24 16 A 8 8 0 0 0 16 8 z M 16 11 A 5 5 0 0 1 21 16 A 5 5 0 0 1 16 21 A 5 5 0 0 1 11 16 A 5 5 0 0 1 16 11 z M 15.939453 12 A 4 4 0 0 0 12 16 A 4 4 0 0 0 16 20 A 4 4 0 0 0 20 16 A 4 4 0 0 0 16 12 A 4 4 0 0 0 15.939453 12 z M 14.767578 14.060547 A 0.33780239 0.33780239 0 0 1 14.929688 14.105469 L 17.705078 15.707031 A 0.33780243 0.33780243 0 0 1 17.705078 16.292969 L 14.929688 17.894531 A 0.33780239 0.33780239 0 0 1 14.423828 17.601562 L 14.423828 14.398438 A 0.33780239 0.33780239 0 0 1 14.767578 14.060547 z " />
   </g>
 </svg>
