@@ -177,6 +177,7 @@ ln -s steam.png com.valvesoftware.Steam.png
 ln -s stepmania.png com.stepmania.StepMania.png
 ln -s supertuxkart.png net.supertuxkart.SuperTuxKart.png
 ln -s syncthing.png me.kozec.syncthingtk.png
+ln -s syncthing.png syncthing-gtk.png
 ln -s system-monitor.png org.gnome.SystemMonitor.png
 ln -s system-monitor.png utilities-system-monitor.png
 ln -s telegram.png org.telegram.desktop.png
