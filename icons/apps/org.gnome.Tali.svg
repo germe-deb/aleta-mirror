@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="org.gnome.Tali.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
-   inkscape:export-ydpi="640"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-ydpi="640">
   <title
      id="title3766">Twelf Icon Template</title>
   <defs
@@ -28,11 +26,15 @@
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#d85c54;stop-opacity:1" />
+         style="stop-color:#f66151;stop-opacity:1" />
+      <stop
+         id="stop1199"
+         offset="0.42307842"
+         style="stop-color:#ed333b;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#952a24;stop-opacity:1" />
+         style="stop-color:#c01c28;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1854,14 +1856,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.8742821"
-     inkscape:cx="-0.19049356"
-     inkscape:cy="18.160386"
+     inkscape:zoom="8.3674443"
+     inkscape:cx="2.0653301"
+     inkscape:cy="19.992215"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1886,7 +1888,8 @@
      inkscape:snap-center="true"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1910,6 +1913,9 @@
       <cc:Work
          rdf:about="">
         <dc:title>Twelf Icon Template</dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1918,7 +1924,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g4337"
        transform="translate(-22.320454,1056.4942)">
@@ -1983,10 +1990,35 @@
      inkscape:label="foreground"
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
-    <path
-       id="rect1317"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 9 8 C 8.4459999 8 8 8.4459999 8 9 L 8 23 C 8 23.554 8.4459999 24 9 24 L 23 24 C 23.554 24 24 23.554 24 23 L 24 9 C 24 8.4459999 23.554 8 23 8 L 9 8 z M 12 10 A 2.0000002 2.0000002 0 0 1 14 12 A 2.0000002 2.0000002 0 0 1 12 14 A 2.0000002 2.0000002 0 0 1 10 12 A 2.0000002 2.0000002 0 0 1 12 10 z M 20 10 A 2.0000002 2.0000002 0 0 1 22 12 A 2.0000002 2.0000002 0 0 1 20 14 A 2.0000002 2.0000002 0 0 1 18 12 A 2.0000002 2.0000002 0 0 1 20 10 z M 16 14 A 2.0000002 2.0000002 0 0 1 18 16 A 2.0000002 2.0000002 0 0 1 16 18 A 2.0000002 2.0000002 0 0 1 14 16 A 2.0000002 2.0000002 0 0 1 16 14 z M 12 18 A 2.0000002 2.0000002 0 0 1 14 20 A 2.0000002 2.0000002 0 0 1 12 22 A 2.0000002 2.0000002 0 0 1 10 20 A 2.0000002 2.0000002 0 0 1 12 18 z M 20 18 A 2.0000002 2.0000002 0 0 1 22 20 A 2.0000002 2.0000002 0 0 1 20 22 A 2.0000002 2.0000002 0 0 1 18 20 A 2.0000002 2.0000002 0 0 1 20 18 z "
-       transform="translate(-1.0008429,-1.0005)" />
+    <circle
+       style="opacity:1;fill:#ffffff;stroke-width:0.2"
+       id="path1201"
+       cx="14.999157"
+       cy="14.9995"
+       r="2" />
+    <circle
+       style="opacity:1;fill:#ffffff;stroke-width:0.2"
+       id="path1203"
+       cx="20.999157"
+       cy="8.9995003"
+       r="2.0000002" />
+    <circle
+       style="opacity:1;fill:#ffffff;stroke-width:0.2"
+       id="circle1205"
+       cx="8.999157"
+       cy="20.9995"
+       r="2" />
+    <circle
+       style="opacity:1;fill:#ffffff;stroke-width:0.2"
+       id="circle1207"
+       cx="8.999157"
+       cy="8.9995003"
+       r="2.0000002" />
+    <circle
+       style="opacity:1;fill:#ffffff;stroke-width:0.2"
+       id="circle1209"
+       cx="20.999157"
+       cy="20.9995"
+       r="2.0000002" />
   </g>
 </svg>

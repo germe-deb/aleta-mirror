@@ -1,28 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="org.kde.krita.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
-   inkscape:export-ydpi="640"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-ydpi="640">
   <title
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1225">
+      <stop
+         style="stop-color:#ff20ff;stop-opacity:1"
+         offset="0"
+         id="stop1221" />
+      <stop
+         style="stop-color:#ff20ff;stop-opacity:0"
+         offset="1"
+         id="stop1223" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1213">
+      <stop
+         style="stop-color:#2dffff;stop-opacity:1"
+         offset="0"
+         id="stop1209" />
+      <stop
+         style="stop-color:#fdfd36;stop-opacity:1"
+         offset="1"
+         id="stop1211" />
+    </linearGradient>
     <linearGradient
        id="linearGradient8471">
       <stop
@@ -1837,36 +1859,24 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
-    <meshgradient
+    <linearGradient
        inkscape:collect="always"
-       id="meshgradient5625"
+       xlink:href="#linearGradient1213"
+       id="linearGradient1215"
+       x1="0.99915707"
+       y1="1108.7725"
+       x2="28.999157"
+       y2="1108.7725"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1225"
+       id="linearGradient1219"
        gradientUnits="userSpaceOnUse"
-       x="-1"
-       y="1093.2729"
-       gradientTransform="matrix(1.7501313,0,0,1.7501313,1.9998859,-1912.2481)">
-      <meshrow
-         id="meshrow6931">
-        <meshpatch
-           id="meshpatch6933">
-          <stop
-             path="c 5.33291,-0.000406249  13.1671,-0.000400781  18.5,0"
-             style="stop-color:#ff20ff;stop-opacity:1"
-             id="stop6935" />
-          <stop
-             path="c 4.63257e-06,5.33253  -1.5,8.9996  -1.5012,16.4996"
-             style="stop-color:#ff20ff;stop-opacity:1"
-             id="stop6937" />
-          <stop
-             path="c -6.4988,-4.64848e-05  -9.4988,0.999951  -15.9987,-0.000198633"
-             style="stop-color:#fdfd36;stop-opacity:1"
-             id="stop6939" />
-          <stop
-             path="c -0.500095,-7.99985  -1.0001,-11.1669  -1.0001,-16.4994"
-             style="stop-color:#2dffff;stop-opacity:1"
-             id="stop6941" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
+       x1="14.999157"
+       y1="1095.7725"
+       x2="14.999157"
+       y2="1121.7725" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1876,20 +1886,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.241786"
-     inkscape:cx="18.012077"
-     inkscape:cy="18.461358"
+     inkscape:cx="14.729871"
+     inkscape:cy="15.764167"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -1907,7 +1917,8 @@
      inkscape:snap-center="true"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1931,6 +1942,9 @@
       <cc:Work
          rdf:about="">
         <dc:title>Twelf Icon Template</dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1940,11 +1954,6 @@
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
      style="display:inline">
-    <path
-       id="rect4731-1"
-       style="display:inline;fill:url(#meshgradient5625);fill-opacity:1;stroke-width:0.0820535;stroke-linecap:round;stroke-linejoin:round"
-       d="M 6 2 C 3.7839783 2 2 3.7839783 2 6 L 2 26 C 2 28.216022 3.7839783 30 6 30 L 26 30 C 28.216022 30 30 28.216022 30 26 L 30 6 C 30 3.7839783 28.216022 2 26 2 L 6 2 z "
-       transform="translate(-1.0008429,1092.7725)" />
     <g
        id="g4337"
        transform="translate(-22.320454,1056.4942)">
@@ -1965,6 +1974,22 @@
     <g
        id="g6215"
        transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
+    <rect
+       style="fill:url(#linearGradient1215);stroke-linecap:square;stroke-linejoin:round;fill-opacity:1"
+       id="rect1207"
+       width="28"
+       height="28"
+       x="0.99915707"
+       y="1094.7725"
+       ry="4.0000391" />
+    <rect
+       style="fill:url(#linearGradient1219);stroke-linecap:square;stroke-linejoin:round;fill-opacity:1"
+       id="rect1217"
+       width="28"
+       height="28"
+       x="0.99915707"
+       y="1094.7725"
+       ry="4.0000391" />
     <path
        id="rect7982"
        style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:2;paint-order:markers stroke fill"
