@@ -201,3 +201,4 @@ ln -s flashplayer.png adobe-flash.png
 ln -s revolt.png chat.revolt.RevoltDesktop.png
 ln -s Revolt.png chat.revolt.RevoltDesktop.png
 ln -s dropbox.png com.dropbox.Client.png
+ln -s sh.cider.Cider.png cider.png
