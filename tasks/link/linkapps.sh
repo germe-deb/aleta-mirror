@@ -189,3 +189,4 @@ ln -s utilities-terminal.png terminal.png
 ln -s web-wikipedia.png com.github.hugolabe.Wike.png
 ln -s nestopia.png ca._0ldsk00l.Nestopia.png
 ln -s debian.png emblem-debian.png
+ln -s dosbox.png com.dosbox.DOSBox.png
