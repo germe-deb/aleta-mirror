@@ -190,3 +190,7 @@ ln -s web-wikipedia.png com.github.hugolabe.Wike.png
 ln -s nestopia.png ca._0ldsk00l.Nestopia.png
 ln -s debian.png emblem-debian.png
 ln -s dosbox.png com.dosbox.DOSBox.png
+ln -s xjump.png Xjump.png
+ln -s xjump.png X-jump.png
+ln -s xjump.png x-jump.png
+ln -s xjump.png br.com.gualandi.Xjump.png
