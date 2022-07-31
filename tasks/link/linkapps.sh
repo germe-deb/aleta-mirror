@@ -194,3 +194,10 @@ ln -s xjump.png Xjump.png
 ln -s xjump.png X-jump.png
 ln -s xjump.png x-jump.png
 ln -s xjump.png br.com.gualandi.Xjump.png
+ln -s flashplayer.png flash-player-projector.png
+ln -s flashplayer.png Flash-Player-Projector.png
+ln -s flashplayer.png com.adobe.Flash-Player-Projector.png
+ln -s flashplayer.png adobe-flash.png
+ln -s revolt.png chat.revolt.RevoltDesktop.png
+ln -s Revolt.png chat.revolt.RevoltDesktop.png
+ln -s dropbox.png com.dropbox.Client.png
