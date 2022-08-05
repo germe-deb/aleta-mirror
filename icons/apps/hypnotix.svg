@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="hypnotix.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
-   inkscape:export-ydpi="640"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-ydpi="640">
   <title
      id="title1273">an Aleta Postre template based icon (or the template itself)</title>
   <defs
@@ -1875,10 +1873,10 @@
      inkscape:cx="15.624549"
      inkscape:cy="15.942238"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1903,7 +1901,8 @@
      inkscape:snap-center="true"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1934,6 +1933,9 @@
             <dc:title>Luci / Germe</dc:title>
           </cc:Agent>
         </dc:creator>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -2005,7 +2007,8 @@
     <path
        id="path1728"
        style="opacity:1;fill:#ffffff;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="m 11.3125,8 c -1.109694,1.7128285 -1.7140547,3.753207 -1.4414062,5.800781 0.2265942,1.701704 1.2677932,3.574477 2.8105472,4.423828 A 4,4 0 0 0 16,20 4,4 0 0 0 16.273438,19.980469 C 14.765874,20.897508 12.6192,20.864791 11.029297,20.208984 9.8380174,19.717602 8.8231004,18.929569 8,17.966797 v 5.337891 C 8.9012734,23.650445 9.8511553,23.88947 10.810547,24 h 2.369141 c 1.424455,-0.17483 2.796648,-0.680637 3.980468,-1.591797 1.360694,-1.047295 2.462432,-2.886837 2.425782,-4.648437 A 4,4 0 0 0 20,16 4,4 0 0 0 19.328125,13.78125 c 1.537254,0.851924 2.574677,2.719942 2.800781,4.417969 C 22.401555,20.246793 21.797195,22.287172 20.6875,24 H 24 v -9.966797 c -0.8231,-0.962773 -1.838018,-1.750806 -3.029297,-2.242187 -0.720176,-0.29706 -1.554899,-0.465293 -2.392578,-0.476563 -1.010723,-0.0136 -2.025355,0.204669 -2.849609,0.705078 a 4,4 0 0 0 -3.314454,2.220703 C 12.377413,12.478636 13.479151,10.639096 14.839844,9.5917969 16.028167,8.6771678 17.399299,8.1734655 18.822266,8 Z m 9.876953,0 C 22.147859,8.1119219 23.096654,8.3526862 24,8.6992188 V 8 Z m -6.451172,5.601562 A 0.66025454,0.66025454 0 0 1 15,13.691406 l 2.929688,1.763672 a 0.62707886,0.62707886 0 0 1 0,1.074219 l -2.935547,1.765625 A 0.65589393,0.65589393 0 0 1 14,17.732422 v -3.47461 a 0.66025454,0.66025454 0 0 1 0.738281,-0.65625 z"
-       transform="translate(-1.0008429,-1.0005)" />
+       d="m 11.3125,8 c -1.109694,1.7128285 -1.7140547,3.753207 -1.4414062,5.800781 0.2265942,1.701704 1.2677932,3.574477 2.8105472,4.423828 C 13.422894,19.332297 14.667174,19.998012 16,20 c 0.09134,-0.0034 0.182542,-0.0099 0.273438,-0.01953 -1.507564,0.917039 -3.654238,0.884322 -5.244141,0.228515 C 9.8380174,19.717602 8.8231004,18.929569 8,17.966797 v 5.337891 C 8.9012734,23.650445 9.8511553,23.88947 10.810547,24 h 2.369141 c 1.424455,-0.17483 2.796648,-0.680637 3.980468,-1.591797 1.360694,-1.047295 2.462432,-2.886837 2.425782,-4.648437 C 19.856443,17.212462 19.998081,16.610501 20,16 c -3.3e-5,-0.78969 -0.233811,-1.561703 -0.671875,-2.21875 1.537254,0.851924 2.574677,2.719942 2.800781,4.417969 C 22.401555,20.246793 21.797195,22.287172 20.6875,24 H 24 v -9.966797 c -0.8231,-0.962773 -1.838018,-1.750806 -3.029297,-2.242187 -0.720176,-0.29706 -1.554899,-0.465293 -2.392578,-0.476563 -1.010723,-0.0136 -2.025355,0.204669 -2.849609,0.705078 -1.421473,0.09711 -2.683988,0.942999 -3.314454,2.220703 -0.03665,-1.761598 1.065089,-3.601138 2.425782,-4.6484371 C 16.028167,8.6771678 17.399299,8.1734655 18.822266,8 Z m 3.425781,5.601562 c 0.09261,0.01113 0.181805,0.04175 0.261719,0.08984 l 2.929688,1.763672 c 0.404588,0.243786 0.404588,0.830433 0,1.074219 l -2.935547,1.765625 C 14.556777,18.55818 13.99957,18.242904 14,17.732422 v -3.47461 c -3.73e-4,-0.395829 0.345226,-0.703028 0.738281,-0.65625 z"
+       transform="translate(-1.0008429,-1.0005)"
+       sodipodi:nodetypes="cscccsccccscccscccssccscccccccccc" />
   </g>
 </svg>

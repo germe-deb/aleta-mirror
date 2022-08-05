@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.3-dev (1:1.2.0-alpha1+devel+202207301649+dad3c7a8f1)"
    sodipodi:docname="icon.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
-   inkscape:export-ydpi="640">
+   inkscape:export-ydpi="640"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title8055">Aleta Postre</title>
   <defs
@@ -1853,9 +1853,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.96875"
-     inkscape:cx="16"
+     inkscape:cx="16.029466"
      inkscape:cy="16"
-     inkscape:document-units="pt"
+     inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
@@ -1865,7 +1865,7 @@
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
@@ -1885,7 +1885,13 @@
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#d1d1d1"
+     showborder="true"
+     shape-rendering="auto"
+     borderlayer="false"
+     inkscape:clip-to-page="false">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
