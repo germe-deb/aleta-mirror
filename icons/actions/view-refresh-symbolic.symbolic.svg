@@ -4,7 +4,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3-dev (1:1.2.0-alpha1+devel+202207301649+dad3c7a8f1)"
    sodipodi:docname="view-refresh-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -18,27 +18,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title8838">Aleta Postre</title>
   <defs
      id="defs4">
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2159"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.1661358,0,1 @ F,0,0,1,0,1.1661358,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1845,19 +1826,19 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#cacaca"
+     pagecolor="#e8e8e8"
      bordercolor="#000000"
-     borderopacity="1"
+     borderopacity="0.3372549"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.625"
-     inkscape:cx="7.1191336"
-     inkscape:cy="9.5306859"
+     inkscape:zoom="16"
+     inkscape:cx="11.0625"
+     inkscape:cy="5.71875"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1884,8 +1865,10 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
      width="16px"
-     inkscape:showpageshadow="false"
-     inkscape:document-rotation="0">
+     inkscape:showpageshadow="true"
+     inkscape:document-rotation="0"
+     inkscape:deskcolor="#cacaca"
+     shape-rendering="auto">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1898,7 +1881,7 @@
        units="px"
        originx="0"
        originy="0"
-       color="#00a2ff"
+       color="#0077ff"
        opacity="0.05490196"
        empcolor="#4300ff"
        empopacity="0.08235294" />
@@ -1911,8 +1894,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Aleta Postre</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1921,24 +1920,8 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stroke-linecap:round"
        id="path1620"
-       sodipodi:type="arc"
-       sodipodi:cx="6.999157"
-       sodipodi:cy="6.9994998"
-       sodipodi:rx="7"
-       sodipodi:ry="7"
-       sodipodi:start="0.78539816"
-       sodipodi:end="5.4977871"
-       sodipodi:arc-type="arc"
-       d="m 11.948904,11.949247 a 7,7 0 0 1 -9.8994944,0 7,7 0 0 1 -3e-7,-9.8994945 7,7 0 0 1 9.8994947,-4e-7"
-       sodipodi:open="true" />
-    <path
-       id="path1941"
-       style="opacity:1;stroke-width:2.229"
-       inkscape:transform-center-x="0.43980452"
-       inkscape:transform-center-y="-0.43980465"
-       d="M 14.999157,4.9995 H 9.4849344 A 0.48577727,0.48577727 0 0 1 9.141438,4.1702263 l 5.028445,-5.02844543 a 0.48577726,0.48577726 0 0 1 0.829274,0.34349639 z"
-       sodipodi:nodetypes="cccc" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+       d="m 14.483532,-1.0005 a 0.48577726,0.48577726 0 0 0 -0.314453,0.14257812 L 12.296032,1.015125 c -1.507144,-1.33472693 -3.3997916,-2.0097657 -5.2968749,-2.00976562 -2.0494724,6e-8 -4.1002937,0.77802799 -5.6582031,2.33593752 -3.1158188,3.115819 -3.115819,8.1986341 0,11.3144531 3.1158189,3.115819 8.1986341,3.115819 11.314453,0 a 1,1 0 0 0 0,-1.414062 1,1 0 0 0 -1.414062,0 c -2.351522,2.35152 -6.1348073,2.35152 -8.4863285,0 -2.3515212,-2.3515221 -2.3515211,-6.1328543 0,-8.4843755 C 4.9902859,0.522043 8.5168337,0.4168804 10.880016,2.4311406 L 9.1417351,4.1694219 A 0.48577727,0.48577727 0 0 0 9.4854851,4.9995 H 14.999157 V -0.51417188 A 0.48577726,0.48577726 0 0 0 14.483532,-1.0005 Z" />
   </g>
 </svg>
