@@ -1,12 +1,12 @@
 # Aleta Postre 
 
-### A material icon pack featuring gradients, squares, and white symbolics!
+### A fancy icon pack with a very very consistent look!
 
 ![aleta](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/Presentacion.png)
 
 This icon pack is strongly inspired in moka and ameixa, and a bit in adwaita.
 
-Now we are working in the redesign of the icon pack, and adding new apps to the list of icons.
+I am working just now adding more icons and updating all the old-designed ones. In a few months (or weeks) the final release will be here in the [releases page](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/releases)! 
 
 # Download
 
@@ -20,17 +20,25 @@ Now we are working in the redesign of the icon pack, and adding new apps to the 
 
 Make sure you have them all installed.
 
-* inkscape
-* GNU parallel
-* bash
-* optipng
+| inkscape     | required |
+| GNU parallel | required |
+| bash         | required |
+| optipng      | optional |
+
+optipng is optional, only required if you want to optimize your build. useful while distributing it.
+If you want to use it, DON'T put `-a` in the build script. The following build command has it so remove it
+
+### build command:
 
 ```
-# clone this repo and enter to it
+# Clone this repo and enter to it
 git clone https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre
 cd aleta-postre
-# launch the build script
-./tasks/build.sh
+
+# Launch the build script with the following options:
+# Start again, Avoid optipng, Auto install
+
+./tasks/build.sh -r -a -i
 ```
 *note: the building process takes more or less 15 minutes*
 
