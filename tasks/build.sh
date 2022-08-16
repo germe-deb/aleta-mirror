@@ -36,7 +36,7 @@ ${info_color}Examples:${reset_colors}
 ${info_color}Arguments:${reset_colors}
   h  -h  --help  help       Show this help.
   e  export                 Export the remaining icons
-  a  avoid-optipng          Don't launch optipng process
+  o  use-optipng            Launch optipng process
   v  verbose                Show more info. useful for debugging (NIY)
   r  from-cero  restart     Copy the SVG again and start the build again
   i  autoinstall            Autoinstall to User directory
@@ -46,6 +46,11 @@ NIY means Not Implemented Yet
 This software is licensed under the GPLv3 and the CC-BY-SA 4.0 licenses.
 See README and LICENSE for more information\\n"
 	exit 0;
+esac
+
+# check if you written verbose and set that variable
+case "$@" in *v*|*verbose*)
+VERBOSE=yes
 esac
 
 # here is the checking. it is sepparated for practicy
@@ -115,11 +120,11 @@ if [ "$EXPOR" = yes ]; then
       ./tasks/export/export-animations.sh
 fi
 
-case "$@" in *avoid-optipng*|*a*)
-	OPTIPNG=avoid
+case "$@" in *use-optipng*|*o*)
+	OPTIPNG=use
 esac
 
-if [ "$OPTIPNG" != avoid ];
+if [ "$OPTIPNG" = use ];
       then 
       command -v optipng  >/dev/null 2>&1 || { echo >&2 "Missing dependency: optipng"; DEPSCOMPLETE=n; }
       if [ "$DEPSCOMPLETE" = n ] ; then
@@ -134,8 +139,11 @@ printf "${info_color}Launching misc commands...${reset_colors}\\n"
 ./tasks/misc.sh
 
 printf "${info_color}starting link process...${reset_colors}\\n"
-./tasks/linkcall.sh
-
+if [ "$VERBOSE" = yes ] ; then
+      ./tasks/linkcall.sh
+else
+      ./tasks/linkcall.sh >/dev/null 2>&1
+fi
 case "$@" in *autoinstall*|*i*)
 	printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
 	rm -rf ~/.icons/aleta
