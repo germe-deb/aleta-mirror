@@ -16,6 +16,12 @@ I am working just now adding more icons and updating all the old-designed ones. 
 
 # build from source
 
+I recommend to check the build script's help. I really love it.
+
+Ok I can't wait for it, I'll show you >w<
+
+![the build script's help](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/script-help.png)
+
 ### Dependencies
 
 Make sure you have them all installed.
