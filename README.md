@@ -27,6 +27,8 @@ Make sure you have them all installed.
 
 optipng is optional, only required if you want to optimize your build. useful while distributing it.
 
+Before building, please pull all the changes (`git pull`). I update aleta a lot and if you miss a change, it will be unpleasant for me ewe
+
 ### build command:
 
 ```
