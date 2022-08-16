@@ -29,10 +29,10 @@ case "$@" in *--help*|*-h*|*help*)
 Usage: ./tasks/build.sh [args]...
 
 ${info_color}Examples:${reset_colors}
-  ./tasks/build.sh re       Start the build from cero
-  ./tasks/build.sh rei      Same but now it autoinstalls
-  ./tasks/build.sh oer      Same as the first one but now launch optipng
-  ./tasks/build.sh e        Continue building. useful if you cancelled the build
+  ./tasks/build.sh -r -e       Start the build from cero
+  ./tasks/build.sh -r -e -i    Same but now it autoinstalls
+  ./tasks/build.sh -o -e -r    Same as the first one but now launch optipng
+  ./tasks/build.sh -e          Continue building. useful if you cancelled the build
 
 ${info_color}Arguments:${reset_colors}
   -h  --help    help        Show this help.
