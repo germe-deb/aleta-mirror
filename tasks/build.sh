@@ -20,8 +20,29 @@ then
 command -v inkscape >/dev/null 2>&1 || { echo >&2 "Missing dependency: inkscape"; DEPSCOMPLETE=n; }
 command -v parallel >/dev/null 2>&1 || { echo >&2 "Missing dependency: parallel"; DEPSCOMPLETE=n; }
 command -v bash     >/dev/null 2>&1 || { echo >&2 "Missing dependency: bash";     DEPSCOMPLETE=n; }
-command -v optipng  >/dev/null 2>&1 || { echo >&2 "Missing dependency: parallel"; DEPSCOMPLETE=n; }
 fi
+
+# Check for --help
+# This is the help message
+case "$@" in *--help*|*-h*)
+	printf "${info_color}Aleta's build script help${reset_colors}\\n\
+Usage: ./tasks/build.sh [args]...
+
+${info_color}Examples:${reset_colors}
+  ./tasks/build.sh ra     Start the build from cero, don't launch optipng
+  ./tasks/build.sh rai    Same but now it autoinstalls
+  ./tasks/build.sh        Continue building. useful if you cancelled the build
+
+${info_color}Arguments:${reset_colors}
+  h  -h  --help  help       Show this help.
+  a  avoid-optipng          Don't launch optipng process
+  r  from-cero  restart     Copy the SVG again and start the build again
+  i  autoinstall            Autoinstall to User directory
+
+This software is licensed under the GPLv3 and the CC-BY-SA 4.0 licenses.
+See README and LICENSE for more information\\n"
+	exit 0;
+esac
 
 # here is the checking. it is sepparated for practicy
 if [ "$DEPSCOMPLETE" = n ]
@@ -30,34 +51,10 @@ then
 	exit 1
 fi
 
-# Check for --help
-# This is the help message
-case "$@" in *--help*|*-h*)
-	printf "${info_color}Aleta's build script help${reset_colors}\\n\
-Usage: ./tasks/build.sh [OPTION]...
-
-${info_color}Examples:${reset_colors}
-  ./tasks/build.sh ra     Start the build from cero, don't launch optipng
-  ./tasks/build.sh rai    Same but now it autoinstalls
-  ./tasks/build.sh        Continue building. useful if you cancelled the build
-
-  h  -h  --help   help           Show this help.
-                                  
-  a   avoid-optipng              Don't launch optipng process
-                           
-  r   from-cero   restart        Copy the SVG again and start the build again
-                                
-  i   update      autoinstall    Autoinstall to User directory
-  
-This software is licensed under the GPLv3 and the CC-BY-SA 4.0 licenses.
-See README and LICENSE for more information\\n"
-	exit 0;
-esac
-
 # begin exportation and stuff
 printf "${info_color}This script runs the build tasks and performs an install (or an update) of aleta to your home${reset_colors}\\n\\n"
 
-case "$@" in *-r*|*--restart*|*--again*|*--from-cero*)
+case "$@" in *r*|*restart*|*from-cero*)
 	RESTART=yes
 esac
 
@@ -95,13 +92,19 @@ printf "${info_color}exporting all the icons... this will take a long time.${res
 ./tasks/export/export-actions.sh
 ./tasks/export/export-animations.sh
 
-case "$@" in *--avoid-optipng*|*-a*|*--no-optipng*)
+case "$@" in *avoid-optipng*|*a*)
 	OPTIPNG=avoid
 esac
 
 if [ "$OPTIPNG" != avoid ];
-  then printf "${info_color}Using optipng to reduce the size of the build...${reset_colors}\\n"
-	./tasks/opticall.sh
+      then 
+      command -v optipng  >/dev/null 2>&1 || { echo >&2 "Missing dependency: optipng"; DEPSCOMPLETE=n; }
+      if [ "$DEPSCOMPLETE" = n ] ; then
+  	      echo Please install the missing dependencies to start building
+  	      exit 1
+      fi
+      printf "${info_color}Using optipng to reduce the size of the build...${reset_colors}\\n"
+      ./tasks/opticall.sh
 fi
 
 printf "${info_color}Launching misc commands...${reset_colors}\\n"
@@ -110,7 +113,7 @@ printf "${info_color}Launching misc commands...${reset_colors}\\n"
 printf "${info_color}starting link process...${reset_colors}\\n"
 ./tasks/linkcall.sh
 
-case "$@" in *--autoinstall*|*--update*|*-i*)
+case "$@" in *autoinstall*|*i*)
 	printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
 	rm -rf ~/.icons/aleta
 	mkdir ~/.icons/aleta -p
