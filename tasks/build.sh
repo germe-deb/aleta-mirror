@@ -34,22 +34,20 @@ fi
 # This is the help message
 case "$@" in *--help*|*-h*)
 	printf "${info_color}Aleta's build script help${reset_colors}\\n\
-	
-  -h
-  --help             Show this help.
-  
-  -a
-  --no-optipng
-  --avoid-optipng    Don't launch optipng process
+Usage: ./tasks/build.sh [OPTION]...
 
-  -r
-  --from-cero
-  --again
-  --restart          Copy the SVG again and start the build again
-  
-  -i
-  --update
-  --autoinstall      Autoinstall to User directory
+${info_color}Examples:${reset_colors}
+  ./tasks/build.sh ra     Start the build from cero, don't launch optipng
+  ./tasks/build.sh rai    Same but now it autoinstalls
+  ./tasks/build.sh        Continue building. useful if you cancelled the build
+
+  h  -h  --help   help           Show this help.
+                                  
+  a   avoid-optipng              Don't launch optipng process
+                           
+  r   from-cero   restart        Copy the SVG again and start the build again
+                                
+  i   update      autoinstall    Autoinstall to User directory
   
 This software is licensed under the GPLv3 and the CC-BY-SA 4.0 licenses.
 See README and LICENSE for more information\\n"
