@@ -26,7 +26,6 @@ Make sure you have them all installed.
 | optipng      | optional |
 
 optipng is optional, only required if you want to optimize your build. useful while distributing it.
-If you want to use it, DON'T put `-a` in the build script. The following build command has it so remove it
 
 ### build command:
 
@@ -36,9 +35,9 @@ git clone https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre
 cd aleta-postre
 
 # Launch the build script with the following options:
-# Start again, Avoid optipng, Auto install
+# autoinstall, optimize, restart, export
 
-./tasks/build.sh -r -a -i
+./tasks/build.sh iore
 ```
 *note: the building process takes more or less 15 minutes*
 
