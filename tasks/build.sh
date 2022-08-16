@@ -29,15 +29,19 @@ case "$@" in *--help*|*-h*)
 Usage: ./tasks/build.sh [args]...
 
 ${info_color}Examples:${reset_colors}
-  ./tasks/build.sh ra     Start the build from cero, don't launch optipng
-  ./tasks/build.sh rai    Same but now it autoinstalls
-  ./tasks/build.sh        Continue building. useful if you cancelled the build
+  ./tasks/build.sh rae      Start the build from cero, don't launch optipng
+  ./tasks/build.sh raei     Same but now it autoinstalls
+  ./tasks/build.sh e        Continue building. useful if you cancelled the build
 
 ${info_color}Arguments:${reset_colors}
   h  -h  --help  help       Show this help.
+  e  export                 Export the remaining icons
   a  avoid-optipng          Don't launch optipng process
+  v  verbose                Show more info. useful for debugging (NIY)
   r  from-cero  restart     Copy the SVG again and start the build again
   i  autoinstall            Autoinstall to User directory
+
+NIY means Not Implemented Yet
 
 This software is licensed under the GPLv3 and the CC-BY-SA 4.0 licenses.
 See README and LICENSE for more information\\n"
@@ -53,6 +57,16 @@ fi
 
 # begin exportation and stuff
 printf "${info_color}This script runs the build tasks and performs an install (or an update) of aleta to your home${reset_colors}\\n\\n"
+
+# check if there is a valid option, if it is, continue. if not, mark the variable NOTOPTIONS and stop the process
+case "$@" in *e*|*export*|*-h*|*h*|*--help*|*help*|*r*|*restart*|*from-cero*|*a*|*avoid-optipng*|*i*|*autoinstall*)
+	NOTOPTIONS=thereis
+esac
+
+if [ "$NOTOPTIONS" != thereis ] ; then
+      printf "there is no options, exit."
+      exit 1
+fi
 
 case "$@" in *r*|*restart*|*from-cero*)
 	RESTART=yes
@@ -81,16 +95,23 @@ cp icons/animations/*.svg  _build/icons-t/animations/
 
 fi
 
+# Check if you written the export option 
+case "$@" in *e*|*export*)
+      # I dont want to conflict with the export command XD
+	EXPOR=yes
+esac
 
-printf "${info_color}exporting all the icons... this will take a long time.${reset_colors}\\n"
-./tasks/export/export-places.sh 
-./tasks/export/export-apps.sh
-./tasks/export/export-categories.sh
-./tasks/export/export-devices.sh
-./tasks/export/export-status.sh
-./tasks/export/export-mimetypes.sh
-./tasks/export/export-actions.sh
-./tasks/export/export-animations.sh
+if [ "$EXPOR" = yes ]; then
+      printf "${info_color}exporting all the icons... this will take a long time.${reset_colors}\\n"
+      ./tasks/export/export-places.sh 
+      ./tasks/export/export-apps.sh
+      ./tasks/export/export-categories.sh
+      ./tasks/export/export-devices.sh
+      ./tasks/export/export-status.sh
+      ./tasks/export/export-mimetypes.sh
+      ./tasks/export/export-actions.sh
+      ./tasks/export/export-animations.sh
+fi
 
 case "$@" in *avoid-optipng*|*a*)
 	OPTIPNG=avoid
