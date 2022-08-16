@@ -24,7 +24,7 @@ fi
 
 # Check for --help
 # This is the help message
-case "$@" in *--help*|*-h*)
+case "$@" in *--help*|*-h*|*h*|*help*)
 	printf "${info_color}Aleta's build script help${reset_colors}\\n\
 Usage: ./tasks/build.sh [args]...
 
