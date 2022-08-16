@@ -64,7 +64,9 @@ case "$@" in *e*|*export*|*-h*|*h*|*--help*|*help*|*r*|*restart*|*from-cero*|*a*
 esac
 
 if [ "$NOTOPTIONS" != thereis ] ; then
-      printf "there is no options, exit."
+      printf "please add arguments.
+type ${comple_color}./tasks/build.sh${reset_colors} --help to see all the arguments available
+ERROR: there is no options, exit.\\n"
       exit 1
 fi
 
