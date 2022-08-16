@@ -9,7 +9,7 @@ reset_colors="\e[0m"    # this resets the coloring
 # Check dependencies
 # If you are having trobule with a dependency that IS in your system but
 # the script can't continue, please add this to your command: --ignore-dependency-check
-case "$@" in *--ignore-dependency-check*)
+case "$@" in *-k*|*--ignore-deps*)
 IGNOREDEPS=ok
 esac
 # this checks for that option and if it is ok, skip this process
@@ -24,7 +24,7 @@ fi
 
 # Check for --help
 # This is the help message
-case "$@" in *--help*|*-h*|*h*|*help*)
+case "$@" in *--help*|*-h*|*help*)
 	printf "${info_color}Aleta's build script help${reset_colors}\\n\
 Usage: ./tasks/build.sh [args]...
 
@@ -35,12 +35,13 @@ ${info_color}Examples:${reset_colors}
   ./tasks/build.sh e        Continue building. useful if you cancelled the build
 
 ${info_color}Arguments:${reset_colors}
-  h  -h  --help  help       Show this help.
-  e  export                 Export the remaining icons
-  o  use-optipng            Launch optipng process
-  v  verbose                Show more info. useful for debugging (NIY)
-  r  from-cero  restart     Copy the SVG again and start the build again
-  i  autoinstall            Autoinstall to User directory
+  -h  --help    help        Show this help.
+  -e  --export              Export the remaining icons
+  -o  --use-optipng         Launch optipng process
+  -v  --verbose             Show more info. useful for debugging (NIY)
+  -r  --from-cero           Copy the SVG again and start the build again
+  -i  --autoinstall         Autoinstall to User directory
+  -k  --ignore-deps         Don't check for dependencies.
 
 NIY means Not Implemented Yet
 
@@ -50,7 +51,7 @@ See README and LICENSE for more information\\n"
 esac
 
 # check if you written verbose and set that variable
-case "$@" in *v*|*verbose*)
+case "$@" in *-v*|*--verbose*)
 VERBOSE=yes
 esac
 
@@ -65,7 +66,7 @@ fi
 printf "${info_color}This script runs the build tasks and performs an install (or an update) of aleta to your home${reset_colors}\\n\\n"
 
 # check if there is a valid option, if it is, continue. if not, mark the variable NOTOPTIONS and stop the process
-case "$@" in *e*|*export*|*-h*|*h*|*--help*|*help*|*r*|*restart*|*from-cero*|*a*|*avoid-optipng*|*i*|*autoinstall*)
+case "$@" in *-e*|*--export*|*-h*|*--help*|*help*|*-r*|*--from-cero*|*-o*|*--use-optipng*|*-i*|*--autoinstall*)
 	NOTOPTIONS=thereis
 esac
 
@@ -76,7 +77,7 @@ ERROR: there is no options, exit.\\n"
       exit 1
 fi
 
-case "$@" in *r*|*restart*|*from-cero*)
+case "$@" in *-r*|*from-cero*)
 	RESTART=yes
 esac
 
@@ -104,7 +105,7 @@ cp icons/animations/*.svg  _build/icons-t/animations/
 fi
 
 # Check if you written the export option 
-case "$@" in *e*|*export*)
+case "$@" in *-e*|*--export*)
       # I dont want to conflict with the export command XD
 	EXPOR=yes
 esac
@@ -121,16 +122,17 @@ if [ "$EXPOR" = yes ]; then
       ./tasks/export/export-animations.sh
 fi
 
-case "$@" in *use-optipng*|*o*)
+case "$@" in *--use-optipng*|*-o*)
 	OPTIPNG=use
 esac
 
-if [ "$OPTIPNG" = use ];
-      then 
-      command -v optipng  >/dev/null 2>&1 || { echo >&2 "Missing dependency: optipng"; DEPSCOMPLETE=n; }
-      if [ "$DEPSCOMPLETE" = n ] ; then
-  	      echo Please install the missing dependencies to start building
-  	      exit 1
+if [ "$OPTIPNG" = use ]; then
+      if [ "$IGNOREDEPS" != ok ]; then 
+            command -v optipng  >/dev/null 2>&1 || { echo >&2 "Missing dependency: optipng"; DEPSCOMPLETE=n; }
+            if [ "$DEPSCOMPLETE" = n ]; then
+  	            echo To optimize the build, please install optipng
+  	            exit 1
+            fi
       fi
       printf "${info_color}Using optipng to reduce the size of the build...${reset_colors}\\n"
       ./tasks/opticall.sh
@@ -145,7 +147,7 @@ if [ "$VERBOSE" = yes ] ; then
 else
       ./tasks/linkcall.sh >/dev/null 2>&1
 fi
-case "$@" in *autoinstall*|*i*)
+case "$@" in *--autoinstall*|*-i*)
 	printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
 	rm -rf ~/.icons/aleta
 	mkdir ~/.icons/aleta -p
