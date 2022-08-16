@@ -19,7 +19,8 @@ I am working just now adding more icons and updating all the old-designed ones. 
 ### Dependencies
 
 Make sure you have them all installed.
-
+| dependency   | is...    |
+| ------------ | -------- |
 | inkscape     | required |
 | GNU parallel | required |
 | bash         | required |
