@@ -24,7 +24,7 @@ fi
 
 # Check for --help
 # This is the help message
-case "$@" in *--help*|*-h*|*help*)
+case "$@" in *-h*|*help*)
 	printf "${info_color}Aleta's build script help${reset_colors}\\n\
 Usage: ./tasks/build.sh [args]...
 
@@ -77,7 +77,7 @@ ERROR: there is no options, exit.\\n"
       exit 1
 fi
 
-case "$@" in *-r*|*from-cero*)
+case "$@" in *-r*|*--from-cero*)
 	RESTART=yes
 esac
 
