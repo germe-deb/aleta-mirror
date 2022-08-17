@@ -16,16 +16,12 @@ I am working just now adding more icons and updating all the old-designed ones. 
 
 # build from source
 
-I recommend to check the build script's help. I really love it.
-
-Ok I can't wait for it, I'll show you >w<
-
-![the build script's help](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/script-help.png)
+Please see the help command in the script. it is the most updated way to see how to export aleta.
 
 ### Dependencies
 
 Make sure you have them all installed.
-| dependency   | is...    |
+| dependency   | is       |
 | ------------ | -------- |
 | inkscape     | required |
 | GNU parallel | required |
