@@ -42,7 +42,7 @@ cd aleta-postre
 # Launch the build script with the following options:
 # autoinstall, optimize, restart, export
 
-./tasks/build.sh iore
+./tasks/build.sh -r -i -o -e
 ```
 *note: the building process takes more or less 15 minutes*
 
