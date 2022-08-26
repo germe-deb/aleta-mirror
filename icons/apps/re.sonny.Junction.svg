@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="32"
    height="32"
@@ -20,9 +18,26 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3766">Twelf Icon Template</title>
+     id="title8055">Aleta Postre</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3780"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.2999685,0,1 @ F,0,1,1,0,1.2999685,0,1 @ F,0,1,1,0,1.2999685,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient8471">
       <stop
@@ -1850,11 +1865,11 @@
        inkscape:collect="always"
        id="linearGradient1598">
       <stop
-         style="stop-color:#f5c211;stop-opacity:1;"
+         style="stop-color:#f5c624;stop-opacity:1"
          offset="0"
          id="stop1594" />
       <stop
-         style="stop-color:#eab80a;stop-opacity:1"
+         style="stop-color:#dcab02;stop-opacity:1"
          offset="1"
          id="stop1596" />
     </linearGradient>
@@ -1866,25 +1881,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.241786"
-     inkscape:cx="15.07133"
-     inkscape:cy="18.379671"
-     inkscape:document-units="pt"
+     inkscape:zoom="11.313709"
+     inkscape:cx="14.849242"
+     inkscape:cy="18.031223"
+     inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1024"
+     inkscape:window-height="671"
+     inkscape:window-x="287"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
      units="px"
      showguides="false"
-     inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1898,7 +1913,14 @@
      inkscape:snap-center="true"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#d1d1d1"
+     showborder="true"
+     shape-rendering="auto"
+     borderlayer="false"
+     inkscape:clip-to-page="false">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1921,8 +1943,28 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Aleta Postre</dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1931,26 +1973,6 @@
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
      style="display:inline">
-    <g
-       id="g4337"
-       transform="translate(-22.320454,1056.4942)">
-      <g
-         id="g4666"
-         transform="matrix(0.33600544,0,0,0.33600544,1.5295902,73.042549)" />
-      <g
-         id="g5363"
-         transform="matrix(0.37187349,0,0,0.37187349,38.801738,63.239042)">
-        <g
-           id="g5646"
-           transform="matrix(2.6890865,0,0,2.6890865,-82.905872,-48.450082)" />
-      </g>
-    </g>
-    <g
-       id="g4198"
-       transform="matrix(0.26264259,0,0,0.26264259,1.2201088,1094.2147)" />
-    <g
-       id="g6215"
-       transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <rect
        style="opacity:1;fill:url(#linearGradient8465);fill-opacity:1.0;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
@@ -1995,14 +2017,19 @@
      inkscape:label="foreground"
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
+    <path
+       id="path1334"
+       style="color:#000000;display:inline;fill:#ffffff;stroke-width:1.28857;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="m 15.415764,12.729346 -1.321283,2.141738 h 0.890922 v 2.536567 c -0.354287,-0.317369 -0.795817,-0.538984 -1.283532,-0.621633 v -0.928673 l -2.144255,1.321283 2.144255,1.321283 V 17.66184 c 0.741325,0.189123 1.283532,0.85532 1.283532,1.658525 v 1.107362 h 0.858205 v -5.556643 h 0.89344 z"
+       sodipodi:nodetypes="cccccccccsccccc" />
     <g
-       id="path21"
-       transform="matrix(1.4479763,0,0,1.4479763,3.4158809,3.4152897)"
-       style="display:inline">
+       id="path3527"
+       inkscape:transform-center-y="-2.4817979"
+       style="opacity:0.99">
       <path
-         id="path1334"
-         style="color:#000000;fill:#ffffff;stroke-width:0.889908;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
-         d="M 8.0000001,3.067267 A 0.39464389,0.39464389 0 0 0 7.6558559,3.2671488 L 2.5267172,12.343516 a 0.39464389,0.39464389 0 0 0 0.3424061,0.589217 H 13.129139 a 0.39464389,0.39464389 0 0 0 0.344144,-0.589217 L 8.3424062,3.2671488 A 0.39464389,0.39464389 0 0 0 8.0000001,3.067267 Z m 0,0.3945492 5.1291389,9.0763678 H 2.8708614 Z M 8.0990719,6.1263264 7.1865684,7.6054511 H 7.8018565 V 9.6633642 C 7.5571789,9.4441833 7.25225,9.2911316 6.9154245,9.2340529 V 8.592693 L 5.4345617,9.5051963 6.9154245,10.4177 V 9.8389119 c 0.5119736,0.1306118 0.886432,0.5907001 0.886432,1.1454091 v 0.764765 H 8.3945493 V 7.6054511 h 0.6170263 z" />
+         id="path4387"
+         style="color:#000000;fill:#ffffff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;-inkscape-stroke:none"
+         d="M 14.842197,8.0151248 A 0.75629164,0.7577456 0 0 0 14.34415,8.3764529 L 7.10001,20.872547 A 0.74932765,0.75076822 0 0 0 7.748447,21.9995 h 14.5 a 0.74932766,0.75076823 0 0 0 0.648438,-1.126953 L 15.652744,8.3764529 A 0.75629164,0.7577456 0 0 0 14.842197,8.0151248 Z m 0.15625,1.228516 L 21.814853,20.9995 H 8.180088 Z" />
     </g>
   </g>
 </svg>
