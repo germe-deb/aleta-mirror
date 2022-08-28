@@ -139,6 +139,7 @@ ln -s org.gnome.Nautilus.png org.gnome.NautilusDevel.png
 ln -s org.gnome.Nautilus.png org.xfce.thunar.png
 ln -s org.gnome.Nautilus.png thunar.png
 ln -s org.gnome.Nautilus.png xfce-thunar.png
+ln -s org.gnome.Nautilus.png file-manager.png
 ln -s org.gnome.Rhythmbox.png cs-sound.png
 ln -s org.gnome.Rhythmbox.png rhythmbox.png
 ln -s org.gnome.Rhythmbox.png org.gnome.Rhythmbox3.png
