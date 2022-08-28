@@ -202,3 +202,4 @@ ln -s revolt.png chat.revolt.RevoltDesktop.png
 ln -s revolt.png Revolt.png
 ln -s dropbox.png com.dropbox.Client.png
 ln -s sh.cider.Cider.png cider.png
+ln -s clamtk.png com.gitlab.davem.ClamTk.png
