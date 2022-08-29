@@ -149,7 +149,6 @@ else
 fi
 case "$@" in *--autoinstall*|*-i*)
 	printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
-	mkdir ~/.icons/aleta -p
       cp -r ./_build/aleta/* ~/.icons/tmpaleta/
       rm -rf ~/.icons/aleta
       mv ~/.icons/tmpaleta ~/.icons/aleta
