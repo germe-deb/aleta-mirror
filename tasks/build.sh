@@ -149,9 +149,10 @@ else
 fi
 case "$@" in *--autoinstall*|*-i*)
 	printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
-	rm -rf ~/.icons/aleta
 	mkdir ~/.icons/aleta -p
-	cp -r ./_build/aleta/* ~/.icons/aleta/
+      cp -r ./_build/aleta/* ~/.icons/tmpaleta/
+      rm -rf ~/.icons/aleta
+      mv ~/.icons/tmpaleta ~/.icons/aleta
 	printf "${info_color}Updating gtk icon cache...${reset_colors}\\n"
 	gtk-update-icon-cache ~/.icons/aleta/
 	
