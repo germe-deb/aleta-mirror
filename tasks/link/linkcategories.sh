@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 ln -s applications-games.png applications-simulation.png
 ln -s applications.png applications-other.png

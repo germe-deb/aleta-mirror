@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Aleta-Postre
+Upstream-Contact: debgerme <fossgerme@tuta.io>
+Source: https://git.owlcode.tech/germedeb/aleta-postre
+
+Files: icons/apps/* icons/ui/* icons/places/* icons/status/* icons/notdetermined/* icons/mimetypes/* icons/templates/* icons/devices/* icons/categories/* icons/scalable/* icons/animations/* icons/actions/* 
+Copyright: 2022 debgerme <fossgerme@tuta.io>
+License: CC-BY-SA-4.0

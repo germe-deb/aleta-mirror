@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 set -o errexit   # exit on error
 # first, set the functions
 function iconcount_set_cols ()

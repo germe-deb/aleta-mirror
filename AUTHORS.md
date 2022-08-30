@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 ## List of contributors
 
 * [germedeb](https://gitea.sergiotarxz.freemyip.com/germedeb) - creator of the icon pack

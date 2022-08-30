@@ -1,5 +1,9 @@
 #! /bin/bash
 
+# SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 for SVG in _build/icons-t/mimetypes/*.svg
 do
 	if [[ -f "${SVG}" ]]; then

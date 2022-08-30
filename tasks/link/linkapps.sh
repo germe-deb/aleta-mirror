@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 ln -s anki.png net.ankiweb.Anki.png
 ln -s apostrophe.png org.gnome.gitlab.somas.Apostrophe.png

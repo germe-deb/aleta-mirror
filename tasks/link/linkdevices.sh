@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 ln -s audio-microphone.png audio-input-microphone.png
 ln -s input-mouse.png mouse.png

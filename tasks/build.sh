@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # define the colors
 info_color="\e[1;34m"   # tasks color
 comple_color="\e[1;32m" # Ok color

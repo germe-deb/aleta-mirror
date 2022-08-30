@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # this is to stay secure that the folders are here
 mkdir -p icons/apps
 mkdir -p icons/places

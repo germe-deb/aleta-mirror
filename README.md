@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Aleta Postre 
 
 ### A fancy icon pack with a very very consistent look!

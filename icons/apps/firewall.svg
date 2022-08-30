@@ -23,15 +23,32 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1639"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0.24357633,0,1 @ F,0,0,1,0,0.24357633,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.41581065,0,1 @ F,0,0,1,0,0.24357633,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1505">
       <stop
-         style="stop-color:#e12d0d;stop-opacity:1"
+         style="stop-color:#e12c2f;stop-opacity:1"
          offset="0"
          id="stop1501" />
       <stop
-         style="stop-color:#b2180f;stop-opacity:1"
+         style="stop-color:#b20f12;stop-opacity:1"
          offset="1"
          id="stop1503" />
     </linearGradient>
@@ -1866,16 +1883,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.65625"
-     inkscape:cx="10.859206"
-     inkscape:cy="20.33213"
+     inkscape:zoom="12.241786"
+     inkscape:cx="19.604982"
+     inkscape:cy="12.988301"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="699"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
@@ -1884,7 +1901,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1996,67 +2013,54 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
     <rect
-       style="fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       id="rect1212"
-       width="6"
-       height="3.9999998"
-       x="6.999157"
-       y="18.9995" />
-    <rect
-       style="display:inline;fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       id="rect1212-0"
-       width="6"
-       height="3.9999998"
-       x="10.999157"
-       y="12.9995" />
-    <rect
-       style="display:inline;fill:#ffffff;stroke-width:1.82574;paint-order:markers stroke fill"
-       id="rect1212-6"
-       width="5"
-       height="3.9999998"
-       x="17.999157"
-       y="12.9995" />
-    <rect
-       style="display:inline;fill:#ffffff;stroke-width:1.41421;paint-order:markers stroke fill"
-       id="rect1212-1"
-       width="3.0000002"
-       height="3.9999998"
-       x="19.999157"
-       y="6.9994998" />
-    <rect
-       style="display:inline;fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       id="rect1212-5"
-       width="6"
-       height="3.9999998"
-       x="12.999157"
-       y="6.9994998" />
-    <rect
        style="display:inline;fill:#ffffff;stroke-width:1.82574;paint-order:markers stroke fill"
        id="rect1212-54"
-       width="5"
+       width="7"
        height="3.9999998"
        x="6.999157"
-       y="6.9995003" />
+       y="6.9995003"
+       ry="0.9999997" />
     <rect
-       style="fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       id="rect1236"
-       width="6"
-       height="4"
-       x="13.999157"
-       y="18.9995" />
+       style="display:inline;fill:#ffffff;stroke-width:1.82574;paint-order:markers stroke fill"
+       id="rect1480"
+       width="7"
+       height="3.9999998"
+       x="15.999157"
+       y="6.9995003"
+       ry="0.9999997" />
     <rect
-       style="fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       id="rect1238"
-       width="2"
-       height="4"
-       x="20.999157"
-       y="18.9995" />
+       style="display:inline;fill:#ffffff;stroke-width:1.82574;paint-order:markers stroke fill"
+       id="rect1482"
+       width="8"
+       height="3.9999998"
+       x="10.999157"
+       y="12.9995"
+       ry="0.9999997" />
+    <path
+       style="display:inline;fill:#ffffff;stroke-width:1.82574;paint-order:markers stroke fill"
+       d="m 23,14 c -0.554,0 -1,0.446 -1,1 v 2 c 0,0.554 0.446,1 1,1 h 0.584189 A 0.41581065,0.41581065 135 0 0 24,17.584189 V 14.243576 A 0.24357633,0.24357633 45 0 0 23.756424,14 Z"
+       transform="translate(-1.0008429,-1.0005)"
+       id="path1916" />
+    <path
+       style="display:inline;fill:#ffffff;stroke-width:1.82574;paint-order:markers stroke fill"
+       d="m 8,14.243576 v 3.512848 A 0.24357633,0.24357633 45 0 0 8.2435763,18 H 9 c 0.5539998,0 1,-0.446 1,-1 V 15 C 10,14.446 9.5539998,14 9,14 H 8.2435763 A 0.24357633,0.24357633 135 0 0 8,14.243576 Z"
+       transform="translate(-1.0008429,-1.0005)"
+       id="rect1484" />
     <rect
-       style="fill:#ffffff;stroke-width:2;paint-order:markers stroke fill"
-       id="rect1240"
-       width="3"
-       height="4"
+       style="display:inline;fill:#ffffff;stroke-width:1.82574;paint-order:markers stroke fill"
+       id="rect1486"
+       width="7"
+       height="3.9999998"
        x="6.999157"
-       y="12.9995" />
+       y="18.9995"
+       ry="0.9999997" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:1.82574;paint-order:markers stroke fill"
+       id="rect1488"
+       width="7"
+       height="3.9999998"
+       x="15.999157"
+       y="18.9995"
+       ry="0.9999997" />
   </g>
 </svg>
