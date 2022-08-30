@@ -68,6 +68,7 @@ This project is REUSE 3.0 compliant :D
 
 * The scripts in this project are licensed under the GPLv3 or later license
 * The images in this project are licensed under the CC-BY-SA-4.0 license
+* The gitignore is licensed under the Unlicense license
 
 the licenses are in the LICENSES folder. 
 
