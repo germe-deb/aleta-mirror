@@ -62,12 +62,13 @@ cd aleta-postre
 
 ## license
 
-the scripts on this project are licensed under the GNU GPL v3. See LICENSE
-	that license is also known as GPLv3
+*Copyright: 2022 debgerme <fossgerme@tuta.io>*
 
-![gpl image](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)
+This project is REUSE 3.0 compliant :D
 
-the assets in this work are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See LICENSE
-	that license is also known as CC-BY-SA-4.0
+* The scripts in this project are licensed under the GPLv3 or later license
+* The images in this project are licensed under the CC-BY-SA-4.0 license
 
-![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+the licenses are in the LICENSES folder. 
+
+![gpl image](https://www.gnu.org/graphics/gplv3-with-text-136x68.png) ![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
