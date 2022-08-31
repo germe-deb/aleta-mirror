@@ -6,6 +6,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Aleta Postre 
 
+![REUSE compliant](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/reuse-compliant.svg) 
+
 ### A fancy icon pack with a very very consistent look!
 
 ![aleta](https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre/raw/branch/master/other/images/Presentacion.png)
