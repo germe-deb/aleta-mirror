@@ -105,6 +105,7 @@ cp icons/status/*.svg      _build/icons-t/status/
 cp icons/mimetypes/*.svg   _build/icons-t/mimetypes/
 cp icons/actions/*.svg     _build/icons-t/actions/
 cp icons/animations/*.svg  _build/icons-t/animations/
+cp icons/emblems/*.svg     _build/icons-t/emblems/
 
 fi
 
@@ -124,6 +125,7 @@ if [ "$EXPOR" = yes ]; then
       ./tasks/export/export-mimetypes.sh
       ./tasks/export/export-actions.sh
       ./tasks/export/export-animations.sh
+      ./tasks/export/export-emblems.sh
 fi
 
 case "$@" in *--use-optipng*|*-o*)
