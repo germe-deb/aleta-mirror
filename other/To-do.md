@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2022 debgerme <fossgerme@tuta.io>
+
+SPDX-License-Identifier: Unlicense
+-->
+
 network-wired-symbolic
 network-wireless-signal-excellent-symbolic
 user-available-symbolic
