@@ -70,7 +70,6 @@ mkdir -p _build/aleta/categories/64
 mkdir -p _build/aleta/categories/96
 mkdir -p _build/aleta/categories/128
 mkdir -p _build/aleta/categories/scalable
-
 mkdir -p _build/aleta/devices/16
 mkdir -p _build/aleta/devices/24
 mkdir -p _build/aleta/devices/32
