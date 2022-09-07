@@ -13,5 +13,4 @@ auth-fingerprint-symbolic
 applications-games-symbolic
 system-lock-screen-symbolic
 starred-symbolic
-phone-apple-iphone-symbolic
 x-office-calendar-symbolic
