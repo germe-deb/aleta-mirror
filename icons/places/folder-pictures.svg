@@ -1919,15 +1919,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.3125"
-     inkscape:cx="14.296029"
-     inkscape:cy="15.364621"
+     inkscape:cx="16.66426"
+     inkscape:cy="15.942238"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="699"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
@@ -2042,15 +2042,21 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline;opacity:1">
     <path
-       id="rect12094"
-       style="opacity:1;fill:#ffffff;stroke-linecap:square;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="m 10,10 c -1.1079999,0 -2,0.892 -2,2 v 12 c 0,1.108 0.8920001,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 V 12 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 H 22.166016 V 23.970703 H 10 Z"
-       transform="translate(-1.0008429,-1.0005)" />
-    <path
        id="path3278"
        style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.035;paint-order:markers stroke fill"
-       d="M 18.5,14 C 17.671573,14 17,14.671573 17,15.5 17,16.328427 17.671573,17 18.5,17 19.328427,17 20,16.328427 20,15.5 20,14.671573 19.328427,14 18.5,14 Z m -3.5,4 -3.199219,4 h 8.410157 L 18,19.199219 17,20.400391 Z"
-       transform="translate(-1.0008429,-1.0005)"
-       sodipodi:nodetypes="ssssscccccc" />
+       d="m 13.999157,16.87442 -3.9999999,4 v 1.12508 h 9.9999999 v -1.12508 l -3,-3 -1,1 z"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       id="path1939"
+       style="stroke-width:3;stroke-linecap:square;fill:#ffffff"
+       d="m 18.999157,14.4995 a 1.5,1.5 0 0 1 -1.5,1.5 1.5,1.5 0 0 1 -1.5,-1.5 1.5,1.5 0 0 1 1.5,-1.5 1.5,1.5 0 0 1 1.5,1.5 z" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round"
+       id="rect1511"
+       width="14"
+       height="14"
+       x="7.999157"
+       y="9.9995003"
+       ry="1.69718" />
   </g>
 </svg>

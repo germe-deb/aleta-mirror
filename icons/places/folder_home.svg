@@ -20,31 +20,19 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3766">Twelf Icon Template</title>
+     id="title3766">an Aleta Postre template based icon (or the template itself)</title>
   <defs
      id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1265">
-      <stop
-         style="stop-color:#e6bc30;stop-opacity:1"
-         offset="0"
-         id="stop1263" />
-      <stop
-         style="stop-color:#db7012;stop-opacity:1"
-         offset="1"
-         id="stop1261" />
-    </linearGradient>
     <linearGradient
        id="linearGradient8471">
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#2aa9c7;stop-opacity:1" />
+         style="stop-color:#fa9c41;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#297fcc;stop-opacity:1" />
+         style="stop-color:#eb6900;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1851,7 +1839,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1265"
+       xlink:href="#linearGradient8471"
        id="linearGradient8465"
        x1="14.999157"
        y1="1096.7725"
@@ -1875,23 +1863,6 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect7434-0"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1.5,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1900,16 +1871,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.133252"
-     inkscape:cx="17.04855"
-     inkscape:cy="-1.6519912"
+     inkscape:zoom="17.3125"
+     inkscape:cx="15.133574"
+     inkscape:cy="15.422383"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="699"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
@@ -1955,7 +1926,12 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
+        <dc:title>an Aleta Postre template based icon (or the template itself)</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luci / Germe</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1965,29 +1941,9 @@
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
      style="display:inline">
-    <g
-       id="g4337"
-       transform="translate(-22.320454,1056.4942)">
-      <g
-         id="g4666"
-         transform="matrix(0.33600544,0,0,0.33600544,1.5295902,73.042549)" />
-      <g
-         id="g5363"
-         transform="matrix(0.37187349,0,0,0.37187349,38.801738,63.239042)">
-        <g
-           id="g5646"
-           transform="matrix(2.6890865,0,0,2.6890865,-82.905872,-48.450082)" />
-      </g>
-    </g>
-    <g
-       id="g4198"
-       transform="matrix(0.26264259,0,0,0.26264259,1.2201088,1094.2147)" />
-    <g
-       id="g6215"
-       transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <path
        id="rect7796"
-       style="opacity:1;fill:url(#linearGradient8465);stroke-width:2;paint-order:markers stroke fill;fill-opacity:1.0"
+       style="opacity:1;fill:url(#linearGradient8465);stroke-width:2;paint-order:markers stroke fill"
        d="m 2.9991962,1096.7725 h 7.9999608 l 4,4 h 11.999961 c 1.108022,0 2.000039,0.892 2.000039,2 v 16 c 0,1.108 -0.892017,2 -2.000039,2 H 2.9991962 c -1.1080217,0 -2.00003913,-0.892 -2.00003913,-2 v -20 c 0,-1.108 0.89201743,-2 2.00003913,-2 z"
        sodipodi:nodetypes="sccssssssss" />
     <path
@@ -2024,9 +1980,9 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline;opacity:1">
     <path
-       id="rect23031"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.72178;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill"
-       d="m 14.999157,8.9995 -5.9999999,6 v 10 h 1.9999999 l -0.08327,-8 h 4.083267 v 8 h 6 v -10 z"
-       sodipodi:nodetypes="cccccccccc" />
+       id="path3657"
+       style="color:#000000;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 14.999157,9.9994999 c -0.233923,-4.625e-4 -0.460608,0.081089 -0.640625,0.2304691 l -5.9999999,5 c -0.4256837,0.353448 -0.4834508,0.985385 -0.1289062,1.410156 0.1918632,0.225268 0.4736404,0.353999 0.7695312,0.351562 V 22.9995 c 2.757e-4,0.552934 0.4490201,1.000803 1.0019529,1 h 3.998047 v -5 h 2 v 5 h 4 c 0.55217,-2.76e-4 0.999724,-0.44783 1,-1 v -6.007813 c 0.29521,0.0019 0.576155,-0.126819 0.767578,-0.351562 0.354545,-0.424771 0.296778,-1.056708 -0.128906,-1.410156 l -6,-5 C 15.458328,10.081018 15.23241,9.9994937 14.999157,9.9994999 Z m 0.310522,2.5596001 3.689478,3.075166 V 21.9995 h -1 v -4 c 2.77e-4,-0.551637 -0.446411,-0.999198 -0.998047,-1 h -4.001953 c -0.552399,-2.77e-4 -1.000276,0.447601 -1,1 v 4 h -1 v -6.367188 l 3.689403,-3.073301 a 0.48513751,0.48513751 0 0 1 0.621119,8.9e-5 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
   </g>
 </svg>

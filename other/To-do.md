@@ -1,16 +1,11 @@
-go-home-symbolic
-security-high-symbolic
-focus-windows-symbolic
 network-wired-symbolic
 network-wireless-signal-excellent-symbolic
 user-available-symbolic
 mail-unread-symbolic
 airplane-mode-symbolic
-preferences-system-symbolic
 auth-fingerprint-symbolic
 applications-games-symbolic
 system-lock-screen-symbolic
 starred-symbolic
 phone-apple-iphone-symbolic
-emblem-ok-symbolic
 x-office-calendar-symbolic
