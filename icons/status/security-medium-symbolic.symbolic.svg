@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="network-wired-symbolic.symbolic.svg"
+   sodipodi:docname="security-medium-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
    inkscape:export-ydpi="640"
@@ -22,10 +22,10 @@
      id="defs4">
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect2243"
+       id="path-effect1758"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,1,1,0,0.35638984,0,1 @ F,0,1,1,0,0.35638984,0,1 @ F,0,1,1,0,0.35638984,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.35638984,0,1 @ F,0,1,1,0,0.35638984,0,1 @ F,0,1,1,0,0.35638984,0,1"
+       satellites_param="F,0,1,1,0,0.58586484,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.58586484,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -39,10 +39,10 @@
        hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect40872"
+       id="path-effect5720"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.51954049,0,1 @ F,0,0,1,0,0.44129436,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0.40424177,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -56,10 +56,10 @@
        hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect32763"
+       id="path-effect5542"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,1.0001356,0,1 @ F,0,0,1,0,0.99965072,0,1 @ F,0,0,1,0,0.99965036,0,1 @ F,0,0,1,0,1.0001353,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.0005,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.0005,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.9995,0,1 @ F,0,1,1,0,0.9995,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -73,61 +73,10 @@
        hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect22614"
+       id="path-effect2663"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.58381653,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect22226"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.53785212,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect21696"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.82798056,0,1 @ F,0,0,1,0,1.3966225,0,1 @ F,0,0,1,0,0.83365109,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1194"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,1.1394086,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.1394087,0,1"
+       satellites_param="F,0,0,1,0,0.52976432,0,1 @ F,0,0,1,0,1.1852021,0,1 @ F,0,1,1,0,1.1852021,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -1945,14 +1894,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#cacaca"
+     pagecolor="#e8e8e8"
      bordercolor="#000000"
-     borderopacity="1"
+     borderopacity="0.3372549"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="34.125"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:cx="8.014652"
+     inkscape:cy="7.3553114"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1984,9 +1933,10 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
      width="16px"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      inkscape:document-rotation="0"
-     inkscape:snap-grids="true">
+     inkscape:deskcolor="#cacaca"
+     shape-rendering="auto">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1999,7 +1949,7 @@
        units="px"
        originx="0"
        originy="0"
-       color="#00a2ff"
+       color="#0077ff"
        opacity="0.05490196"
        empcolor="#4300ff"
        empopacity="0.08235294" />
@@ -2012,7 +1962,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -2020,13 +1987,16 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <path
-       id="rect40650"
-       style="opacity:1;stroke-width:2;paint-order:markers stroke fill"
-       d="M 2 2 A 1 1 0 0 0 1 3 L 1 11 A 1 1 0 0 0 2 12 L 3 12 L 3.7675781 13.535156 A 0.84063417 0.84063417 0 0 0 4.5195312 14 L 11.558594 14 A 0.71402927 0.71402927 0 0 0 12.197266 13.605469 L 13 12 L 14 12 A 1 1 0 0 0 15 11 L 15 3 A 1 1 0 0 0 14 2 L 2 2 z M 3.3554688 4 L 12.644531 4 A 0.35638984 0.35638984 0 0 1 13 4.3554688 L 13 9.6445312 A 0.35638984 0.35638984 0 0 1 12.644531 10 L 12.119141 10 A 0.57665087 0.57665087 0 0 0 11.603516 10.318359 L 10.763672 12 L 5.234375 12 L 4.3945312 10.318359 A 0.57665087 0.57665087 0 0 0 3.8789062 10 L 3.3554688 10 A 0.35638984 0.35638984 0 0 1 3 9.6445312 L 3 4.3554688 A 0.35638984 0.35638984 0 0 1 3.3554688 4 z "
+    <g
+       id="path13065"
        transform="translate(-1.0008429,-1.0005)" />
     <g
-       id="rect1204"
-       style="opacity:0.5" />
+       id="path16238">
+      <path
+         id="path4052"
+         style="color:#000000;fill:#000000;stroke-width:2;stroke-linecap:square;-inkscape-stroke:none"
+         d="M 3 1 A 1.0001 1.0001 0 0 0 2 2 L 2 9 C 1.9999999 11.416664 3.5662405 13.006541 4.984375 13.857422 C 6.4025095 14.708303 7.8027344 14.980469 7.8027344 14.980469 A 1.0001 1.0001 0 0 0 8.1953125 14.980469 C 8.1953125 14.980469 9.5955372 14.708303 11.013672 13.857422 C 12.431806 13.006541 14 11.416664 14 9 L 14 2 A 1.0001 1.0001 0 0 0 13 1 L 3 1 z M 4 3 L 12 3 L 12 9 C 12 10.583332 11.066238 11.49346 9.984375 12.142578 C 9.0001341 12.733123 8.1722849 12.902572 8 12.941406 C 7.8289718 12.902883 6.9987466 12.733623 6.0136719 12.142578 C 4.9318088 11.49346 4 10.583332 4 9 L 4 3 z M 8 4 L 8 11.876953 C 8.2869565 11.81082 8.7365736 11.725634 9.4707031 11.285156 C 10.416629 10.717601 11 10.190167 11 9 L 11 4 L 8 4 z "
+         transform="translate(-1.0008429,-1.0005)" />
+    </g>
   </g>
 </svg>
