@@ -11,15 +11,13 @@ do
 		Nscalable=$(basename ${SVG} .symbolic.svg)
 		
 		parallel  ::: \
-		"inkscape -w 8 -h 8 -o      _build/aleta/emblems/8/${N}.png  ${SVG}  >/dev/null 2>&1" \
 		"inkscape -w 16 -h 16 -o    _build/aleta/emblems/16/${N}.png ${SVG}  >/dev/null 2>&1" \
 		"inkscape -w 24 -h 24 -o    _build/aleta/emblems/24/${N}.png ${SVG}  >/dev/null 2>&1" \
 		"inkscape -w 32 -h 32 -o    _build/aleta/emblems/32/${N}.png ${SVG}  >/dev/null 2>&1" \
 		"inkscape -w 48 -h 48 -o    _build/aleta/emblems/48/${N}.png ${SVG}  >/dev/null 2>&1" \
-		"inkscape -w 64 -h 64 -o    _build/aleta/emblems/64/${N}.png ${SVG}  >/dev/null 2>&1" \
-		"inkscape -w 96 -h 96 -o    _build/aleta/emblems/96/${N}.png ${SVG}  >/dev/null 2>&1" \
-		"inkscape -w 128 -h 128 -o  _build/aleta/emblems/128/${N}.png ${SVG} >/dev/null 2>&1" \
-		"inkscape -w 256 -h 256 -o  _build/aleta/emblems/256/${N}.png ${SVG} >/dev/null 2>&1"
+		"inkscape -w 64 -h 64 -o    _build/aleta/emblems/64/${N}.png ${SVG}  >/dev/null 2>&1"
+
+		# this copies the original svg to the scalable, but replacing the .symbolic.svg with .svg
             cp ${SVG} _build/aleta/emblems/scalable/${Nscalable}.svg
 		mv ${SVG} _build/icons-e/emblems/
 		
