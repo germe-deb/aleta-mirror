@@ -4,17 +4,6 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
 
-# this is to stay secure that the folders are here
-mkdir -p icons/apps
-mkdir -p icons/places
-mkdir -p icons/categories
-mkdir -p icons/devices
-mkdir -p icons/status
-mkdir -p icons/mimetypes
-mkdir -p icons/actions
-mkdir -p icons/ui
-mkdir -p icons/animations
-
 # this creates the To export folders. the .svg will be placed here
 mkdir -p _build/icons-t/apps
 mkdir -p _build/icons-t/places
@@ -24,6 +13,7 @@ mkdir -p _build/icons-t/status
 mkdir -p _build/icons-t/mimetypes
 mkdir -p _build/icons-t/actions
 mkdir -p _build/icons-t/animations
+mkdir -p _build/icons-t/emblems
 
 # this creates the Exported folders. the exported svg will be placed here
 mkdir -p _build/icons-e/apps
@@ -34,6 +24,7 @@ mkdir -p _build/icons-e/status
 mkdir -p _build/icons-e/mimetypes
 mkdir -p _build/icons-e/actions
 mkdir -p _build/icons-e/animations
+mkdir -p _build/icons-e/emblems
 
 # this creates the build folders. here is the result of the build. here will be the index.theme and the PNG exported from the svg
 mkdir -p _build/aleta/apps
@@ -44,6 +35,7 @@ mkdir -p _build/aleta/status
 mkdir -p _build/aleta/mimetypes
 mkdir -p _build/aleta/actions
 mkdir -p _build/aleta/animations
+mkdir -p _build/aleta/emblems
 
 # here is the .png exported.
 mkdir -p _build/aleta/apps/8
@@ -124,3 +116,10 @@ mkdir -p _build/aleta/animations/64
 mkdir -p _build/aleta/animations/96
 mkdir -p _build/aleta/animations/128
 mkdir -p _build/aleta/animations/scalable
+
+mkdir -p _build/aleta/emblems/16
+mkdir -p _build/aleta/emblems/24
+mkdir -p _build/aleta/emblems/32
+mkdir -p _build/aleta/emblems/48
+mkdir -p _build/aleta/emblems/64
+mkdir -p _build/aleta/emblems/scalable
