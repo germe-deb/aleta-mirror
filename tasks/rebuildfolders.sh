@@ -47,6 +47,7 @@ mkdir -p _build/aleta/apps/64
 mkdir -p _build/aleta/apps/96
 mkdir -p _build/aleta/apps/128
 mkdir -p _build/aleta/apps/256
+mkdir -p _build/aleta/apps/scalable
 
 mkdir -p _build/aleta/places/8
 mkdir -p _build/aleta/places/16
@@ -57,6 +58,7 @@ mkdir -p _build/aleta/places/64
 mkdir -p _build/aleta/places/96
 mkdir -p _build/aleta/places/128
 mkdir -p _build/aleta/places/256
+mkdir -p _build/aleta/places/scalable
 
 mkdir -p _build/aleta/categories/8
 mkdir -p _build/aleta/categories/16
@@ -67,6 +69,7 @@ mkdir -p _build/aleta/categories/48
 mkdir -p _build/aleta/categories/64
 mkdir -p _build/aleta/categories/96
 mkdir -p _build/aleta/categories/128
+mkdir -p _build/aleta/categories/scalable
 
 mkdir -p _build/aleta/devices/16
 mkdir -p _build/aleta/devices/24
@@ -74,6 +77,7 @@ mkdir -p _build/aleta/devices/32
 mkdir -p _build/aleta/devices/48
 mkdir -p _build/aleta/devices/64
 mkdir -p _build/aleta/devices/96
+mkdir -p _build/aleta/devices/scalable
 
 mkdir -p _build/aleta/status/8
 mkdir -p _build/aleta/status/16
@@ -95,6 +99,7 @@ mkdir -p _build/aleta/mimetypes/64
 mkdir -p _build/aleta/mimetypes/96
 mkdir -p _build/aleta/mimetypes/128
 mkdir -p _build/aleta/mimetypes/256
+mkdir -p _build/aleta/mimetypes/scalable
 
 mkdir -p _build/aleta/actions/8
 mkdir -p _build/aleta/actions/16
@@ -106,6 +111,7 @@ mkdir -p _build/aleta/actions/64
 mkdir -p _build/aleta/actions/96
 mkdir -p _build/aleta/actions/128
 mkdir -p _build/aleta/actions/256
+mkdir -p _build/aleta/actions/scalable
 
 mkdir -p _build/aleta/animations/8
 mkdir -p _build/aleta/animations/16
