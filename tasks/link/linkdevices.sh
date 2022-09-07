@@ -2,15 +2,9 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
 
-ln -s audio-microphone.png audio-input-microphone.png
-ln -s input-mouse.png mouse.png
-ln -s media-optical.png drive-optical.png
-ln -s media-optical.png drive-cdrom.png
-ln -s display.png cs-screen.png
-ln -s display.png video-display.png
-ln -s hard-drive.png drive-harddisk.png
-ln -s hard-drive.png harddrive.png
-ln -s hard-drive.png gtk-harddisk.png
-ln -s keyboard.png input-keyboard.png
 ln -s drive-harddisk-symbolic.symbolic.png drive-harddisk-usb-symbolic.symbolic.png 
 ln -s drive-harddisk-symbolic.symbolic.png drive-harddisk-system-symbolic.symbolic.png 
+ln -s media-optical-symbolic.symbolic.png media-optical-dvd-symbolic.symbolic.png
+ln -s media-optical-symbolic.symbolic.png media-optical-bd-symbolic.symbolic.png
+ln -s media-optical-symbolic.symbolic.png media-optical-cd-symbolic.symbolic.png
+ln -s media-optical-symbolic.symbolic.png media-optical-cd-audio-symbolic.symbolic.png
