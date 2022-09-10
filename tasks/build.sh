@@ -107,6 +107,16 @@ cp icons/actions/*.svg     _build/icons-t/actions/
 cp icons/animations/*.svg  _build/icons-t/animations/
 cp icons/emblems/*.svg     _build/icons-t/emblems/
 
+cp icons/apps-symbolic/*.svg        _build/icons-t/apps-symbolic/
+cp icons/places-symbolic/*.svg      _build/icons-t/places-symbolic/
+cp icons/categories-symbolic/*.svg  _build/icons-t/categories-symbolic/
+cp icons/devices-symbolic/*.svg     _build/icons-t/devices-symbolic/
+cp icons/status-symbolic/*.svg      _build/icons-t/status-symbolic/
+cp icons/mimetypes-symbolic/*.svg   _build/icons-t/mimetypes-symbolic/
+cp icons/actions-symbolic/*.svg     _build/icons-t/actions-symbolic/
+cp icons/animations-symbolic/*.svg  _build/icons-t/animations-symbolic/
+cp icons/emblems-symbolic/*.svg     _build/icons-t/emblems-symbolic/
+
 fi
 
 # Check if you written the export option 
