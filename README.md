@@ -29,7 +29,7 @@ Please see the help command in the script. it is the most updated way to see how
 ### Dependencies
 
 Make sure you have them all installed.
-| dependency   | is       |
+| dependency   | status   |
 | ------------ | -------- |
 | inkscape     | required |
 | GNU parallel | required |

@@ -24,6 +24,30 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient62921">
+      <stop
+         style="stop-color:#729fcf;stop-opacity:1"
+         offset="0"
+         id="stop62917" />
+      <stop
+         style="stop-color:#729fcf;stop-opacity:0"
+         offset="1"
+         id="stop62919" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient62038">
+      <stop
+         style="stop-color:#e40000;stop-opacity:1"
+         offset="0"
+         id="stop62034" />
+      <stop
+         style="stop-color:#7fe719;stop-opacity:1"
+         offset="1"
+         id="stop62036" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient8471">
       <stop
          id="stop8467"
@@ -1837,35 +1861,44 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
-    <meshgradient
+    <linearGradient
        inkscape:collect="always"
-       id="meshgradient4244"
+       xlink:href="#linearGradient62038"
+       id="linearGradient62040"
+       x1="-21.000843"
+       y1="1104.7725"
+       x2="-13.000843"
+       y2="1104.7725"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62921"
+       id="linearGradient62896"
        gradientUnits="userSpaceOnUse"
-       x="0.99915707"
-       y="1094.7725">
-      <meshrow
-         id="meshrow9267">
-        <meshpatch
-           id="meshpatch9269">
-          <stop
-             path="c 9.33333,0  18.6667,0  28,0"
-             style="stop-color:#729fcf;stop-opacity:1"
-             id="stop9271" />
-          <stop
-             path="c 0,9.33335  0,18.6667  0,28"
-             style="stop-color:#729fcf;stop-opacity:1"
-             id="stop9273" />
-          <stop
-             path="c -9.33333,0  -18.6667,0  -28,0"
-             style="stop-color:#7fe719;stop-opacity:1"
-             id="stop9275" />
-          <stop
-             path="c 0,-9.33335  -1.98563,-13.102  0,-28"
-             style="stop-color:#e40000;stop-opacity:1"
-             id="stop9277" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
+       x1="-21.000843"
+       y1="1104.7725"
+       x2="-13.000843"
+       y2="1104.7725"
+       gradientTransform="translate(1115.7733,-1121.7733)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62038"
+       id="linearGradient63060"
+       gradientUnits="userSpaceOnUse"
+       x1="0.99915707"
+       y1="1108.7725"
+       x2="28.999157"
+       y2="1108.7725" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62921"
+       id="linearGradient63144"
+       gradientUnits="userSpaceOnUse"
+       x1="0.99915707"
+       y1="1108.7725"
+       x2="28.999157"
+       y2="1108.7725"
+       gradientTransform="translate(1093.7734,-1123.7716)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1874,25 +1907,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="8.7062522"
-     inkscape:cy="15.909903"
+     inkscape:zoom="16.000001"
+     inkscape:cx="16.687499"
+     inkscape:cy="17.249999"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-height="699"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1960,13 +1993,22 @@
        id="g6215"
        transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <rect
-       style="opacity:1;fill:url(#meshgradient4244);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:1;fill:url(#linearGradient63060);fill-opacity:1.0;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7796"
        width="28"
        height="28.000038"
        x="0.99915707"
        y="1094.7725"
        ry="4.0000391" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient63144);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       id="rect63142"
+       width="28"
+       height="28.000038"
+       x="1094.7725"
+       y="-28.999176"
+       ry="4.0000391"
+       transform="rotate(90)" />
     <path
        id="rect7982"
        style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:2;paint-order:markers stroke fill"
