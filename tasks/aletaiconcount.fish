@@ -4,7 +4,6 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
 
-
 # show total
 set_color -o brgreen; printf "Total:      "
 set_color normal; find icons -depth -iname \*.svg | wc -l
