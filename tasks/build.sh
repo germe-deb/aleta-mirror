@@ -149,9 +149,9 @@ printf "${info_color}Launching misc commands...${reset_colors}\\n"
 
 printf "${info_color}starting link process...${reset_colors}\\n"
 if [ "$VERBOSE" = yes ] ; then
-      ./tasks/linkcall.sh
+      ./tasks/runlink.sh
 else
-      ./tasks/linkcall.sh >/dev/null 2>&1
+      ./tasks/runlink.sh >/dev/null 2>&1
 fi
 case "$@" in *--autoinstall*|*-i*)
 	printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
