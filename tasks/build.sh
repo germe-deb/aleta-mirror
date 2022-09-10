@@ -117,15 +117,7 @@ esac
 
 if [ "$EXPOR" = yes ]; then
       printf "${info_color}exporting all the icons... this will take a long time.${reset_colors}\\n"
-      ./tasks/export/export-emblems.sh
-      ./tasks/export/export-places.sh 
-      ./tasks/export/export-apps.sh
-      ./tasks/export/export-categories.sh
-      ./tasks/export/export-devices.sh
-      ./tasks/export/export-status.sh
-      ./tasks/export/export-mimetypes.sh
-      ./tasks/export/export-actions.sh
-      ./tasks/export/export-animations.sh
+      ./tasks/runexport.sh
 fi
 
 case "$@" in *--use-optipng*|*-o*)
