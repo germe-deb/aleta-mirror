@@ -146,8 +146,8 @@ if [ "$OPTIPNG" = use ]; then
       ./tasks/opticall.sh
 fi
 
-printf "${info_color}Launching misc commands...${reset_colors}\\n"
-./tasks/misc.sh
+# copy the index.theme file to the build. necesary to interpretate the icon pack in the settings
+cp other/index.theme _build/aleta/ && printf "${info_color}copied index.theme to the build${reset_colors}\\n"
 
 printf "${info_color}starting link process...${reset_colors}\\n"
 if [ "$VERBOSE" = yes ] ; then
