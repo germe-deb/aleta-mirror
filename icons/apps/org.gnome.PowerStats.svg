@@ -1854,11 +1854,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.65625"
-     inkscape:cx="10.223827"
-     inkscape:cy="15.018051"
+     inkscape:zoom="24.483572"
+     inkscape:cx="16.194532"
+     inkscape:cy="14.458674"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1964,22 +1964,9 @@
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
     <path
-       id="rect1293"
-       style="fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.608838"
-       d="m 14,10 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 V 12 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 4 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 h -4 c -0.554,0 -1,-0.446 -1,-1 V 12 c 0,-0.554 0.446,-1 1,-1 z"
-       transform="translate(-1.0008429,-1.0005)" />
-    <rect
-       style="fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.608838"
        id="rect1361"
-       width="4"
-       height="2"
-       x="12.999157"
-       y="6.9994998"
-       ry="0" />
-    <path
-       id="rect1532"
-       style="fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.608838;opacity:0.5"
-       d="m 13,16 v 6 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 v -6 z"
+       style="fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.608838"
+       d="M 14 8 L 14 10 C 12.355299 10 11 11.355299 11 13 L 11 21 C 11 22.644701 12.355299 24 14 24 L 18 24 C 19.644701 24 21 22.644701 21 21 L 21 13 C 21 11.355299 19.644701 10 18 10 L 18 8 L 14 8 z M 14 12 L 18 12 C 18.571297 12 19 12.428703 19 13 L 19 21 C 19 21.571297 18.571297 22 18 22 L 14 22 C 13.428703 22 13 21.571297 13 21 L 13 13 C 13 12.428703 13.428703 12 14 12 z M 14 16 L 14 21 L 18 21 L 18 16 L 14 16 z "
        transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>
