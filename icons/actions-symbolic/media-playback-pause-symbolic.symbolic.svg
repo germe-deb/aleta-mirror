@@ -23,6 +23,23 @@
      id="defs4">
     <inkscape:path-effect
        effect="fillet_chamfer"
+       id="path-effect24843"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,1,1,0,1.4104004,0,1 @ F,0,1,1,0,1.4104004,0,1 @ F,0,1,1,0,1.4104004,0,1 @ F,0,1,1,0,1.4104004,0,1 | F,0,1,1,0,1.4104004,0,1 @ F,0,1,1,0,1.4104004,0,1 @ F,0,1,1,0,1.4104004,0,1 @ F,0,0,1,0,1.4104004,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
        id="path-effect2475"
        is_visible="true"
        lpeversion="1"
@@ -1884,7 +1901,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="8.234375"
+     inkscape:cx="7.90625"
      inkscape:cy="7.78125"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
@@ -1901,7 +1918,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1953,21 +1970,12 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <rect
-       style="opacity:1;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+    <path
        id="rect7633"
-       width="5"
-       height="14"
-       x="0.99915707"
-       y="-0.00050000002"
-       ry="1" />
-    <rect
        style="opacity:1;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
-       id="rect7635"
-       width="5"
-       height="14"
-       x="7.999157"
-       y="-0.00050000002"
-       ry="1" />
+       d="M 2,2.4104004 V 13.5896 A 1.4104004,1.4104004 45 0 0 3.4104004,15 H 4.5895996 A 1.4104004,1.4104004 135 0 0 6,13.5896 V 2.4104004 A 1.4104004,1.4104004 45 0 0 4.5895996,1 H 3.4104004 A 1.4104004,1.4104004 135 0 0 2,2.4104004 Z m 8,0 V 13.5896 A 1.4104004,1.4104004 45 0 0 11.4104,15 h 1.1792 A 1.4104004,1.4104004 135 0 0 14,13.5896 V 2.4104004 A 1.4104004,1.4104004 45 0 0 12.5896,1 H 11.4104 A 1.4104004,1.4104004 135 0 0 10,2.4104004 Z"
+       transform="translate(-1.0008429,-1.0005)"
+       inkscape:path-effect="#path-effect24843"
+       inkscape:original-d="M 2,1 V 15 H 6 V 1 Z m 8,0 v 14 h 4 V 1 Z" />
   </g>
 </svg>

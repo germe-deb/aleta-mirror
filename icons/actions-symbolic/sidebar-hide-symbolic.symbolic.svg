@@ -21,6 +21,23 @@
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect23422"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0.31271153,0,1 @ F,0,0,1,0,0.31271153,0,1 @ F,0,0,1,0,0.34088298,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1832,9 +1849,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="4.4194174"
-     inkscape:cy="13.523417"
+     inkscape:zoom="34.625"
+     inkscape:cx="7.0469314"
+     inkscape:cy="7.8844765"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1850,7 +1867,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1903,24 +1920,21 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="rect1196"
-       style="fill:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 2,2 C 1.446,2 1,2.446 1,3 v 10 c 0,0.554 0.446,1 1,1 h 12 c 0.554,0 1,-0.446 1,-1 V 3 C 15,2.446 14.554,2 14,2 Z M 2,3 H 4 V 13 H 2 Z m 3,0 h 9 V 13 H 5 Z"
-       transform="translate(-1.0008429,-1.0005)"
-       sodipodi:nodetypes="ssssssssscccccccccc" />
+       id="rect21384"
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 3.4667969 2 C 2.1172195 2 1 3.1172195 1 4.4667969 L 1 11.53125 C 1 12.880827 2.1172195 14 3.4667969 14 L 12.53125 14 C 13.880827 14 15 12.880827 15 11.53125 L 15 10 L 13 10 L 13 11.53125 C 13 11.807423 12.807423 12 12.53125 12 L 7 12 L 7 4 L 12.53125 4 C 12.807423 4 13 4.190624 13 4.4667969 L 13 6 L 15 6 L 15 4.4667969 C 15 3.1172195 13.880827 2 12.53125 2 L 3.4667969 2 z M 3.4667969 4 L 5 4 L 5 12 L 3.4667969 12 C 3.190624 12 3 11.807423 3 11.53125 L 3 4.4667969 C 3 4.190624 3.190624 4 3.4667969 4 z "
+       transform="translate(-1.0008429,-1.0005)" />
+    <path
+       id="path23824"
+       style="color:#000000;fill:#000000;stroke-width:2;stroke-linecap:square;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="M 10.849609 4.9960938 A 0.14058183 0.14058183 0 0 0 10.765625 5.03125 L 7.6757812 7.7734375 A 0.30250837 0.30250837 0 0 0 7.6757812 8.2265625 L 10.765625 10.96875 A 0.14058183 0.14058183 0 0 0 11 10.865234 L 11 9 L 15 9 L 15 7 L 11 7 L 11 5.1347656 A 0.14058183 0.14058183 0 0 0 10.849609 4.9960938 z "
+       transform="translate(-1.0008429,-1.0005)" />
     <rect
-       style="opacity:0.25;fill:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       id="rect1310"
-       width="2"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;opacity:0.4"
+       id="rect26845"
+       width="4"
        height="10"
        x="0.99915707"
-       y="1.9995"
-       ry="0" />
-    <path
-       id="rect2523"
-       style="opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="M 9,5 5.6978482,8 9,11 V 9 h 2 V 7 H 9 Z"
-       transform="translate(-1.0008429,-1.0005)"
-       sodipodi:nodetypes="cccccccc" />
+       y="1.9995" />
   </g>
 </svg>
