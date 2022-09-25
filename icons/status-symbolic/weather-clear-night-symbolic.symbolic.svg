@@ -4,7 +4,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="weather-clear-night-symbolic.symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -1829,9 +1829,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="13.15625"
-     inkscape:cy="5.125"
+     inkscape:zoom="32"
+     inkscape:cx="6.71875"
+     inkscape:cy="8.25"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1899,12 +1899,11 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <circle
-       style="fill:#000000;stroke:none;stroke-width:1.5;paint-order:markers stroke fill;opacity:0.25"
+    <path
        id="path7751"
-       cx="6.999157"
-       cy="6.9994998"
-       r="7" />
+       style="opacity:0.25;stroke-width:1.5;paint-order:markers stroke fill"
+       d="M -8.430481e-4,6.9994998 C -8.430493e-4,3.1335065 3.1331637,-5.0022874e-4 6.999157,-5.0020218e-4 c 3.865993,0 7,3.13400680218 7,7.00000000218 0,3.8659932 -3.134007,7.0000002 -7,7.0000002 z"
+       sodipodi:nodetypes="csscc" />
     <path
        id="path7472"
        style="fill:#000000;stroke:none;stroke-width:1.5;paint-order:markers stroke fill"

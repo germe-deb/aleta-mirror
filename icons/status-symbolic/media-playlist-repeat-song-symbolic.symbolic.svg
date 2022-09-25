@@ -4,7 +4,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="media-playlist-repeat-song-symbolic.symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -1829,9 +1829,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="6.46875"
-     inkscape:cy="5.5"
+     inkscape:zoom="32"
+     inkscape:cx="7.65625"
+     inkscape:cy="7.34375"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1900,10 +1900,20 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="rect1196"
        style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
-       d="M 4 1 A 3 3 0 0 0 1 4 A 3 3 0 0 0 4 7 A 3 3 0 0 0 7 4 A 3 3 0 0 0 4 1 z M 5 2 L 5 6 L 4 6 L 4 3.5 L 3 4 L 3 3 L 5 2 z M 7.8710938 3 C 7.954443 3.3199453 8 3.6551776 8 4 C 8 4.3448224 7.954443 4.6800547 7.8710938 5 L 11 5 C 12.125296 5 13 5.8747039 13 7 L 13 9 C 13 10.125296 12.125296 11 11 11 L 11 9 L 7 12 L 11 15 L 11 13 C 13.198701 13 15 11.198701 15 9 L 15 7 C 15 4.8012994 13.198701 3 11 3 L 7.8710938 3 z M 1.0175781 6.6542969 C 1.0077062 6.7681661 1 6.8836992 1 7 L 1 9 C 1 11.198701 2.8012994 13 5 13 L 6 13 L 6 11 L 5 11 C 3.8747039 11 3 10.125296 3 9 L 3 7.8710938 C 2.2235314 7.6688151 1.5376875 7.2376418 1.0175781 6.6542969 z "
-       transform="translate(-1.0008429,-1.0005)" />
+       d="M 1.0664062,6.2851562 C 1.0239813,6.5173868 1,6.7560697 1,7 v 2 c 0,2.198701 1.8012994,4 4,4 H 6 V 11 H 5 C 3.8747039,11 3,10.125296 3,9 V 7 C 2.2656214,7 1.5904317,6.7304983 1.0664062,6.2851562 Z"
+       transform="translate(-1.0008429,-1.0005)"
+       id="path1276" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="M 5.8261719,3 C 5.9389112,3.313881 6,3.6494803 6,4 6,4.3496502 5.9403312,4.6867815 5.828125,5 H 11 c 1.125296,0 2,0.8747039 2,2 v 2 c 0,1.125296 -0.874704,2 -2,2 V 9 l -4,3 4,3 v -2 c 2.198701,0 4,-1.801299 4,-4 V 7 C 15,4.8012994 13.198701,3 11,3 Z"
+       transform="translate(-1.0008429,-1.0005)"
+       id="path1274" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="M 3,2 A 2,2 0 0 0 1,4 2,2 0 0 0 3,6 2,2 0 0 0 5,4 2,2 0 0 0 3,2 Z"
+       transform="translate(-1.0008429,-1.0005)"
+       id="rect1196" />
     <rect
        style="fill:none;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
        id="rect2036"
@@ -1921,7 +1931,6 @@
        y="6.9994998"
        ry="1.5" />
     <g
-       id="path4108"
-       transform="translate(-1.0008429,-1.0005)" />
+       id="path1199" />
   </g>
 </svg>

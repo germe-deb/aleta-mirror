@@ -4,7 +4,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="view-list-ordered-symbolic.symbolic.svg"
    inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
    inkscape:export-xdpi="640"
@@ -1832,9 +1832,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="11.368951"
-     inkscape:cy="8.1759222"
+     inkscape:zoom="32"
+     inkscape:cx="5.484375"
+     inkscape:cy="5.84375"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1850,7 +1850,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1867,7 +1867,8 @@
      inkscape:snap-intersection-paths="true"
      width="16px"
      inkscape:showpageshadow="false"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:snap-grids="false">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1902,16 +1903,6 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <path
-       id="rect3443"
-       style="fill:#000000;fill-opacity:0.972549;stroke-width:0.15;stroke-linecap:square;paint-order:markers stroke fill"
-       d="M 1 3 L 1 7 L 3 7 L 3 4.5 L 2 5 L 2 4 L 4 3 L 1 3 z M 4 3 L 4 4 L 4 7 L 5 7 L 5 3 L 4 3 z "
-       transform="translate(-1.0008429,-1.0005)" />
-    <path
-       id="rect3449"
-       style="fill:#000000;fill-opacity:0.972549;stroke-width:0.15;stroke-linecap:square;paint-order:markers stroke fill"
-       d="M 1 9 L 1 13 L 2 13 L 2 12 C 2 12 2.660569 11.36053 2.9394531 10.980469 C 3.1894813 10.639733 3.2913751 10.120192 3 10 C 2.6975787 9.8752513 2.3424377 10.116791 2 10.503906 L 2 9.5039062 C 2 9.5039062 2.3249801 9 3 9 L 1 9 z M 3 9 C 3.7012634 9 4 9.4247476 4 10 C 4 11.266352 3.1015625 12 3.1015625 12 L 4 12 L 4 13 L 5 13 L 5 9 L 3 9 z "
-       transform="translate(-1.0008429,-1.0005)" />
     <rect
        style="fill:#000000;fill-opacity:0.972549;stroke-width:0.15;stroke-linecap:square;paint-order:markers stroke fill"
        id="rect4141"
@@ -1926,5 +1917,10 @@
        height="2"
        x="5.999157"
        y="8.9995003" />
+    <path
+       id="rect1317"
+       style="fill:#000000;stroke-width:2;stroke-linecap:square;paint-order:markers stroke fill"
+       d="M 2 3 C 1.446 3 1 3.446 1 4 L 1 6 C 1 6.554 1.446 7 2 7 L 4 7 C 4.554 7 5 6.554 5 6 L 5 4 C 5 3.446 4.554 3 4 3 L 2 3 z M 3 4 L 4 4 L 4 6 L 3 6 L 3 5 L 2 5 L 3 4 z M 2 9 C 1.4459999 9 1 9.4459999 1 10 L 1 12 C 1 12.554 1.4459999 13 2 13 L 4 13 C 4.5540001 13 5 12.554 5 12 L 5 10 C 5 9.4459999 4.5540001 9 4 9 L 2 9 z M 3 10 C 3.4780945 10.000498 3.8889588 10.339339 3.9804688 10.808594 C 4.0068198 10.903138 3.8569201 11.153284 3.546875 11.164062 C 3.2977182 11.172762 3.0420601 11.343463 3.0996094 11.40625 L 4 11.40625 L 4 12 L 2 12 L 2 11.591797 C 2 11.159054 3.171875 10.808594 3.171875 10.808594 L 3.1601562 10.808594 C 3.2953717 10.75072 3.0557602 10.60151 2.9003906 10.601562 C 2.7457237 10.602238 2.6365225 10.698889 2.6328125 10.808594 L 2.0195312 10.808594 C 2.1110412 10.339339 2.5219055 10.000498 3 10 z "
+       transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>

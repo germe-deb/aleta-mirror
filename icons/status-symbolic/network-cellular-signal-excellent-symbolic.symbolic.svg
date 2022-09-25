@@ -1847,8 +1847,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="7.0931649"
-     inkscape:cy="9.8994949"
+     inkscape:cx="6.8059028"
+     inkscape:cy="8.9272231"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1918,10 +1918,8 @@
      transform="translate(1.0008429,1.0005)">
     <path
        id="path1558"
-       style="opacity:1;stroke-width:2.09574;paint-order:markers stroke fill"
-       inkscape:transform-center-y="-1.0607084"
-       d="M 13.999157,0.47335707 V 13.9995 H 0.47301425 A 0.47385675,0.47385675 0 0 1 0.13794692,13.190576 L 13.190233,0.13828977 a 0.47385671,0.47385671 0 0 1 0.808924,0.3350673 z"
-       sodipodi:nodetypes="cccc"
-       inkscape:transform-center-x="0.012841644" />
+       style="opacity:1;stroke-width:2.39513;paint-order:markers stroke fill"
+       d="M 14.999157,-0.45894944 V 14.9995 H -0.4592922 A 0.5415506,0.5415506 0 0 1 -0.8422263,14.075015 L 14.074672,-0.84188352 a 0.54155055,0.54155055 0 0 1 0.924485,0.38293408 z"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

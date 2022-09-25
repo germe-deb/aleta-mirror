@@ -4,8 +4,12 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="folder-documents-symbolic.symbolic.svg"
+   inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
+   inkscape:export-xdpi="640"
+   inkscape:export-ydpi="640"
+   shape-rendering="crispEdges"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -15,9 +19,26 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3766">Twelf Icon Template</title>
+     id="title8838">Aleta Postre</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect28393"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1830,20 +1851,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="18.377463"
-     inkscape:cy="8.2726059"
+     inkscape:cx="7.15625"
+     inkscape:cy="7.9375"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="707"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
      inkscape:pagecheckerboard="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -1887,10 +1908,10 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Aleta Postre</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1900,10 +1921,14 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       d="m 2.7996296,-4.0678333e-4 c -0.7769753,0 -1.3990877,0.62666262333 -1.3990877,1.40363788333 V 12.600413 c 0,0.769883 0.622089,1.399087 1.3990877,1.399087 h 8.3990534 c 0.772492,-4.89e-4 1.398599,-0.626595 1.399089,-1.399087 V 4.2013598 L 8.4005775,-5e-4 H 2.7996532 Z M 7.6986885,1.0523217 11.549617,4.8985822 H 7.6986885 Z M 3.4828543,6.9994999 H 10.482854 V 8.1661665 H 3.4828543 Z m 0,2.3333333 H 8.1495209 V 10.4995 H 3.4828543 Z"
-       fill="#ffffff"
-       id="path17"
-       sodipodi:nodetypes="cssscccccccccccccccccccc"
-       style="fill:#000000;stroke-width:2.33332" />
+       id="rect28245"
+       style="opacity:1;fill:#000000;stroke-width:2;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 4 1 A 1 1 0 0 0 3 2 L 3 14 A 1 1 0 0 0 4 15 L 12 15 A 1 1 0 0 0 13 14 L 13 5 L 10 5 A 1 1 0 0 1 9 4 L 9 1 L 4 1 z M 5 8 L 11 8 L 11 9 L 5 9 L 5 8 z M 5 10 L 11 10 L 11 11 L 5 11 L 5 10 z M 5 12 L 10 12 L 10 13 L 5 13 L 5 12 z "
+       transform="translate(-1.0008429,-1.0005)" />
+    <path
+       id="rect28272"
+       style="opacity:0.4;stroke-width:2;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 9,1 v 4 h 4 z"
+       transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>
