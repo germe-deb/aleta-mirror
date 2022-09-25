@@ -1829,9 +1829,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="10.3125"
-     inkscape:cy="12"
+     inkscape:zoom="32"
+     inkscape:cx="7.609375"
+     inkscape:cy="7.71875"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1900,8 +1900,8 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="rect2262"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.8;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.5;paint-order:markers stroke fill"
-       d="m 11.999157,0.9995 c 0,-0.554 -0.446,-1 -1,-1 H 2.9991571 c -0.554,0 -1,0.446 -1,1 v 12 c 0,0.554 0.446,1 1,1 h 7.9999999 c 0.554,0 1,-0.446 1,-1 z m -1.9999999,6 -4,4 v -3 h -2 v -2 h 2 v -3 z" />
+       id="rect21011"
+       style="opacity:1;fill:#000000;stroke-width:2;stroke-linecap:square;paint-order:markers stroke fill"
+       d="M 11.999157,1.5229375 C 11.999157,0.6784797 11.320177,-5e-4 10.47572,-5e-4 H 3.5225951 c -0.844458,0 -1.523438,0.6789797 -1.523438,1.5234375 V 12.476062 c 0,0.844458 0.67898,1.523438 1.523438,1.523438 H 10.47572 c 0.844457,0 1.523437,-0.67898 1.523437,-1.523438 z M 9.9991571,5.4995 c 0,0.277 -0.223,0.5 -0.5,0.5 h -2 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 h 2 c 0.277,0 0.5,0.223 0.5,0.5 z m 0,3 c 0,0.277 -0.223,0.5 -0.5,0.5 h -2 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 h 2 c 0.277,0 0.5,0.223 0.5,0.5 z m -4,-4.5 v 6 a 3,3 0 0 1 -2.597656,-1.5 3,3 0 0 1 0,-3 3,3 0 0 1 2.597656,-1.5 z" />
   </g>
 </svg>
