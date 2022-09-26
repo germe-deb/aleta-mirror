@@ -63,7 +63,7 @@ esac
 if [ "$DEPSCOMPLETE" = n ]
 then
 	echo Please install the missing dependencies to start building
-	exit 1
+	exit 2
 fi
 
 # begin exportation and stuff
@@ -139,7 +139,7 @@ if [ "$OPTIPNG" = use ]; then
             command -v optipng  >/dev/null 2>&1 || { echo >&2 "Missing dependency: optipng"; DEPSCOMPLETE=n; }
             if [ "$DEPSCOMPLETE" = n ]; then
   	            echo To optimize the build, please install optipng
-  	            exit 1
+  	            exit 2
             fi
       fi
       printf "${info_color}Using optipng to reduce the size of the build...${reset_colors}\\n"
