@@ -60,8 +60,7 @@ VERBOSE=yes
 esac
 
 # here is the checking. it is sepparated for practicy
-if [ "$DEPSCOMPLETE" = n ]
-then
+if [ "$DEPSCOMPLETE" = n ]; then
 	echo Please install the missing dependencies to start building
 	exit 2
 fi
@@ -74,49 +73,37 @@ case "$@" in *-e*|*--export*|*-h*|*--help*|*help*|*-r*|*--from-cero*|*-o*|*--use
 	NOTOPTIONS=thereis
 esac
 
-if [ "$NOTOPTIONS" != thereis ] ; then
-      printf "please add arguments.
-type ${comple_color}./tasks/build.sh${reset_colors} --help to see all the arguments available
+if [ "$NOTOPTIONS" != thereis ]; then
+      printf "please add at least one argument. (-k does not count.)
+type ${comple_color}./tasks/build.sh --help${reset_colors} to see all the arguments available
 ERROR: there is no options, exit.\\n"
       exit 1
 fi
 
 case "$@" in *-r*|*--from-cero*)
 	RESTART=yes
+	if [ "$VERBOSE" = yes ] ; then
+            printf '${info_color}Detected "restart" option, this will remove the last build and start agin...${reset_colors}\\n'
+      fi
 esac
 
-if [ "$RESTART" = yes ]
+if [ "$RESTART" = yes ]; then
 
-# this deletes the build directory
-then printf "${info_color}cleaning up the build directory...${reset_colors}\\n"
-rm _build/aleta -rf
+      # this deletes the build directory
+      printf "${info_color}cleaning up the build directory...${reset_colors}\\n"
+      rm _build/aleta -rf
 
-# this creates the folder structure used in the build and while the building
-printf "${info_color}rebuilding folder structure...${reset_colors}\\n"
-./tasks/rebuildfolders.sh
+      # this creates the folder structure used in the build and while the building
+      printf "${info_color}rebuilding folder structure...${reset_colors}\\n"
+      ./tasks/rebuildfolders.sh
 
-# this copies the "SVG in" to the build folders 
-printf "${info_color}copying the files to build in the build dir${reset_colors}\\n"
-cp icons/apps/*.svg        _build/icons-t/apps/
-cp icons/places/*.svg      _build/icons-t/places/
-cp icons/categories/*.svg  _build/icons-t/categories/
-cp icons/devices/*.svg     _build/icons-t/devices/
-cp icons/status/*.svg      _build/icons-t/status/
-cp icons/mimetypes/*.svg   _build/icons-t/mimetypes/
-cp icons/actions/*.svg     _build/icons-t/actions/
-cp icons/animations/*.svg  _build/icons-t/animations/
-cp icons/emblems/*.svg     _build/icons-t/emblems/
-
-cp icons/apps-symbolic/*.svg        _build/icons-t/apps-symbolic/
-cp icons/places-symbolic/*.svg      _build/icons-t/places-symbolic/
-cp icons/categories-symbolic/*.svg  _build/icons-t/categories-symbolic/
-cp icons/devices-symbolic/*.svg     _build/icons-t/devices-symbolic/
-cp icons/status-symbolic/*.svg      _build/icons-t/status-symbolic/
-cp icons/mimetypes-symbolic/*.svg   _build/icons-t/mimetypes-symbolic/
-cp icons/actions-symbolic/*.svg     _build/icons-t/actions-symbolic/
-cp icons/animations-symbolic/*.svg  _build/icons-t/animations-symbolic/
-cp icons/emblems-symbolic/*.svg     _build/icons-t/emblems-symbolic/
-
+      # this copies the "SVG in" to the build folders 
+      printf "${info_color}copying the files to build in the build dir${reset_colors}\\n"
+      if [ "$VERBOSE" = yes ] ; then
+            ./tasks/copysvg.sh
+      else
+            ./tasks/copysvg.sh >/dev/null 2>&1
+      fi
 fi
 
 # Check if you written the export option 
@@ -155,14 +142,48 @@ if [ "$VERBOSE" = yes ] ; then
 else
       ./tasks/runlink.sh >/dev/null 2>&1
 fi
+
 case "$@" in *--autoinstall*|*-i*)
-	printf "${info_color}Performing an Update/Installation of aleta${reset_colors}\\n"
 	
-      cp -r ./_build/aleta ~/.icons/tmpaleta
-      rm -rf ~/.icons/aleta
-      mv ~/.icons/tmpaleta ~/.icons/aleta
+	printf "${info_color}Note that the route of the autoinstall has changed from ${reset_colors}~/.icons/aleta${info_color} to ${reset_colors}~/.local/share/icons/aleta\\n"
+
+	# checks if the install route is there, if not, creates it.
+      if [ ! -d ~/.local/share/icons/ ] ; then
+            mkdir ~/.local/
+            mkdir ~/.local/share/
+            mkdir ~/.local/share/icons/
+      fi
+
+      # this makes a copy before removing the installation. this reduces significantly the time without an installation.
+      cp -r ./_build/aleta _build/tmpaleta
+
+      # this two IFs checks if there is an old installation of aleta and then removes them
+      if [ -d ~/.icons/aleta ] ; then
+            rm -rf ~/.icons/aleta
+            PREVIOUSLYINSTALLED=yes
+      fi
+      if [ -d ~/.local/share/icons/aleta ] ; then
+            rm -rf ~/.local/share/icons/aleta
+            PREVIOUSLYINSTALLED=yes
+      fi
+
+      # if there was a previous installation of aleta, say Updating instead of Installing
+      if [ "$PREVIOUSLYINSTALLED" = yes ]; then
+            printf "${info_color}Updating aleta icon pack${reset_colors}\\n"
+      else
+            printf "${info_color}Installing aleta icon pack${reset_colors}\\n"
+      fi
+
+      # moves the copy to the actual destination.
+      mv _build/tmpaleta ~/.local/share/icons/aleta
+
+      # updates the icon cache
 	printf "${info_color}Updating gtk icon cache...${reset_colors}\\n"
-	gtk-update-icon-cache ~/.icons/aleta/
+      if [ "$VERBOSE" = yes ] ; then
+	      gtk-update-icon-cache ~/.local/share/icons/aleta
+      else
+	      gtk-update-icon-cache ~/.local/share/icons/aleta >/dev/null 2>&1
+      fi
 	
 esac
 
