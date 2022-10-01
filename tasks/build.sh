@@ -42,12 +42,10 @@ ${info_color}Arguments:${reset_colors}
   -h  --help    help        Show this help.
   -e  --export              Export the remaining icons
   -o  --use-optipng         Launch optipng process
-  -v  --verbose             Show more info. useful for debugging (NIY)
+  -v  --verbose             Show more info. useful for debugging
   -r  --from-cero           Copy the SVG again and start the build again
   -i  --autoinstall         Autoinstall to User directory
   -k  --ignore-deps         Don't check for dependencies.
-
-NIY means Not Implemented Yet
 
 This software is licensed under the GPLv3 and the CC-BY-SA 4.0 licenses.
 See README and LICENSE for more information\\n"
@@ -62,7 +60,7 @@ esac
 # here is the checking. it is sepparated for practicy
 if [ "$DEPSCOMPLETE" = n ]; then
 	echo Please install the missing dependencies to start building
-	exit 2
+	exit 1
 fi
 
 # begin exportation and stuff
@@ -73,6 +71,7 @@ case "$@" in *-e*|*--export*|*-h*|*--help*|*help*|*-r*|*--from-cero*|*-o*|*--use
 	NOTOPTIONS=thereis
 esac
 
+# if there is no options, say that and stop with an error
 if [ "$NOTOPTIONS" != thereis ]; then
       printf "please add at least one argument. (-k does not count.)
 type ${comple_color}./tasks/build.sh --help${reset_colors} to see all the arguments available
