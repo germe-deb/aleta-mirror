@@ -34,14 +34,13 @@ Usage: ./tasks/build.sh [args]...
 
 ${info_color}Examples:${reset_colors}
   ./tasks/build.sh -r -e       Start the build from cero
-  ./tasks/build.sh -r -e -i    Same but now it autoinstalls
-  ./tasks/build.sh -o -e -r    Same as the first one but now launch optipng
+  ./tasks/build.sh -r -e -i    Same but now it autoinstalls (recommended)
   ./tasks/build.sh -e          Continue building. useful if you cancelled the build
 
 ${info_color}Arguments:${reset_colors}
   -h  --help    help        Show this help.
   -e  --export              Export the remaining icons
-  -o  --use-optipng         Launch optipng process
+  -o  --use-optipng         Launch optipng process*
   -v  --verbose             Show more info. useful for debugging
   -r  --from-cero           Copy the SVG again and start the build again
   -i  --autoinstall         Autoinstall to User directory
@@ -120,6 +119,7 @@ case "$@" in *--use-optipng*|*-o*)
 	OPTIPNG=use
 esac
 
+# checks if you have optipng, if you have it, launch opticall. if not, exit
 if [ "$OPTIPNG" = use ]; then
       if [ "$IGNOREDEPS" != ok ]; then 
             command -v optipng  >/dev/null 2>&1 || { echo >&2 "Missing dependency: optipng"; DEPSCOMPLETE=n; }
