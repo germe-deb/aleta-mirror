@@ -48,11 +48,11 @@ git clone https://gitea.sergiotarxz.freemyip.com/germedeb/aleta-postre
 cd aleta-postre
 
 # Launch the build script with the following options:
-# autoinstall, optimize, restart, export
+# autoinstall, restart, export
+# note: the building process takes more or less 15 minutes*
 
-./tasks/build.sh -r -i -o -e
+./tasks/build.sh -r -i -e
 ```
-*note: the building process takes more or less 15 minutes*
 
 * apply
 
