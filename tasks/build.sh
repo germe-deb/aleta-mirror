@@ -82,7 +82,7 @@ fi
 case "$@" in *-r*|*--from-cero*)
 	RESTART=yes
 	if [ "$VERBOSE" = yes ] ; then
-            printf '${info_color}Detected "restart" option, this will remove the last build and start agin...${reset_colors}\\n'
+            printf "${info_color}Detected \"restart\" option, this will remove the last build and start agin...${reset_colors}\\n"
       fi
 esac
 
