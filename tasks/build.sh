@@ -121,15 +121,21 @@ esac
 
 # checks if you have optipng, if you have it, launch opticall. if not, exit
 if [ "$OPTIPNG" = use ]; then
+
       if [ "$IGNOREDEPS" != ok ]; then 
+
             command -v optipng  >/dev/null 2>&1 || { echo >&2 "Missing dependency: optipng"; DEPSCOMPLETE=n; }
             if [ "$DEPSCOMPLETE" = n ]; then
+
   	            echo To optimize the build, please install optipng
   	            exit 2
+
             fi
+
       fi
       printf "${info_color}Using optipng to reduce the size of the build...${reset_colors}\\n"
-      ./tasks/opticall.sh
+      ./tasks/opticall.sh;
+
 fi
 
 # copy the index.theme file to the build. necesary to interpretate the icon pack in the settings
