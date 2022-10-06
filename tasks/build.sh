@@ -157,12 +157,13 @@ case "$@" in *--autoinstall*|*-i*)
       fi
 
       # this makes a copy before removing the installation. this reduces significantly the time without an installation.
-      cp -r ./_build/aleta _build/tmpaleta
+      cp -r ./_build/aleta ~/.local/share/icons/.tmpaleta
 
       # this two IFs checks if there is an old installation of aleta and then removes them
       if [ -d ~/.icons/aleta ] ; then
             rm -rf ~/.icons/aleta
             PREVIOUSLYINSTALLED=yes
+            printf "${info_color}Note: this update moves aleta to ~/.local/share/icons/.${reset_colors}\\n"
       fi
       if [ -d ~/.local/share/icons/aleta ] ; then
             rm -rf ~/.local/share/icons/aleta
@@ -177,7 +178,7 @@ case "$@" in *--autoinstall*|*-i*)
       fi
 
       # moves the copy to the actual destination.
-      mv _build/tmpaleta ~/.local/share/icons/aleta
+      mv ~/.local/share/icons/.tmpaleta ~/.local/share/icons/aleta
 
       # updates the icon cache
 	printf "${info_color}Updating gtk icon cache...${reset_colors}\\n"
