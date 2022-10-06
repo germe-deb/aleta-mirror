@@ -89,7 +89,7 @@ if [ "$RESTART" = yes ]; then
 
       # this deletes the build directory
       printf "${info_color}cleaning up the build directory...${reset_colors}\\n"
-      rm _build/aleta -rf
+      rm _build/ -rf
 
       # this creates the folder structure used in the build and while the building
       printf "${info_color}rebuilding folder structure...${reset_colors}\\n"

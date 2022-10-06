@@ -14,6 +14,7 @@ mkdir -p _build/icons-t/mimetypes
 mkdir -p _build/icons-t/actions
 mkdir -p _build/icons-t/animations
 mkdir -p _build/icons-t/emblems
+mkdir -p _build/icons-t/ui
 
 mkdir -p _build/icons-t/apps-symbolic
 mkdir -p _build/icons-t/places-symbolic
@@ -24,6 +25,7 @@ mkdir -p _build/icons-t/mimetypes-symbolic
 mkdir -p _build/icons-t/actions-symbolic
 mkdir -p _build/icons-t/animations-symbolic
 mkdir -p _build/icons-t/emblems-symbolic
+mkdir -p _build/icons-t/ui-symbolic
 
 # this creates the Exported folders. the exported svg will be placed here
 mkdir -p _build/icons-e/apps
@@ -35,6 +37,7 @@ mkdir -p _build/icons-e/mimetypes
 mkdir -p _build/icons-e/actions
 mkdir -p _build/icons-e/animations
 mkdir -p _build/icons-e/emblems
+mkdir -p _build/icons-e/ui
 
 mkdir -p _build/icons-e/apps-symbolic
 mkdir -p _build/icons-e/places-symbolic
@@ -45,6 +48,7 @@ mkdir -p _build/icons-e/mimetypes-symbolic
 mkdir -p _build/icons-e/actions-symbolic
 mkdir -p _build/icons-e/animations-symbolic
 mkdir -p _build/icons-e/emblems-symbolic
+mkdir -p _build/icons-e/ui-symbolic
 
 # this creates the build folders. here is the result of the build. here will be the index.theme and the PNG exported from the svg
 mkdir -p _build/aleta/apps
@@ -69,6 +73,13 @@ mkdir -p _build/aleta/apps/128
 mkdir -p _build/aleta/apps/256
 mkdir -p _build/aleta/apps/scalable
 
+mkdir -p _build/aleta/ui/16
+mkdir -p _build/aleta/ui/24
+mkdir -p _build/aleta/ui/32
+mkdir -p _build/aleta/ui/48
+mkdir -p _build/aleta/ui/64
+mkdir -p _build/aleta/ui/scalable
+
 mkdir -p _build/aleta/places/8
 mkdir -p _build/aleta/places/16
 mkdir -p _build/aleta/places/24
@@ -90,6 +101,7 @@ mkdir -p _build/aleta/categories/64
 mkdir -p _build/aleta/categories/96
 mkdir -p _build/aleta/categories/128
 mkdir -p _build/aleta/categories/scalable
+
 mkdir -p _build/aleta/devices/16
 mkdir -p _build/aleta/devices/24
 mkdir -p _build/aleta/devices/32
