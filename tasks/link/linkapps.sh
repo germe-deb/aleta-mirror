@@ -143,6 +143,11 @@ ln -s org.gnome.Nautilus.png org.xfce.thunar.png
 ln -s org.gnome.Nautilus.png thunar.png
 ln -s org.gnome.Nautilus.png xfce-thunar.png
 ln -s org.gnome.Nautilus.png file-manager.png
+ln -s org.gnome.Nautilus-symbolic.symbolic.png org.gnome.NautilusDevel-symbolic.symbolic.png
+ln -s org.gnome.Nautilus-symbolic.symbolic.png org.xfce.thunar-symbolic.symbolic.png
+ln -s org.gnome.Nautilus-symbolic.symbolic.png thunar-symbolic.symbolic.png
+ln -s org.gnome.Nautilus-symbolic.symbolic.png xfce-thunar-symbolic.symbolic.png
+ln -s org.gnome.Nautilus-symbolic.symbolic.png file-manager-symbolic.symbolic.png
 ln -s org.gnome.Rhythmbox.png cs-sound.png
 ln -s org.gnome.Rhythmbox.png rhythmbox.png
 ln -s org.gnome.Rhythmbox.png org.gnome.Rhythmbox3.png
@@ -157,6 +162,7 @@ ln -s pavucontrol.png org.pulseaudio.pavucontrol.png
 ln -s peazip.png io.github.peazip.PeaZip.png
 ln -s peazip.png PeaZip.png
 ln -s ppsspp.png org.ppsspp.PPSSPP.png
+ln -s ppsspp-symbolic.symbolic.png org.ppsspp.PPSSPP-symbolic.symbolic.png
 ln -s preferences-desktop-accessibility.png cs-universal-access.png
 ln -s preferences-desktop-font.png cs-fonts.png
 ln -s preferences-desktop-font.png fonts.png
