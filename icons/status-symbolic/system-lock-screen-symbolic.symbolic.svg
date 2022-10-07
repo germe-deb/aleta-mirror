@@ -14,10 +14,105 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="style1236">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style>
   <title
      id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1464"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,1,0,1 @ F,0,1,1,0,1,0,1 @ F,0,1,1,0,1,0,1 @ F,0,1,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="measure_segments"
+       id="path-effect1234"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Sans 10"
+       precision="2"
+       fix_overlaps="90"
+       position="5"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="80"
+       line_width="0.25"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist=""
+       active_projection="false"
+       whitelist="false"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="false"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="false"
+       hide_arrows="false"
+       smallx100="false"
+       linked_items=""
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt;
+Mostrar y colocar líneas de dimensión y etiquetas
+
+&lt;b&gt;&lt;big&gt;Proyección&lt;/big&gt;&lt;/b&gt;
+Mostrar una línea com medidas basadas en los elementos seleccionados
+
+&lt;b&gt;&lt;big&gt;Opciones&lt;/big&gt;&lt;/b&gt;
+Opciones de color, precisión, formato de etiquetas y presentación
+
+&lt;b&gt;&lt;big&gt;Consejos&lt;/big&gt;&lt;/b&gt;
+&lt;b&gt;&lt;i&gt;Estilo personalizado:&lt;/i&gt;&lt;/b&gt; Para personalizar los estilos con más detalle, utilice el editor XML para localizar la clase o el ID, luego utilice el diálogo Estilo para aplicar un estilo nuevo.
+&lt;b&gt;&lt;i&gt;Listas negras:&lt;/i&gt;&lt;/b&gt; permiten ocultar algunos segmentos o pasos de proyección.
+&lt;b&gt;&lt;i&gt;Varios LPEs de medida:&lt;/i&gt;&lt;/b&gt; Usado junto a las listas negras, permite tener etiquetas y medidas con distintas orientaciones o proyecciones adicionales en el mismo objeto.
+&lt;b&gt;&lt;i&gt;Fijar predeterminados:&lt;/i&gt;&lt;/b&gt; Se pueden fijar valores predeterminado para cada LPE, en la parte inferior." />
+    <inkscape:path-effect
+       effect="ruler"
+       id="path-effect1194"
+       is_visible="true"
+       lpeversion="1"
+       unit="px"
+       mark_distance="20"
+       mark_length="20"
+       minor_mark_length="10"
+       major_mark_steps="1"
+       shift="11"
+       offset="8"
+       mark_dir="both"
+       border_marks="end" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1821,6 +1916,34 @@
          style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1" />
     </linearGradient>
+    <marker
+       id="ArrowDINout-start"
+       class="rect3569 path-effect1234 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-start"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 0,0 -16,2.11 -16,0.5 -26,0.5 -26,-0.5 -16,-0.5 -16,-2.11 z"
+         class="rect3569 path-effect1234 measure-arrow"
+         id="ArrowDINout-start_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDINout-end"
+       class="rect3569 path-effect1234 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-end"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 0,0 16,-2.11 16,-0.5 26,-0.5 26,0.5 16,0.5 16,2.11 z"
+         class="rect3569 path-effect1234 measure-arrow"
+         id="ArrowDINout-end_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1829,9 +1952,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="4.4194174"
-     inkscape:cy="7.380427"
+     inkscape:zoom="16"
+     inkscape:cx="3.25"
+     inkscape:cy="7.375"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1847,7 +1970,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1902,7 +2025,7 @@
     <path
        id="rect3569"
        style="fill:#000000;stroke:none;stroke-width:23.1455;stroke-linecap:square;paint-order:markers stroke fill"
-       d="M 8 1 C 6.2777795 1 5.0741643 1.6817314 4.5175781 2.609375 C 3.9609919 3.5370186 4 4.5000005 4 5 L 4 7 L 2 7 L 2 15 L 14 15 L 14 7 L 12 7 L 12 5 C 12 4.5000005 12.039008 3.5370186 11.482422 2.609375 C 10.925836 1.6817314 9.7222205 1 8 1 z M 8 3 C 9.2777765 3 9.5741651 3.3163168 9.7675781 3.6386719 C 9.9609912 3.961027 10 4.5000005 10 5 L 10 7 L 6 7 L 6 5 C 6 4.5000005 6.0390088 3.961027 6.2324219 3.6386719 C 6.4258349 3.3163168 6.7222235 3 8 3 z M 7.3183594 10 L 8.6816406 10 C 8.8577119 10 9 10.142288 9 10.318359 L 9 11.681641 C 9 11.857712 8.8577119 12 8.6816406 12 L 7.3183594 12 C 7.1422881 12 7 11.857712 7 11.681641 L 7 10.318359 C 7 10.142288 7.1422881 10 7.3183594 10 z "
+       d="M 8,1 C 6.2777795,1 5.0741643,1.6817314 4.5175781,2.609375 3.9609919,3.5370186 4,4.5000005 4,5 V 7 H 3 A 1,1 135 0 0 2,8 v 6 a 1,1 45 0 0 1,1 h 10 a 1,1 135 0 0 1,-1 V 8 A 1,1 45 0 0 13,7 H 12 V 5 C 12,4.5000005 12.039008,3.5370186 11.482422,2.609375 10.925836,1.6817314 9.7222205,1 8,1 Z M 8,3 C 9.2777765,3 9.5741651,3.3163168 9.7675781,3.6386719 9.9609912,3.961027 10,4.5000005 10,5 V 7 H 6 V 5 C 6,4.5000005 6.0390088,3.961027 6.2324219,3.6386719 6.4258349,3.3163168 6.7222235,3 8,3 Z M 7.3183594,10 H 8.6816406 C 8.8577119,10 9,10.142288 9,10.318359 v 1.363282 C 9,11.857712 8.8577119,12 8.6816406,12 H 7.3183594 C 7.1422881,12 7,11.857712 7,11.681641 V 10.318359 C 7,10.142288 7.1422881,10 7.3183594,10 Z"
        transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>

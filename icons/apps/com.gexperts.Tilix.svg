@@ -1868,8 +1868,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.3125"
-     inkscape:cx="16.924188"
-     inkscape:cy="15.68231"
+     inkscape:cx="15.018051"
+     inkscape:cy="16.115523"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -2006,12 +2006,12 @@
          id="path7285" />
     </g>
     <rect
-       style="fill:#ffffff;stroke-width:1.65955;paint-order:markers stroke fill"
+       style="opacity:0.3;fill:#ffffff;stroke-width:1.68169;paint-order:markers stroke fill"
        id="rect9471"
        width="16"
-       height="1.3770536"
+       height="1.4140375"
        x="6.999157"
-       y="14.310973" />
+       y="14.292481" />
     <g
        aria-label="$"
        id="g9555"

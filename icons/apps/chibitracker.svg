@@ -1870,11 +1870,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.65625"
-     inkscape:cx="15.306859"
-     inkscape:cy="16.981949"
+     inkscape:zoom="24.483572"
+     inkscape:cx="19.809201"
+     inkscape:cy="13.723488"
      inkscape:document-units="pt"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="707"
@@ -1999,81 +1999,15 @@
      inkscape:label="foreground"
      transform="translate(1.0008429,1.0005)"
      style="display:inline">
-    <g
-       transform="matrix(1.6840253,0,0,1.6840253,1.9487683,1.5277982)"
-       fill="#ffffff"
-       id="g3000"
-       style="display:inline">
-      <rect
-         x="3"
-         y="5"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2980" />
-      <rect
-         x="3"
-         y="7.25"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2982" />
-      <rect
-         x="3"
-         y="9.5"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2984" />
-      <rect
-         x="5"
-         y="5"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2986" />
-      <rect
-         x="5"
-         y="9.5"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2988" />
-      <rect
-         x="9.0000429"
-         y="5"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2990" />
-      <rect
-         x="9.0000429"
-         y="7.25"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2992" />
-      <rect
-         x="9.0000429"
-         y="9.5"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2994" />
-      <rect
-         x="11.000043"
-         y="5"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2996" />
-      <rect
-         x="7.0000429"
-         y="5"
-         width="1.5"
-         height="1.5"
-         style="paint-order:markers stroke fill"
-         id="rect2998" />
-    </g>
+    <path
+       id="rect2980"
+       style="fill:#ffffff;stroke-width:1.68403;paint-order:markers stroke fill"
+       d="M 8.0019531 10.949219 L 8.0019531 13.474609 L 10.527344 13.474609 L 10.527344 10.949219 L 8.0019531 10.949219 z M 11.369141 10.949219 L 11.369141 13.474609 L 13.896484 13.474609 L 13.896484 10.949219 L 11.369141 10.949219 z M 8.0019531 14.738281 L 8.0019531 17.263672 L 10.527344 17.263672 L 10.527344 14.738281 L 8.0019531 14.738281 z M 8.0019531 18.527344 L 8.0019531 21.052734 L 10.527344 21.052734 L 10.527344 18.527344 L 8.0019531 18.527344 z M 11.369141 18.527344 L 11.369141 21.052734 L 13.896484 21.052734 L 13.896484 18.527344 L 11.369141 18.527344 z "
+       transform="translate(-1.0008429,-1.0005)" />
+    <path
+       id="rect2990"
+       style="fill:#ffffff;stroke-width:1.68403;paint-order:markers stroke fill;opacity:0.7"
+       d="M 14.738281 10.949219 L 14.738281 13.474609 L 17.263672 13.474609 L 17.263672 10.949219 L 14.738281 10.949219 z M 18.105469 10.949219 L 18.105469 13.474609 L 20.632812 13.474609 L 20.632812 10.949219 L 18.105469 10.949219 z M 21.474609 10.949219 L 21.474609 13.474609 L 24 13.474609 L 24 10.949219 L 21.474609 10.949219 z M 18.105469 14.738281 L 18.105469 17.263672 L 20.632812 17.263672 L 20.632812 14.738281 L 18.105469 14.738281 z M 18.105469 18.527344 L 18.105469 21.052734 L 20.632812 21.052734 L 20.632812 18.527344 L 18.105469 18.527344 z "
+       transform="translate(-1.0008429,-1.0005)" />
   </g>
 </svg>

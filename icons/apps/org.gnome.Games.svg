@@ -33,7 +33,7 @@
        x1="45.447727">
       <stop
          offset="0"
-         style="stop-color:#634c6b;stop-opacity:1"
+         style="stop-color:#000000;stop-opacity:1"
          id="stop4527" />
       <stop
          offset="1"
@@ -1868,9 +1868,9 @@
        xlink:href="#linearGradient4531"
        id="linearGradient4525"
        x1="15.999157"
-       y1="1128.7725"
+       y1="1124.7725"
        x2="15.999157"
-       y2="1095.7725"
+       y2="1098.7725"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-0.99999997,1.9989014e-5)" />
   </defs>
@@ -1881,9 +1881,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.3125"
-     inkscape:cx="12.909747"
-     inkscape:cy="16.924188"
+     inkscape:zoom="12.241786"
+     inkscape:cx="12.824926"
+     inkscape:cy="16.337485"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1955,7 +1955,7 @@
        y="1094.7725"
        ry="4.0000391" />
     <rect
-       style="opacity:1;fill:url(#linearGradient4525);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:0.6;fill:url(#linearGradient4525);fill-opacity:1;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect4480"
        width="28"
        height="28.000038"
