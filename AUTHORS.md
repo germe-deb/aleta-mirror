@@ -16,10 +16,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 * [Ameixa](https://gitlab.com/xphnx/ameixa) Minimalist material design inspired icon pack for Android
 
-#### Structure of the build
+#### How the icon pack is structured:
 
 * Adwaita icon theme
-* Moka icon theme
 
 ## Inspiration
 
@@ -32,3 +31,4 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 ## Special thanks to
 
 The Community that helped commenting or something
+The GNOME proyect. Some symbolic icons are modifications or copies of Adwaita's icons
