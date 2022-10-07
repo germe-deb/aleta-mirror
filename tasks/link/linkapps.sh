@@ -77,6 +77,7 @@ ln -s gtk-select-color.png preferences-color.png
 ln -s gucharmap.png accessories-character-map.png
 ln -s gucharmap.png gnome-character-map.png
 ln -s inkscape.png org.inkscape.Inkscape.png
+ln -s inkscape-symbolic.symbolic.png org.inkscape.Inkscape-symbolic.symbolic.png
 ln -s kdeconnect.png org.gnome.Shell.Extensions.GSConnect.png
 ln -s kdenlive.png org.kde.kdenlive.png
 ln -s kde.png desktop-enviroment-kde.png
@@ -192,6 +193,7 @@ ln -s syncthing.png syncthing-gtk.png
 ln -s system-monitor.png org.gnome.SystemMonitor.png
 ln -s system-monitor.png utilities-system-monitor.png
 ln -s telegram.png org.telegram.desktop.png
+ln -s telegram-symbolic.symbolic.png org.telegram.desktop-symbolic.symbolic.png
 ln -s telegram.png unity-webapps-telegram.png
 ln -s telegram.png web-telegram.png
 ln -s utilities-terminal.png gnome-terminal.png
