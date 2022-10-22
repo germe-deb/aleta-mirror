@@ -17,8 +17,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title8838">Aleta Postre</title>
   <defs
      id="defs4">
     <linearGradient
@@ -1827,14 +1825,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#cacaca"
+     pagecolor="#e8e8e8"
      bordercolor="#000000"
-     borderopacity="1"
+     borderopacity="0.3372549"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.623495"
-     inkscape:cy="7.6013979"
+     inkscape:zoom="32"
+     inkscape:cx="8.703125"
+     inkscape:cy="8.03125"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1849,7 +1847,7 @@
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
      inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
@@ -1866,8 +1864,10 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
      width="16px"
-     inkscape:showpageshadow="false"
-     inkscape:document-rotation="0">
+     inkscape:showpageshadow="true"
+     inkscape:document-rotation="0"
+     inkscape:deskcolor="#cacaca"
+     shape-rendering="auto">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1880,7 +1880,7 @@
        units="px"
        originx="0"
        originy="0"
-       color="#00a2ff"
+       color="#0077ff"
        opacity="0.05490196"
        empcolor="#4300ff"
        empopacity="0.08235294" />
@@ -1893,8 +1893,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Aleta Postre</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1902,23 +1918,10 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <g
-       id="path8822"
-       transform="translate(-1.0008429,-1.0005)"
-       style="fill:#000000">
-      <path
-         id="path9193"
-         style="color:#000000;fill:#000000;stroke-linecap:square;-inkscape-stroke:none;paint-order:markers stroke fill"
-         d="M 8.7929688,4.2070312 1,12 v 3 h 3 l 7.792969,-7.7929688 z m 0,1.4140626 L 10.378906,7.2070312 5.5859375,12 h -3.171875 z" />
-    </g>
     <path
-       id="path8797"
-       style="color:#000000;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:square;-inkscape-stroke:none;paint-order:markers stroke fill;opacity:0.68"
-       d="m 12.833984,1 c -0.501365,-0.003319 -1.02539,0.1914062 -1.49414,0.6601562 L 10.5,2.5 l 3,3 0.839844,-0.8398438 C 15.871094,3.1289062 14.471779,1.0108414 12.833984,1 Z"
+       id="path3990"
+       style="color:#000000;opacity:1;fill:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 8.5 1 L 7 2.5 L 13.5 9 L 15 7.5 L 14.042969 6.5429688 L 14.585938 6 C 15.690506 4.8954304 15.690506 3.1045695 14.585938 2 C 14.078334 1.4928502 13.399065 1.1997933 12.689453 1.1738281 C 12.588079 1.1701191 12.48701 1.1723645 12.384766 1.1796875 C 11.706002 1.2278394 11.067349 1.5190818 10.585938 2 L 10.042969 2.5429688 L 8.5 1 z M 7.5429688 5.0429688 L 1.4140625 11.171875 L 1.4140625 15.171875 L 5.4140625 15.171875 L 11.542969 9.0429688 L 10.128906 7.6289062 L 5.7578125 12 L 3.4140625 12 L 8.9570312 6.4570312 L 7.5429688 5.0429688 z "
        transform="translate(-1.0008429,-1.0005)" />
-    <path
-       id="path9638"
-       style="color:#000000;fill:#000000;fill-opacity:1;stroke-width:2.31037;stroke-linecap:square;-inkscape-stroke:none;paint-order:markers stroke fill"
-       d="m 8.3302524,0.33059553 -1,1.00000007 5.3378096,5.3378089 1,-1 L 13.000835,5.0011788 8.9974786,0.9978217 Z" />
   </g>
 </svg>

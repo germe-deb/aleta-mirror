@@ -5,9 +5,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="preferences-desktop-remote-desktop-symbolic.symbolic.svg"
-   inkscape:export-xdpi="640"
-   inkscape:export-ydpi="640"
+   sodipodi:docname="applications-development-symbolic.symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -16,44 +14,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2213"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2055"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
     <linearGradient
        id="linearGradient5306">
       <stop
@@ -1860,14 +1822,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#cacaca"
+     pagecolor="#f4f4f4"
      bordercolor="#000000"
-     borderopacity="1"
+     borderopacity="0.3372549"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="2.5853591"
-     inkscape:cy="12.28598"
+     inkscape:zoom="22.627417"
+     inkscape:cx="4.5299028"
+     inkscape:cy="8.7504464"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1878,12 +1840,12 @@
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
-     inkscape:pagecheckerboard="false"
+     inkscape:pagecheckerboard="true"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1899,8 +1861,11 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
      width="16px"
-     inkscape:showpageshadow="false"
-     inkscape:document-rotation="0">
+     inkscape:showpageshadow="true"
+     inkscape:document-rotation="0"
+     inkscape:deskcolor="#cacaca"
+     shape-rendering="auto"
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1913,7 +1878,7 @@
        units="px"
        originx="0"
        originy="0"
-       color="#00a2ff"
+       color="#0077ff"
        opacity="0.05490196"
        empcolor="#4300ff"
        empopacity="0.08235294" />
@@ -1923,11 +1888,27 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1936,34 +1917,12 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="rect1283"
-       style="fill:#000000;stroke-width:3.5"
-       d="M 2,1 C 1.446,1 1,1.446 1,2 v 9 c 0,0.554 0.446,1 1,1 h 5 v 1 H 6 c -1,0 -2,1 -2,2 h 8 c 0,-1 -1,-2 -2,-2 H 9 v -1 h 5 c 0.554,0 1,-0.446 1,-1 V 2 C 15,1.446 14.554,1 14,1 Z m 1,2 h 10 v 7 H 3 Z"
-       transform="translate(-1.0008429,-1.0005)"
-       sodipodi:nodetypes="ssssccsccsccsssssccccc" />
-    <rect
-       style="fill:#000000;stroke-width:80;stroke-linejoin:round;stroke-opacity:0.8;paint-order:markers stroke fill"
-       id="rect1668"
-       width="4"
-       height="3"
-       x="4.999157"
-       y="2.9995"
-       ry="0.99999994" />
-    <rect
-       style="fill:#000000;stroke-width:100.689;stroke-linejoin:round;stroke-opacity:0.8;paint-order:markers stroke fill"
-       id="rect1692"
-       width="3.1682129"
-       height="1"
-       x="5.4150505"
-       y="6.9994998"
-       ry="2.0217895e-07" />
-    <rect
-       style="fill:#000000;stroke-width:124.978;stroke-linejoin:round;stroke-opacity:0.8;paint-order:markers stroke fill"
-       id="rect1694"
-       width="1"
-       height="2.4405401"
-       x="6.499157"
-       y="5.2792296"
-       ry="0" />
+       d="m 5.7893003,14.9652 0.171306,-2.4154 c -1.456101,0 -1.781583,-0.5311 -1.627407,-1.4904 l 0.256959,-1.576 C 4.8128553,8.1643 3.8706723,7.0851 2.3289183,6.8795 v -0.017 c 1.42184,-0.068 2.518199,-1.0964 2.364023,-2.1756 L 4.4359823,2.9739 C 4.2646763,1.8775 4.6929413,1.415 5.9606063,1.415 l -0.171306,-2.4154 c -3.597426,0 -4.5224788,1.1991 -4.196997,3.4432 l 0.256959,1.7302 c 0.154175,1.0621 -0.616702,1.8501 -1.8501052,1.8501 v 2.1071 c 1.1820114,0 1.9871492,0.6509 1.8329742,1.5246 l -0.256959,1.5246 c -0.4111344,2.4497 0.462526,3.7859 4.214128,3.7859 z"
+       id="path33873"
+       style="font-weight:800;font-size:17.1306px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#000000;stroke-width:3.21199;stroke-linecap:round;stroke-linejoin:round" />
+    <path
+       d="m 8.2090141,-0.9663 -0.171306,2.4154 c 1.456101,0 1.781582,0.5311 1.627407,1.4904 l -0.256959,1.576 c -0.222698,1.3191 0.7194849,2.3983 2.2612389,2.6039 v 0.017 C 10.247555,7.2054 9.1511971,8.2327 9.3053721,9.312 l 0.256959,1.713 c 0.171306,1.0964 -0.256959,1.5589 -1.524623,1.5589 l 0.171306,2.4154 c 3.5974259,0 4.5224779,-1.1991 4.1969969,-3.4432 L 12.149052,9.8259 C 11.994877,8.7638 12.765754,7.9758 13.999157,7.9758 V 5.8687 c -1.182012,0 -1.98715,-0.6509 -1.832974,-1.5246 L 12.423142,2.8195 C 12.834276,0.3698 11.960615,-0.9664 8.2090141,-0.9664 Z"
+       id="path33875"
+       style="font-weight:800;font-size:17.1306px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Ultra-Bold';fill:#000000;stroke-width:3.21199;stroke-linecap:round;stroke-linejoin:round" />
   </g>
 </svg>

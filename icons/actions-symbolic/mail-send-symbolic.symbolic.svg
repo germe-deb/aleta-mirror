@@ -26,7 +26,7 @@
        id="path-effect2294"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0.37044429,0,1"
+       satellites_param="F,0,0,1,0,1.2269508,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.2269508,0,1 @ F,0,0,1,0,0.91953024,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -1849,9 +1849,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="10"
-     inkscape:cy="10.3125"
+     inkscape:zoom="32"
+     inkscape:cx="5.578125"
+     inkscape:cy="8.28125"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1921,10 +1921,11 @@
      transform="translate(1.0008429,1.0005)">
     <path
        id="path1846"
-       style="fill:#000000;stroke-width:2.57135;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       inkscape:transform-center-x="-2.3759899"
-       d="m -8.429e-4,0.60701307 0,5.48080193 6.008414,0.911685 -6.008414,0.911685 v 5.480802 a 0.60744374,0.60744374 31.276326 0 0 0.88743479,0.539067 L 13.903166,7.1702501 a 0.19240862,0.19240862 90 0 0 0,-0.3415002 L 0.88659189,0.06794636 A 0.60744374,0.60744374 148.72367 0 0 -8.429e-4,0.60701307 Z"
+       style="fill:#000000;stroke-width:2.62967;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       inkscape:transform-center-x="-2.4352497"
+       d="m -8.429e-4,0.66629824 0,5.40083926 8,0.9323625 -8,0.9323625 V 13.332701 A 0.7453036,0.7453036 31.276327 0 0 1.0879959,13.99411 L 13.738694,7.4233421 a 0.47760366,0.47760366 90.000001 0 0 0,-0.8476842 L 1.0879959,0.00488993 A 0.74530357,0.74530357 148.72367 0 0 -8.429e-4,0.66629824 Z"
        inkscape:path-effect="#path-effect2294"
-       inkscape:original-d="M -8.429e-4,-0.39298693 V 6.087815 L 6.0075711,6.9995 -8.429e-4,7.911185 v 6.480802 L 14.231911,6.9995 Z" />
+       inkscape:original-d="M -8.429e-4,-0.56065256 V 6.0671375 l 8,0.9323625 -8,0.9323625 V 14.559652 L 14.554717,6.9995 Z"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
