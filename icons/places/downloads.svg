@@ -8,9 +8,6 @@
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="downloads.svg"
-   inkscape:export-filename="/home/rober/Software/Fdroid Icon Pack/twelf_icon_template.png"
-   inkscape:export-xdpi="640"
-   inkscape:export-ydpi="640"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,31 +17,19 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
-     id="title3766">Twelf Icon Template</title>
+     id="title3766">an Aleta Postre template based icon (or the template itself)</title>
   <defs
      id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2075">
-      <stop
-         style="stop-color:#24d580;stop-opacity:1"
-         offset="0"
-         id="stop2073" />
-      <stop
-         style="stop-color:#2cb12a;stop-opacity:1"
-         offset="1"
-         id="stop2071" />
-    </linearGradient>
     <linearGradient
        id="linearGradient8471">
       <stop
          id="stop8467"
          offset="0"
-         style="stop-color:#2aa9c7;stop-opacity:1" />
+         style="stop-color:#54e6c1;stop-opacity:1" />
       <stop
          id="stop8469"
          offset="1"
-         style="stop-color:#297fcc;stop-opacity:1" />
+         style="stop-color:#26a283;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5306">
@@ -1851,7 +1836,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2075"
+       xlink:href="#linearGradient8471"
        id="linearGradient8465"
        x1="14.999157"
        y1="1096.7725"
@@ -1875,23 +1860,6 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect7434-0"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1.5,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1900,9 +1868,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.120893"
-     inkscape:cx="7.0251187"
-     inkscape:cy="17.317735"
+     inkscape:zoom="12.241786"
+     inkscape:cx="10.088397"
+     inkscape:cy="17.481109"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1955,7 +1923,12 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
+        <dc:title>an Aleta Postre template based icon (or the template itself)</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luci / Germe</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1965,29 +1938,9 @@
      id="layer1"
      transform="translate(1.0008429,-1092.7725)"
      style="display:inline">
-    <g
-       id="g4337"
-       transform="translate(-22.320454,1056.4942)">
-      <g
-         id="g4666"
-         transform="matrix(0.33600544,0,0,0.33600544,1.5295902,73.042549)" />
-      <g
-         id="g5363"
-         transform="matrix(0.37187349,0,0,0.37187349,38.801738,63.239042)">
-        <g
-           id="g5646"
-           transform="matrix(2.6890865,0,0,2.6890865,-82.905872,-48.450082)" />
-      </g>
-    </g>
-    <g
-       id="g4198"
-       transform="matrix(0.26264259,0,0,0.26264259,1.2201088,1094.2147)" />
-    <g
-       id="g6215"
-       transform="matrix(0.25650448,0,0,0.25650448,1.5030103,1094.2087)" />
     <path
        id="rect7796"
-       style="opacity:1;fill:url(#linearGradient8465);stroke-width:2;paint-order:markers stroke fill;fill-opacity:1.0"
+       style="opacity:1;fill:url(#linearGradient8465);stroke-width:2;paint-order:markers stroke fill"
        d="m 2.9991962,1096.7725 h 7.9999608 l 4,4 h 11.999961 c 1.108022,0 2.000039,0.892 2.000039,2 v 16 c 0,1.108 -0.892017,2 -2.000039,2 H 2.9991962 c -1.1080217,0 -2.00003913,-0.892 -2.00003913,-2 v -20 c 0,-1.108 0.89201743,-2 2.00003913,-2 z"
        sodipodi:nodetypes="sccssssssss" />
     <path
@@ -2023,16 +1976,10 @@
      inkscape:label="foreground"
      transform="translate(1.0008429,1.0005)"
      style="display:inline;opacity:1">
-    <g
-       transform="matrix(1.3333334,0,0,1.3333334,5.669424,7.6668333)"
-       id="g4-3"
-       style="display:inline">
-      <path
-         d="M 5.4972996,0.99949998 V 6.9994997 H 0.99729978 L 6.9973,12.9995 12.997299,6.9994997 H 8.4972994 V 0.99949998 Z"
-         stroke-width="2"
-         id="path2"
-         sodipodi:nodetypes="cccccccc"
-         style="fill:#ffffff" />
-    </g>
+    <path
+       id="rect1211"
+       style="fill:#ffffff;stroke-width:80;stroke-linejoin:round;stroke-opacity:0.8;paint-order:markers stroke fill"
+       d="M 10.999157,10.018115 V 15.9995 H 7.7498287 a 0.7511,0.7511 0 0 0 -0.5443059,1.268673 l 7.0620452,7.426795 a 1.0095361,1.0095361 0 0 0 1.463178,0 l 7.062045,-7.426795 A 0.7511,0.7511 0 0 0 22.248486,15.9995 H 18.999157 V 10.018115 A 1.0186157,1.0186157 0 0 0 17.980541,8.9994995 h -5.962768 a 1.0186157,1.0186157 0 0 0 -1.018616,1.0186155 z m 2,0.981385 h 4 v 7 h 2.226562 L 14.999157,22.532702 10.770642,17.9995 h 2.228515 z"
+       sodipodi:nodetypes="cccccccccccccccc" />
   </g>
 </svg>

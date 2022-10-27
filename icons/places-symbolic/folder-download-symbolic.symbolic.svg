@@ -14,16 +14,31 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title3766">Twelf Icon Template</title>
   <defs
      id="defs4">
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect13602"
+       id="path-effect1909"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,1,1,0,1.3324058,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.3324058,0,1"
+       satellites_param="F,0,1,1,0,1.0186157,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.7506714,0,1 @ F,0,0,1,0,1.061678,0,1 @ F,0,0,1,0,1.7506714,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.0186157,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2489"
+       is_visible="false"
+       lpeversion="1"
+       satellites_param="F,0,1,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -1841,14 +1856,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#cacaca"
+     pagecolor="#f4f4f4"
      bordercolor="#000000"
-     borderopacity="1"
+     borderopacity="0.3372549"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="9"
-     inkscape:cy="8.4375"
+     inkscape:zoom="16"
+     inkscape:cx="1.96875"
+     inkscape:cy="8.75"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1859,12 +1874,12 @@
      inkscape:window-maximized="1"
      units="px"
      showguides="false"
-     inkscape:pagecheckerboard="false"
+     inkscape:pagecheckerboard="true"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox-edge-midpoints="true"
      height="16px"
      inkscape:snap-others="true"
@@ -1880,8 +1895,11 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-intersection-paths="true"
      width="16px"
-     inkscape:showpageshadow="false"
-     inkscape:document-rotation="0">
+     inkscape:showpageshadow="true"
+     inkscape:document-rotation="0"
+     inkscape:deskcolor="#cacaca"
+     shape-rendering="auto"
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -1894,7 +1912,7 @@
        units="px"
        originx="0"
        originy="0"
-       color="#00a2ff"
+       color="#0077ff"
        opacity="0.05490196"
        empcolor="#4300ff"
        empopacity="0.08235294" />
@@ -1904,11 +1922,27 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Twelf Icon Template</dc:title>
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1916,13 +1950,11 @@
      id="layer2"
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
-    <g
-       transform="matrix(1.1666667,0,0,1.1666667,-1.1665762,-1.1665833)"
-       id="g4" />
     <path
-       id="rect13300"
-       style="fill:#000000;stroke-width:1;stroke-linejoin:miter;paint-order:markers stroke fill;stroke:none;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
-       d="M 6.3710938 1 C 5.6119136 1 5 1.6119136 5 2.3710938 L 5 8 L 2.5625 8 A 0.58839358 0.58839358 0 0 0 2.1269531 8.984375 L 7.328125 14.703125 A 0.90838292 0.90838292 0 0 0 8.671875 14.703125 L 13.873047 8.984375 A 0.58839359 0.58839359 0 0 0 13.4375 8 L 11 8 L 11 2.3710938 C 11 1.6119136 10.388086 1 9.6289062 1 L 6.3710938 1 z "
-       transform="translate(-1.0008429,-1.0005)" />
+       id="rect1211"
+       style="fill:#000000;stroke-width:80;stroke-linejoin:round;stroke-opacity:0.8;paint-order:markers stroke fill"
+       d="M 4,1.0186157 V 7 H 0.7506714 A 0.7511,0.7511 113.22105 0 0 0.20636555,8.2686735 L 7.2684111,15.695469 a 1.0095361,1.0095361 0 0 0 1.4631778,0 L 15.793634,8.2686735 A 0.7511,0.7511 66.778955 0 0 15.249329,7 H 12 V 1.0186157 A 1.0186157,1.0186157 45 0 0 10.981384,0 H 5.0186157 A 1.0186157,1.0186157 135 0 0 4,1.0186157 Z M 6,2 h 4 v 7 h 2.226562 L 8,13.533203 3.7714844,9 H 6 Z"
+       transform="translate(-1.0008429,-1.0005)"
+       sodipodi:nodetypes="cccccccccccccccc" />
   </g>
 </svg>
