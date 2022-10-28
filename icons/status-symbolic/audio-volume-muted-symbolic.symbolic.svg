@@ -1864,7 +1864,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="12.140625"
+     inkscape:cx="5.828125"
      inkscape:cy="10.125"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
@@ -1941,17 +1941,17 @@
        sodipodi:nodetypes="ccccccccc" />
     <path
        id="path9458"
-       style="opacity:0.4;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:0.5;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        d="M 10.714844,0.52148438 C 10.308369,0.50600876 9.9300859,0.79448843 9.8164062,1.21875 L 9.5527344,2.2050781 C 12.17568,2.9078069 13.999692,5.28455 14,8 c -7.9e-5,0.6963114 -0.121117,1.3707461 -0.34375,2 h 2.089844 C 15.912024,9.3575181 15.999922,8.6871933 16,8 15.999626,4.7090861 13.990221,1.7916927 10.998047,0.58398438 c -0.09394,-0.0379172 -0.189401,-0.0589287 -0.283203,-0.0625 z M 10,13.65625 C 9.8537037,13.7079 9.7045849,13.75424 9.5527344,13.794922 L 9.8164062,14.78125 C 9.8527805,14.917002 9.9172395,15.038285 10,15.140625 Z"
        transform="translate(-1.0008429,-1.0005)" />
     <path
        id="path9658"
-       style="opacity:0.4;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:0.5;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        d="M 9.2949219,3.1699219 8.7773438,5.1015625 A 3.0000002,3.0000002 0 0 1 11,8 3.0000002,3.0000002 0 0 1 10.236328,10 h 2.345703 A 5,5 0 0 0 13,8 5,5 0 0 0 9.2949219,3.1699219 Z M 10,10.236328 a 3.0000002,3.0000002 0 0 1 -1.2226562,0.66211 l 0.5175781,1.93164 A 5,5 0 0 0 10,12.583984 Z"
        transform="translate(-1.0008429,-1.0005)" />
     <path
        id="path9660"
-       style="opacity:0.4;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:0.5;stroke-width:2;paint-order:markers stroke fill"
        d="m 7.5167952,5.0676479 a 2.0000002,2.0000002 0 0 1 1.482362,1.9318519 2.0000002,2.0000002 0 0 1 -1.482362,1.9318519 L 6.999157,6.9994998 Z" />
     <path
        id="rect15761"

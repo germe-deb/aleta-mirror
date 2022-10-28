@@ -2844,7 +2844,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="6.2534756"
+     inkscape:cx="-2.6295533"
      inkscape:cy="5.08233"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
@@ -2914,7 +2914,7 @@
      inkscape:label="icon 1">
     <path
        id="path3708"
-       style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none;opacity:0.4"
+       style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none;opacity:0.5"
        d="M 7.5117188,0 A 0.51246643,0.51246643 0 0 0 7,0.51171875 V 4.1738281 l 2,2 V 3.4140625 L 10.585938,5 9.2050781,6.3808594 10.619141,7.7949219 13.414062,5 8.7070312,0.29296875 A 0.99963523,0.99963523 0 0 0 8,0 Z M 6.3769531,9.2089844 4.2929688,11.292969 c -0.3904234,0.390507 -0.3904234,1.023555 0,1.414062 0.390507,0.390424 1.0235554,0.390424 1.4140624,0 L 7,11.414062 v 4.072266 A 0.51373291,0.51373291 0 0 0 7.5136719,16 H 8 A 0.99963523,0.99963523 0 0 0 8.7070312,15.707031 L 10.791016,13.623047 9.3769531,12.208984 9,12.585938 v -0.75586 z" />
     <g
        style="shape-rendering:crispEdges"

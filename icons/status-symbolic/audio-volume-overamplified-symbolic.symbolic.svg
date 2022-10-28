@@ -1846,9 +1846,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="9.0377085"
-     inkscape:cy="8.4852814"
+     inkscape:zoom="16"
+     inkscape:cx="5.78125"
+     inkscape:cy="6.0625"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1918,14 +1918,14 @@
      transform="translate(1.0008429,1.0005)"
      style="opacity:1">
     <rect
-       style="opacity:0.4;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:0.5;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect6499"
        width="2"
        height="16"
        x="6.999157"
        y="-1.0005" />
     <rect
-       style="opacity:0.4;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:0.42;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect6523"
        width="2"
        height="16"
@@ -1937,7 +1937,7 @@
        d="m 5.9991571,0.9995 h -1 l -3,3 h -2 a 1,1 135 0 0 -1,1 v 4 a 1,1 45 0 0 1,1 h 2 l 3,3 h 1 z"
        sodipodi:nodetypes="ccccccccc" />
     <rect
-       style="opacity:0.4;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
+       style="opacity:0.35;fill:#000000;stroke:none;stroke-width:2;paint-order:markers stroke fill"
        id="rect7317"
        width="2"
        height="16"

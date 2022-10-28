@@ -1998,8 +1998,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="10"
-     inkscape:cy="8.40625"
+     inkscape:cx="7.703125"
+     inkscape:cy="7.40625"
      inkscape:document-units="pt"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -2088,18 +2088,23 @@
      inkscape:label="icon"
      transform="translate(1.0008429,1.0005)">
     <path
-       id="path8472"
-       style="opacity:0.5;fill:#000000;stroke:none;stroke-width:1.98963;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-       inkscape:transform-center-y="-6.2310185"
-       d="m 7.9667969,2 v 0.00195 C 5.0266522,2.0097393 2.1917067,3.0858395 0,5.0253906 L 1.6738281,7 H 14.326172 L 16,5.0253906 C 13.808293,3.0858393 10.973348,2.0097336 8.0332031,2.0019531 V 2 C 8.0221341,2.000626 8.011067,2.0012931 8,2.0019531 7.988933,2.0012936 7.9778661,2.000633 7.9667969,2 Z m -2.0546875,10 1.4667968,1.728516 c 0.3255117,0.382965 0.9166759,0.382965 1.2421876,0 L 10.087891,12 Z"
-       transform="translate(-1.0008429,-1.0005)"
-       sodipodi:nodetypes="ccccccccccccccc" />
+       id="path7420"
+       style="opacity:0.5;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.8;paint-order:markers stroke fill"
+       d="M 6.2675781 11 A 2 2 0 0 0 6 12 A 2 2 0 0 0 8 14 A 2 2 0 0 0 10 12 A 2 2 0 0 0 9.7324219 11 L 6.2675781 11 z "
+       transform="translate(-1.0008429,-1.0005)" />
     <g
-       id="path35577">
+       id="path21244"
+       style="opacity:1;stroke:none;fill:#000000">
       <path
-         style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none;paint-order:markers stroke fill"
-         d="M -1.0008431,6.9995 H 14.999157 V 9.9994996 H -1.0008431 Z"
-         id="path1215" />
+         style="color:#000000;fill:#000000;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+         d="M -1.0008429,4.9995003 H 14.999157 V 8.9994998 H -1.0008429 Z"
+         id="path21448" />
     </g>
+    <path
+       id="path6987"
+       style="color:#000000;opacity:0.5;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
+       d="M 7.9980469,2 C 5.2446031,2.0001207 2.6094798,3.0824408 0.65234375,5 H 4.0058594 C 5.2230999,4.35188 6.590063,4.0000617 7.9980469,4 9.406332,3.9999383 10.776157,4.3515634 11.994141,5 h 3.353515 C 13.390171,3.0825039 10.75152,1.9998793 7.9980469,2 Z"
+       transform="translate(-1.0008429,-1.0005)"
+       sodipodi:nodetypes="sccsccs" />
   </g>
 </svg>
